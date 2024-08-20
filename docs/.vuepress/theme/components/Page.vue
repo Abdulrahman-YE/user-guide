@@ -35,5 +35,5 @@ export default {
 .table-of-contents ul li:before
   content '\0023'
   position absolute
-  margin-left -16px
+  margin-right -16px
 </style>

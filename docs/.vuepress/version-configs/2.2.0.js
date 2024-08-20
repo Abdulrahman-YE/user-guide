@@ -47,7 +47,7 @@ module.exports = [
         ])
     },
     
-    [setVersionPrefix('attribute-family/attribute-families'), 'Attribute Family'],
+    [setVersionPrefix('attribute-family/attribute-families'), 'عائلة السمات'],
 
     {
         title: 'الطلبات',

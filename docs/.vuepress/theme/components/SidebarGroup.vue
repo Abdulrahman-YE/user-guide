@@ -84,7 +84,7 @@ export default {
 <style lang="stylus">
 .sidebar-group
   .sidebar-group
-    padding-left 0.5em
+    padding-right 0.5em
   &:not(.collapsable)
     .sidebar-heading:not(.clickable)
       cursor auto
@@ -96,17 +96,17 @@ export default {
       font-size 0.95em
       line-height 1.4
       font-weight normal
-      padding-left 2rem
+      padding-right 2rem
       &:not(.clickable)
         opacity 0.5
     & > .sidebar-group-items
-      padding-left 1rem
+      padding-right 1rem
       & > li > .sidebar-link
         font-size: 0.95em;
-        border-left none
+        border-right none
   &.depth-2
     & > .sidebar-heading
-      border-left none
+      border-right none
 
 .sidebar-heading
   color $textColor
@@ -115,22 +115,22 @@ export default {
   font-size 1.1em
   font-weight bold
   // text-transform uppercase
-  padding 0.35rem 1.5rem 0.35rem 1.25rem
+  padding 0.35rem 1.25rem 0.35rem 1.5rem
   width 100%
   box-sizing border-box
   margin 0
-  border-left 0.25rem solid transparent
+  border-right 0.25rem solid transparent
   &.open, &:hover
     color inherit
   .arrow
     position relative
     top -0.12em
-    left 0.5em
+    right 0.5em
   &.clickable
     &.active
       font-weight 600
       color $accentColor
-      border-left-color $accentColor
+      border-right-color $accentColor
     &:hover
       color $accentColor
 

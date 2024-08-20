@@ -104,7 +104,7 @@ $navbar-horizontal-padding = 1.5rem
   .logo
     height $navbarHeight - 1.4rem
     min-width $navbarHeight - 1.4rem
-    margin-right 0.8rem
+    margin-left 0.8rem
     vertical-align top
   .site-name
     font-size 1.3rem
@@ -112,26 +112,27 @@ $navbar-horizontal-padding = 1.5rem
     color $textColor
     position relative
   .links
-    padding-left 1.5rem
+    padding-right 1.5rem
     box-sizing border-box
     background-color white
     white-space nowrap
     font-size 0.9rem
     position absolute
-    right $navbar-horizontal-padding
+    left $navbar-horizontal-padding
     top $navbar-vertical-padding
     display flex
     .search-box
       flex: 0 0 auto
       vertical-align top
+      margin-left 1.5rem
 
 @media (max-width: $MQMobile)
   .navbar
-    padding-left 4rem
+    padding-right 4rem
     .can-hide
       display none
     .links
-      padding-left 1.5rem
+      padding-right 1.5rem
     .site-name
       width calc(100vw - 9.4rem)
       overflow hidden

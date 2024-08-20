@@ -40,5 +40,5 @@ export default {
   &.warning, &.warn, &.yellow
     background-color $badgeWarningColor
   & + &
-    margin-left 5px
+    margin-right 5px
 </style>

@@ -132,9 +132,9 @@ export default {
     display inline-block
     a
       color lighten($textColor, 25%)
-      margin-right 0.25rem
+      margin-left 0.25rem
   .last-updated
-    float right
+    float left
     font-size 0.9em
     .prefix
       font-weight 500
@@ -150,6 +150,6 @@ export default {
     .last-updated
       font-size 0.8em
       float none
-      text-align left
+      text-align right
 
 </style>

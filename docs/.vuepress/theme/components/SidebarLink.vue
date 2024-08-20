@@ -69,7 +69,7 @@ function renderLink (h, to, text, active, level) {
 
   if (level > 2) {
     component.style = {
-      'padding-left': level + 'rem'
+      'padding-right': level + 'rem'
     }
   }
 
@@ -103,7 +103,7 @@ function renderExternal (h, to, text) {
 
 <style lang="stylus">
 .sidebar .sidebar-sub-headers
-  padding-left 1rem
+  padding-tight 1rem
   font-size 0.95em
 
 a.sidebar-link
@@ -111,8 +111,8 @@ a.sidebar-link
   font-weight 400
   display inline-block
   color $textColor
-  border-left 0.25rem solid transparent
-  padding 0.35rem 1rem 0.35rem 1.25rem
+  border-tight 0.25rem solid transparent
+  padding 0.35rem 1.25rem 0.35rem 1rem
   line-height 1.4
   width: 100%
   box-sizing: border-box
@@ -121,13 +121,13 @@ a.sidebar-link
   &.active
     font-weight 600
     color $accentColor
-    border-left-color $accentColor
+    border-right-color $accentColor
   .sidebar-group &
-    padding-left 2rem
+    padding-right 2rem
   .sidebar-sub-headers &
     padding-top 0.25rem
     padding-bottom 0.25rem
-    border-left none
+    border-right none
     &.active
       font-weight 500
 </style>

@@ -173,17 +173,17 @@ export default {
   .nav-item
     position relative
     display inline-block
-    margin-left 1.5rem
+    margin-right 1.5rem
     line-height 2rem
     &:first-child
-      margin-left 0
+      margin-right 0
   .repo-link
-    margin-left 1.5rem
+    margin-right 1.5rem
 
 @media (max-width: $MQMobile)
   .nav-links
     .nav-item, .repo-link
-      margin-left 0
+      margin-right 0
 
 @media (min-width: $MQMobile)
   .nav-links a
