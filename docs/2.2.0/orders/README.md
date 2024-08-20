@@ -1,28 +1,27 @@
-# Manage Orders
+# إدارة الطلبات
 
-### Order
+### الطلب
 
-The order is created when a customer goes to your website, selects some product, and then places a request for it. Here we are going to discuss how to manage orders in Bagisto.
+يتم إنشاء الطلب عندما يقوم عميل بزيارة موقعك، واختيار منتج ما، ثم تقديم طلب له. هنا سنناقش كيفية إدارة الطلبات في Bagisto.
 
-When a customer places an order from the front end, on the admin panel, the order status is generated from where the admin can further process the order.
+عندما يقوم العميل بتقديم طلب من الواجهة الأمامية، يتم إنشاء حالة الطلب في لوحة الإدارة حيث يمكن للإدارة معالجة الطلب لاحقًا.
 
-Order processing is one of the critical aspects of e-commerce business. Such activities as creating orders/create invoices/create shipments, and refunds (if necessary), should always be organized logically.
+تعتبر معالجة الطلبات واحدة من الجوانب الأساسية في أعمال التجارة الإلكترونية. يجب دائمًا تنظيم الأنشطة مثل إنشاء الطلبات / إنشاء الفواتير / إنشاء الشحنات، واسترداد المبالغ (إذا لزم الأمر) بشكل منطقي.
 
-### Invoice
+### الفاتورة
 
-An invoice is used to confirm an e-commerce transaction and provide a detailed order confirmation to customers. That said, some business-to-business merchants may offer credit—the order will be placed first and the invoice will be sent later to ask for payment
+تستخدم الفاتورة لتأكيد معاملة التجارة الإلكترونية وتوفير تأكيد تفصيلي للطلب للعملاء. ومع ذلك، قد يقدم بعض التجار في الأعمال التجارية بين الشركات الائتمان—سيتم تقديم الطلب أولاً وسيتم إرسال الفاتورة لاحقًا لطلب الدفع.
 
-An itemized commercial document that records the products or services delivered to the customer, the total amount due, and the preferred payment method. The seller can send either paper or electronic invoices to the customer. It is a document that is used to record a transaction between a buyer and a seller. It contains information about the item and its price, tax charges associated with it, etc.
+وثيقة تجارية مفصلة تسجل المنتجات أو الخدمات المقدمة للعميل، والمبلغ الإجمالي المستحق، وطريقة الدفع المفضلة. يمكن للبائع إرسال فواتير ورقية أو إلكترونية للعميل. إنها وثيقة تستخدم لتسجيل معاملة بين المشتري والبائع. تحتوي على معلومات حول العنصر وسعره، والضرائب المرتبطة به، إلخ.
 
-### Shipment
+### الشحن
 
-Shipment is a process whereby goods are shipped using the Internet as the primary means of communication. It is a convenient way of shipping for both consumers and businesses alike, as it offers a quick and easy way to send items from one location to another.
+الشحن هو عملية يتم من خلالها شحن البضائع باستخدام الإنترنت كوسيلة الاتصال الرئيسية. إنها طريقة مريحة للشحن لكل من المستهلكين والشركات، حيث توفر وسيلة سريعة وسهلة لإرسال العناصر من موقع إلى آخر.
 
-“Shipping” denotes the processing, packaging, and dispatching of small items that can be sent quickly and easily, typically through a local courier service.
+تشير كلمة "الشحن" إلى معالجة وتعبئة وإرسال العناصر الصغيرة التي يمكن إرسالها بسرعة وسهولة، عادةً من خلال خدمة توصيل محلية.
 
-### Refund
+### الاسترداد
 
-Typically, e-commerce stores offer 15- to 30 days in which customers can return a product and ask for a refund. Some businesses extend that period up to 90 days. Regardless of the time frame you choose, ensuring that you have a time frame is essential.
+عادةً ما تقدم متاجر التجارة الإلكترونية فترة تتراوح بين 15 إلى 30 يومًا يمكن للعملاء خلالها إعادة منتج وطلب استرداد. بعض الشركات تمدد هذه الفترة إلى 90 يومًا. بغض النظر عن الإطار الزمني الذي تختاره، فإن ضمان وجود إطار زمني أمر أساسي.
 
-A customer who bought an item may ask the store for their money back if it didn't fit according to their choice. you may ask for them to return your money.
-
+يمكن للعميل الذي اشترى عنصرًا ما أن يطلب من المتجر استرداد أمواله إذا لم يتناسب مع اختياره. يمكنك أن تطلب منهم إعادة أموالك.

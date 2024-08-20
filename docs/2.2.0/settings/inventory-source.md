@@ -1,53 +1,53 @@
-# Inventory Source
+# مصدر المخزون
 
-Multi-Warehouse Inventory is one of the unique features of Bagisto. Here we will explain how you can manage multi-warehouse inventory in Laravel eCommerce and provide reliable service to your customer. Having a single inventory source can pose some restrictions for your eCommerce store.
+إدارة المخزون متعدد المستودعات هي واحدة من الميزات الفريدة في Bagisto. هنا سنشرح كيف يمكنك إدارة المخزون متعدد المستودعات في Laravel eCommerce وتقديم خدمة موثوقة لعملائك. وجود مصدر مخزون واحد يمكن أن يفرض بعض القيود على متجرك الإلكتروني.
 
-For instance, suppose you have only one inventory in Delhi. A Customer from Chennai has ordered some products. So delivering that product from the Delhi location can have some impacts like delay in delivery of the product, increased transportation cost, etc. However, if you have an inventory in Chennai, then the product will reach the customer very quickly which will further cut down the time and shipping cost. 
+على سبيل المثال، افترض أن لديك مخزونًا واحدًا فقط في دلهي. طلب عميل من تشيناي بعض المنتجات. لذا، يمكن أن يؤدي تسليم هذا المنتج من موقع دلهي إلى تأثيرات مثل تأخير في التسليم، وزيادة في تكاليف النقل، إلخ. ومع ذلك، إذا كان لديك مخزون في تشيناي، فسيصل المنتج إلى العميل بسرعة كبيرة مما سيوفر الوقت وتكاليف الشحن.
 
-By using Multi-Warehouse Inventory you can easily manage all inventory sources. In Bagisto, you can create as many inventory sources and easily manage them.
+باستخدام إدارة المخزون متعدد المستودعات، يمكنك بسهولة إدارة جميع مصادر المخزون. في Bagisto، يمكنك إنشاء العديد من مصادر المخزون وإدارتها بسهولة.
 
-### Easy step to managing your inventory in Bagisto 2.2.0
+### خطوات سهلة لإدارة المخزون الخاص بك في Bagisto 2.2.0
 
-**Step 1:** On the Admin panel of Bagisto click on **Setting >> Inventory Sources >> Create Inventory Source** as shown in the below image.
+**الخطوة 1:** في لوحة الإدارة الخاصة بـ Bagisto، انقر على **الإعدادات >> مصادر المخزون >> إنشاء مصدر مخزون** كما هو موضح في الصورة أدناه.
 
-  ![Inventory Source](../../assets/2.2.0/images/settings/inventorySource.png)
+![Inventory Source](../../assets/2.2.0/images/settings/inventorySource.png)
 
-**Step 2:** **General**
+**الخطوة 2:** **عام**
 
-Enter the **Code, Name, Description, Latitude, Longitude, and Priority**, and set the **Status** active.
+أدخل **الرمز، الاسم، الوصف، خطوط العرض، خطوط الطول، والأولوية**، واضبط **الحالة** على نشط.
 
 ![Inventory Configuration](../../assets/2.2.0/images/settings/inventoryConfiguration.png)
 
-**Step 3:** **Contact Information**
+**الخطوة 3:** **معلومات الاتصال**
 
-You have to enter a **Name, Email, Fax, Contact Number**  
+يجب عليك إدخال **الاسم، البريد الإلكتروني، الفاكس، ورقم الاتصال**.
 
 ![Contact Info](../../assets/2.2.0/images/settings/contactInfo.png)
 
-**Step 4:** **Source Address**
+**الخطوة 4:** **عنوان المصدر**
 
-You have to enter the source address like country, address, state, city, etc of your inventory.
+يجب عليك إدخال عنوان المصدر مثل البلد، والعنوان، والولاية، والمدينة، إلخ لمخزونك.
 
 ![Source Address](../../assets/2.2.0/images/settings/sourceAddress.png)
 
-After that, you need to click on **Save Inventory Source**. So now you will able to see our new inventory source is been created successfully as shown in the below image.
+بعد ذلك، تحتاج إلى النقر على **حفظ مصدر المخزون**. الآن ستتمكن من رؤية مصدر المخزون الجديد الذي تم إنشاؤه بنجاح كما هو موضح في الصورة أدناه.
 
 ![Inventory Output](../../assets/2.2.0/images/settings/inventoryOutput.png)
 
-**Step 5:** Click on **Setting >> Channel**. Open the selected channel in **Edit Mode >> Inventory Sources**. This is the multi-select type where you can select multiple inventory sources for your channels. After that, click **Save Channel**.
+**الخطوة 5:** انقر على **الإعدادات >> القناة**. افتح القناة المحددة في **وضع التعديل >> مصادر المخزون**. هذه نوعية متعددة الاختيار حيث يمكنك اختيار مصادر مخزون متعددة لقنواتك. بعد ذلك، انقر على **حفظ القناة**.
 
-### Inventory Setting on the Product Page
+### إعداد المخزون في صفحة المنتج
 
-Click on **Catalog >> Products.** Open the selected product in **Edit Mode** and enter the **quantity** in each inventory source. At last, after filling up the necessary fields, click **Save Product Note:-** If you do not enter any quantity, by default 0 is saved, and having 0 quantity inventory will be not visible in the inventory option on the shipment page.
+انقر على **الكتالوج >> المنتجات**. افتح المنتج المحدد في **وضع التعديل** وأدخل **الكمية** في كل مصدر مخزون. في النهاية، بعد ملء الحقول الضرورية، انقر على **حفظ المنتج**. **ملاحظة:** إذا لم تقم بإدخال أي كمية، سيتم حفظ 0 بشكل افتراضي، ووجود مخزون بكمية 0 لن يظهر في خيار المخزون في صفحة الشحن.
 
 ![Product Inventory](../../assets/2.2.0/images/settings/productInventory.png)
 
-### Inventory Setting on the Shipment Page
+### إعداد المخزون في صفحة الشحن
 
-Click on **Sales >> Orders**. Open the selected order in **Edit Mode >> Invoice >> Save Invoice >> Ship** Under the Product Ordered Section, Admin can decide from which inventory they want to deliver the product.
+انقر على **المبيعات >> الطلبات**. افتح الطلب المحدد في **وضع التعديل >> الفاتورة >> حفظ الفاتورة >> الشحن**. تحت قسم المنتجات المطلوبة، يمكن للمسؤول أن يقرر من أي مخزون يريد تسليم المنتج.
 
 ![Inventory Setting](../../assets/2.2.0/images/settings/inventorySetting.png)
 
-**Note:-** You can enable only one Inventory at a  time when you select one inventory rest inventory will be automatically disabled. For example, I selected Noida Warehouse so another inventory will be disabled. Enter the quantity to ship and **Create Shipment**.
+**ملاحظة:** يمكنك تمكين مخزون واحد فقط في كل مرة. عند اختيار مخزون واحد، سيتم تعطيل باقي المخزون تلقائيًا. على سبيل المثال، إذا اخترت مستودع نويدا، فسيتم تعطيل المخزون الآخر. أدخل الكمية للشحن و**إنشاء شحنة**.
 
-So by this you can easily create **Inventory Sources** in Bagisto. 
+لذا، يمكنك بسهولة إنشاء **مصادر المخزون** في Bagisto.

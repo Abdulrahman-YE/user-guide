@@ -1,123 +1,127 @@
-# Search & SEO
+# البحث و SEO
 
-Bagisto 2.2.0 introduces new marketing tools to elevate your store’s visibility and improve customer experience.
+تقدم Bagisto 2.2.0 أدوات تسويقية جديدة لزيادة رؤية متجرك وتحسين تجربة العملاء.
 
-## URL Rewrite
+## إعادة كتابة عنوان URL
 
-This feature allows the admin to manage errors related to product, category, and CMS URLs.
+تتيح هذه الميزة للإدارة إدارة الأخطاء المتعلقة بعناوين URL للمنتجات والفئات وصفحات CMS.
 
-If an admin modifies their URL for any reason, this functionality ensures seamless redirection to the new path URL.
+إذا قام المدير بتعديل عنوان URL لأي سبب، تضمن هذه الوظيفة إعادة التوجيه بسلاسة إلى عنوان URL الجديد.
 
-**Step 1:** To check this feature the admin needs to click **Marketing >> Search & SEO >> URL Rewrites** now click on **Create URL Rewrite** button as shown in the below image.
+**الخطوة 1:** للتحقق من هذه الميزة، يحتاج المدير للنقر على **التسويق >> البحث و SEO >> إعادة كتابة عنوان URL**، ثم انقر على زر **إنشاء إعادة كتابة عنوان URL** كما هو موضح في الصورة أدناه.
 
- ![URL Rewrite](../../assets/2.2.0/images/marketing/urlRewrite.png)
+![URL Rewrite](../../assets/2.2.0/images/marketing/urlRewrite.png)
 
-**Step 2:** Add the below fields:
 
-**1) For** - Select the FOR for which you are applying the URL Rewrite (Product, Category, CMS Page).
+**الخطوة 2:** أضف الحقول التالية:
 
-**2) Request Path** - For Request Path, replace the default by entering the URL key and suffix (if applicable) of the original product request. This is the redirect from a product that you identified in the planning step. 
+**1) لـ** - اختر الغرض الذي تطبق عليه إعادة كتابة عنوان URL (منتج، فئة، صفحة CMS).
 
-**3) Target Path** - The Target Path field displays the system version of the path, which cannot be changed. Initially, the Redirect Path field also displays the target path.
+**2) مسار الطلب** - بالنسبة لمسار الطلب، استبدل الافتراضي بإدخال مفتاح URL واللاحقة (إن وجدت) لطلب المنتج الأصلي. هذا هو إعادة التوجيه من منتج حددته في خطوة التخطيط.
 
-**4) Redirect Type** - Set Redirect Type to one of the following:
+**3) مسار الهدف** - يعرض حقل مسار الهدف الإصدار النظامي للمسار، والذي لا يمكن تغييره. في البداية، يعرض حقل مسار إعادة التوجيه أيضًا مسار الهدف.
 
-A) Temporary (302) - Use this for temporary changes, keeping SEO value with the old URL.
+**4) نوع إعادة التوجيه** - حدد نوع إعادة التوجيه ليكون واحدًا من التالي:
 
-B) Permanent (301) - Use this for permanent changes with SEO value transfer to the new URL
+A) مؤقت (302) - استخدم هذا للتغييرات المؤقتة، مع الحفاظ على قيمة SEO مع عنوان URL القديم.
 
-**5) Locale** - Select the language in which you want the URL to be rewritten.
+B) دائم (301) - استخدم هذا للتغييرات الدائمة مع نقل قيمة SEO إلى عنوان URL الجديد.
 
-Now click on the **Save URL Rewrite** button.
+**5) اللغة** - اختر اللغة التي تريد إعادة كتابة عنوان URL بها.
 
- ![URL Fields](../../assets/2.2.0/images/marketing/urlFields.png)
+الآن انقر على زر **حفظ إعادة كتابة عنوان URL**.
 
-**Step 3:** Now the New URL is redirected as per the Target path permanently.
+![URL Fields](../../assets/2.2.0/images/marketing/urlFields.png)
 
- ![URL Output](../../assets/2.2.0/images/marketing/urlOutput.png)
 
-## Search Terms
+**الخطوة 3:** الآن يتم إعادة توجيه عنوان URL الجديد وفقًا لمسار الهدف بشكل دائم.
 
-These are the Keywords that have been used by your customers on the storefront to search for their products.
+![URL Output](../../assets/2.2.0/images/marketing/urlOutput.png)
 
-**Step 1:** For creating a new search term go to the admin panel needs to click **Marketing >> Search & SEO >> Search Terms** now click on the **Create Search Term** button as shown in the below image.
 
- ![Search Term](../../assets/2.2.0/images/marketing/searchTerm.png)
+## مصطلحات البحث
 
-**Step 2:** Add the Below fields of the Search Terms:
+هذه هي الكلمات الرئيسية التي استخدمها عملاؤك في واجهة المتجر للبحث عن منتجاتهم.
 
-**1) Search Query** - Type the query of a product name that a customer will search from the storefront
+**الخطوة 1:** لإنشاء مصطلح بحث جديد، يحتاج المدير للنقر على **التسويق >> البحث و SEO >> مصطلحات البحث**، ثم انقر على زر **إنشاء مصطلح بحث** كما هو موضح في الصورة أدناه.
 
-**2) Redirect URL** - Add the URL that the search term will get redirected.
+![Search Term](../../assets/2.2.0/images/marketing/searchTerm.png)
 
-**3) Channel** - Add the channel at which the Search terms will be visible.
+**الخطوة 2:** أضف الحقول التالية لمصطلحات البحث:
 
-**4) Locale** - Select the language in which you want the Search Terms.
+**1) استعلام البحث** - اكتب استعلام اسم المنتج الذي سيبحث عنه العميل في واجهة المتجر.
 
-Now click on the **Save Search Term** button.
+**2) عنوان URL المعاد توجيهه** - أضف عنوان URL الذي سيتم إعادة توجيه مصطلح البحث إليه.
 
- ![Search Field](../../assets/2.2.0/images/marketing/searchField.png)
+**3) القناة** - أضف القناة التي ستظهر فيها مصطلحات البحث.
 
-**Step 3:** A new search field by the name of **Adorable** is created successfully as shown in the below image.
+**4) اللغة** - اختر اللغة التي تريد بها مصطلحات البحث.
 
- ![Search Grid](../../assets/2.2.0/images/marketing/searchGrids.png)
+الآن انقر على زر **حفظ مصطلح البحث**.
 
-**Step 4:** Frontend
+![Search Field](../../assets/2.2.0/images/marketing/searchField.png)
 
-Now check the result by searching your search term.
+**الخطوة 3:** تم إنشاء حقل بحث جديد باسم **Adorable** بنجاح كما هو موضح في الصورة أدناه.
 
- ![Frontend Output](../../assets/2.2.0/images/marketing/frontendOutput.png)
+![Search Grid](../../assets/2.2.0/images/marketing/searchGrids.png)
 
-## Search Synonyms
 
-Search Synonyms are those terms that the customer is searching in place of a particular product. For eg. if the customer wants footwear for that they can search shoe to formal shoes, sports shoes, party wear shoes, etc it will search for those with ease. 
+**الخطوة 4:** الواجهة الأمامية
 
-**Step 1:** For creating a new search term go to admin panel needs to click **Marketing >> Search & SEO >> Search Synonyms** now click on the **Create Search Synonyms** button as shown in the below image.
+الآن تحقق من النتيجة من خلال البحث عن مصطلح البحث الخاص بك.
 
- ![Search Synonym](../../assets/2.2.0/images/marketing/searchSynonym.png)
+![Frontend Output](../../assets/2.2.0/images/marketing/frontendOutput.png)
 
-**Step 2:** Enter the below fields:
+## مرادفات البحث
 
-**1) Name** - Enter the name of the synonym.
+مرادفات البحث هي تلك المصطلحات التي يبحث عنها العميل بدلاً من منتج معين. على سبيل المثال، إذا كان العميل يريد أحذية، يمكنه البحث عن "حذاء" ليشمل الأحذية الرسمية، رياضية، أحذية للحفلات، إلخ، وسيتم البحث عنها بسهولة.
 
-**2) Terms** Enter the related terms which belong to the name.
+**الخطوة 1:** لإنشاء مصطلح بحث جديد، يحتاج المدير للنقر على **التسويق >> البحث و SEO >> مرادفات البحث**، ثم انقر على زر **إنشاء مرادفات البحث** كما هو موضح في الصورة أدناه.
 
- ![Search Synonym Fields](../../assets/2.2.0/images/marketing/synonymField.png)
+![Search Synonym](../../assets/2.2.0/images/marketing/searchSynonym.png)
 
-Now click on the **Save Search Synonym** button.
 
-**Step 3:** A new synonym field by the name of **shoe** is created successfully as shown in the below image.
+**الخطوة 2:** أدخل الحقول التالية:
 
- ![Synonym Grid](../../assets/2.2.0/images/marketing/synonymGrid.png)
+**1) الاسم** - أدخل اسم المرادف.
 
-**Step 4:** Frontend 
+**2) المصطلحات** - أدخل المصطلحات ذات الصلة التي تنتمي إلى الاسم.
 
-Now check the result by searching your search synonym this contains all the categories of the shoes as shown in the below image.
+![Search Synonym Fields](../../assets/2.2.0/images/marketing/synonymField.png)
 
- ![Synonym Output](../../assets/2.2.0/images/marketing/synonymOutput.png)
+الآن انقر على زر **حفظ مرادف البحث**.
 
-## Sitemaps
+**الخطوة 3:** تم إنشاء حقل مرادف جديد باسم **shoe** بنجاح كما هو موضح في الصورة أدناه.
 
-Sitemaps inform search engines which pages on a website should be crawled, and may help search engines discover and index those pages. While sitemaps can be a simple text file listing the URLs of all of the pages you'd like to have indexed, they can also be an XML document carrying more information.
+![Synonym Grid](../../assets/2.2.0/images/marketing/synonymGrid.png)
 
-### Step 1: Add New Sitemap
+**الخطوة 4:** الواجهة الأمامية
 
-1. On Admin panel, go to **Marketing >> Search & SEO >> Sitemaps** click on **Create Sitemap** as shown in below image
+الآن تحقق من النتيجة من خلال البحث عن مرادف البحث الخاص بك، الذي يحتوي على جميع فئات الأحذية كما هو موضح في الصورة أدناه.
 
- ![Create Sitemap](../../assets/2.2.0/images/marketing/createSitemap.png)
+![Synonym Output](../../assets/2.2.0/images/marketing/synonymOutput.png)
+## خرائط الموقع
 
-### Step 2: Add New Sitemap
+تقوم خرائط الموقع بإبلاغ محركات البحث عن الصفحات الموجودة على موقع الويب التي يجب زحفها، وقد تساعد محركات البحث في اكتشاف وفهرسة تلك الصفحات. بينما يمكن أن تكون خرائط الموقع ملف نصي بسيط يدرج عناوين URL لجميع الصفحات التي ترغب في فهرستها، يمكن أن تكون أيضًا مستند XML يحمل مزيدًا من المعلومات.
 
-Add **File Name** and **File Path** and click the **Save Sitemap** button.
+### الخطوة 1: إضافة خريطة موقع جديدة
 
-Kindle make sure you created a **XML file** and mention its desired path as shown below.
+1. في لوحة الإدارة، انتقل إلى **التسويق >> البحث و SEO >> خرائط الموقع**، ثم انقر على **إنشاء خريطة موقع** كما هو موضح في الصورة أدناه.
 
- ![Save Sitemap](../../assets/2.2.0/images/marketing/saveSitemap.png)
+![Create Sitemap](../../assets/2.2.0/images/marketing/createSitemap.png)
 
-### Step 3: 
+### الخطوة 2: إضافة خريطة موقع جديدة
 
-Now you will able to see the new **Sitemap** as shown below.
+أضف **اسم الملف** و **مسار الملف** ثم انقر على زر **حفظ خريطة الموقع**.
 
- ![Sitemap](../../assets/2.2.0/images/marketing/sitemapOutput.png)
+تأكد من أنك أنشأت **ملف XML** واذكر مساره المطلوب كما هو موضح أدناه.
 
-By this, you can easily create a **Sitemap** in Bagisto 2.2.0
+![Save Sitemap](../../assets/2.2.0/images/marketing/saveSitemap.png)
+
+### الخطوة 3: 
+
+الآن ستتمكن من رؤية **خريطة الموقع** الجديدة كما هو موضح أدناه.
+
+![Sitemap](../../assets/2.2.0/images/marketing/sitemapOutput.png)
+
+بهذا، يمكنك بسهولة إنشاء **خريطة موقع** في Bagisto 2.2.0

@@ -1,8 +1,8 @@
-# Attribute
+# السمة
 
-An *Attribute* is a specification or characteristic of a product, for example, Color, Size, and Pattern are attributes of a T-Shirt. You can also create many attributes for a single product. Product attributes play a major role in the buying decision of the customer.
-Attributes determine the type of input control that is used for product options, and provide additional information for product pages.They are also used as search parameters and criteria for layered navigation, product comparison reports, and promotions. You can create as many **attributes** and **attribute families** as necessary to describe the products in your catalog in Bagisto.
+*السمة* هي مواصفة أو خاصية لمنتج، على سبيل المثال، اللون، الحجم، والنمط هي سمات للتي شيرت. يمكنك أيضًا إنشاء العديد من السمات لمنتج واحد. تلعب سمات المنتج دورًا رئيسيًا في قرار الشراء للعميل.  
+تحدد السمات نوع عناصر الإدخال المستخدمة لخيارات المنتج، وتوفر معلومات إضافية لصفحات المنتجات. كما تُستخدم كمعلمات بحث ومعايير للتنقل المتداخل، وتقارير مقارنة المنتجات، والعروض الترويجية. يمكنك إنشاء العديد من **السمات** و**عائلات السمات** حسب الحاجة لوصف المنتجات في كتالوجك في Bagisto.
 
-Attributes can have different input types that determine not only how you enter the values for the attribute, but also how shoppers can select attributes in the case of options, or enter values.
+يمكن أن تحتوي السمات على أنواع إدخال مختلفة تحدد ليس فقط كيفية إدخال القيم للسمة، ولكن أيضًا كيفية اختيار المتسوقين للسمات في حالة الخيارات، أو إدخال القيم.
 
-Product Attributes are a set of characteristics that define a particular product or a group of goods. This means size, color, flavor, package type, etc. constitute attributes. Product attributes are not just about the general description of a product, but it speaks the value of products that makes it unique.
+سمات المنتج هي مجموعة من الخصائص التي تحدد منتجًا معينًا أو مجموعة من السلع. وهذا يعني أن الحجم، اللون، النكهة، نوع العبوة، إلخ. تشكل السمات. سمات المنتج ليست فقط حول الوصف العام للمنتج، ولكنها تعكس قيمة المنتجات التي تجعلها فريدة.

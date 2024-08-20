@@ -1,438 +1,434 @@
-# Configure
+# إعدادات او التكوين
 
-Generally, a configuration is the arrangement - or the process of making the arrangement - of the parts that make up a whole.
+بشكل عام، الإعدادات او التكوين هي ترتيب - أو عملية ترتيب - الأجزاء التي تشكل الكل.
 
-How the parts of something, or a group of things, are arranged.
+كيف يتم ترتيب أجزاء شيء ما، أو مجموعة من الأشياء.
 
-## Magic AI
+## الذكاء الاصطناعي السحري
 
-To add Magic AI go to Admin Panel and go to **Configure >> General >> Magic AI** as shown in the below image.
+لإضافة الذكاء الاصطناعي السحري، اذهب إلى لوحة الإدارة وانتقل إلى **تكوين >> عام >> الذكاء الاصطناعي السحري** كما هو موضح في الصورة أدناه.
 
  ![Magic](../../assets/2.2.0/images/configure/magic.png)
 
-1) If you want to enable it for the **Content Generation** kindly enable it from here.
+1) إذا كنت ترغب في تفعيله لـ **توليد المحتوى**، يرجى تفعيله من هنا.
 
  ![Magic Content](../../assets/2.2.0/images/configure/content.png)
 
-2) Kindly Enable it for the **Image Generation** from here.
+2) يرجى تفعيله لـ **توليد الصور** من هنا.
 
 ![Magic Image](../../assets/2.2.0/images/configure/imageMagic.png)
 
-3) For **Review Translation** add you model and Enable it as shown in the below image.
+3) لـ **ترجمة المراجعات**، أضف النموذج وقم بتفعيله كما هو موضح في الصورة أدناه.
 
 ![Magic Review](../../assets/2.2.0/images/configure/reviewMagic.png)
 
-4) For the **Personalized Checkout Message** Enable it and add the model.
+4) لـ **رسالة الخروج المخصصة**، قم بتفعيلها وأضف النموذج.
 
 ![Magic Personalized Checkout](../../assets/2.2.0/images/configure/personalizedCheckout.png)
 
-## Weight Unit
+## وحدة الوزن
 
-**1)** To add Weight Unit go to the Admin panel and go to **Configure >> General**.Next, select the **Weight Unit** from dropdown **lbs or kgs** according to your requirement and click on the **Save Configuration** button as shown in the below image.
+**1)** لإضافة وحدة الوزن، اذهب إلى لوحة الإدارة وانتقل إلى **تكوين >> عام**. ثم اختر **وحدة الوزن** من القائمة المنسدلة **رطل أو كيلوجرام** حسب احتياجك، وانقر على زر **حفظ التكوين** كما هو موضح في الصورة أدناه.
 
  ![Weight](../../assets/2.2.0/images/configure/weight.png)
 
-## Configurable Choices.
+## الخيارات القابلة للتكوين.
 
-Settings refer to configurable choices that control how a system, application, or device behaves, tailored to user preferences and requirements.
+تشير الإعدادات إلى الخيارات القابلة للتكوين التي تتحكم في كيفية تصرف نظام أو تطبيق أو جهاز، مخصصة وفقًا لتفضيلات ومتطلبات المستخدم.
 
-**1)** Now to add Weight Unit go to the Admin panel and go to **Configure >> Content**.Next, you will able to see the below options.
+**1)** الآن لإضافة وحدة الوزن، اذهب إلى لوحة الإدارة وانتقل إلى **تكوين >> محتوى**. ثم ستتمكن من رؤية الخيارات أدناه.
 
-**Compare Options** - By this, you can easily compare your products.
+**خيارات المقارنة** - من خلال هذا، يمكنك بسهولة مقارنة منتجاتك.
 
-**Wishlist Option** - This helps to add the functionality of Wishlist. 
+**خيار قائمة الرغبات** - يساعد ذلك في إضافة وظيفة قائمة الرغبات.
 
-**Image Search Option** - This option helps to search your image.
+**خيار البحث عن الصور** - يساعد هذا الخيار في البحث عن صورتك.
 
  ![Options](../../assets/2.2.0/images/configure/options.png)
 
-After clicking on the **Save Configuration** button.
+بعد النقر على زر **حفظ التكوين**.
 
-## Custom Scripts
+## البرامج النصية المخصصة
 
-Custom scripts are personalized pieces of code created to add specific functions or features to the software, enhancing its capabilities uniquely.
+البرامج النصية المخصصة هي قطع شخصية من الشيفرة البرمجية التي تم إنشاؤها لإضافة وظائف أو ميزات محددة إلى البرنامج، مما يعزز قدراته بشكل فريد.
 
-Here, in this specified section CSS and JS Admin can write the code. And in last, it will automatically append the code to the master file.
+هنا، في هذا القسم المحدد، يمكن لمشرف النظام كتابة الشيفرة. وفي النهاية، سيتم إضافة الشيفرة تلقائيًا إلى الملف الرئيسي.
 
-**1)** Now to add **Custom Scripts** go to the Admin panel go to **Configure >> Content**.Next you will able to see the below options.
+**1)** الآن لإضافة **البرامج النصية المخصصة**، اذهب إلى لوحة الإدارة وانتقل إلى **تكوين >> محتوى**. ثم ستتمكن من رؤية الخيارات أدناه.
 
-### Custom CSS
+### CSS مخصص
 
-We have used a background color by **Light Blue** and saved the Configurations.
+لقد استخدمنا لون خلفية **أزرق فاتح** وحفظنا التكوينات.
 
  ![CSS](../../assets/2.2.0/images/configure/css.png)
 
-Now the storefront background color has changed as shown below image.
+الآن تغير لون خلفية المتجر كما هو موضح في الصورة أدناه.
 
  ![CSS](../../assets/2.2.0/images/configure/cssOutput.png)
 
-### Custom JS
+### JS مخصص
 
-You can apply javascript also according to your requirement and click on the **Save Configuration** button.
+يمكنك أيضًا تطبيق جافا سكريبت وفقًا لاحتياجاتك، وانقر على زر **حفظ التكوين**.
 
  ![JS](../../assets/2.2.0/images/configure/js.png)
 
-After clicking on the **Save Configuration** button. 
+بعد النقر على زر **حفظ التكوين**.
 
-## Design 
+## التصميم 
 
-Admin logo is the distinctive image or emblem representing the administration interface of a system or website, often customizable.
+شعار الإدارة هو الصورة أو الرمز المميز الذي يمثل واجهة الإدارة لنظام أو موقع ويب، وغالبًا ما يكون قابلًا للتخصيص.
 
-To add **Designs** like **Admin logo, Favicon** go to the Admin Panel and click on **Configure >> Design** and you can easily update a new logo image and favicon from here. click on the **Choose Files**  option to select an image last click on the **Save Configuration** button.
+لإضافة **تصميمات** مثل **شعار الإدارة، والرمز المفضل**، اذهب إلى لوحة الإدارة وانقر على **تكوين >> التصميم** ويمكنك بسهولة تحديث صورة شعار جديدة ورمز مفضل من هنا. انقر على خيار **اختيار الملفات** لاختيار صورة ثم انقر على زر **حفظ التكوين**.
 
  ![Design](../../assets/2.2.0/images/configure/design.png)
 
-The new **Admin Logo** and **Favicon** images are updated.
+تم تحديث صور **شعار الإدارة** و**الرمز المفضل**.
 
  ![Design Output](../../assets/2.2.0/images/configure/designOutput.png)
 
-## Back Orders
+## الطلبات المتأخرة
 
-A backorder is an order for a good or service that cannot be filled immediately because of a lack of available supply. Backorders give insight into a company's inventory management. 
+الطلب المتأخر هو طلب لسلعة أو خدمة لا يمكن تلبيته على الفور بسبب نقص في العرض المتاح. تعطي الطلبات المتأخرة نظرة على إدارة مخزون الشركة.
 
-A manageable backorder with a short turnaround is a net positive, but a large backorder with longer wait times can be problematic.
+يمكن إدارة الطلب المتأخر بشكل جيد مع فترة انتظار قصيرة بشكل إيجابي، ولكن الطلب المتأخر الكبير مع فترات انتظار أطول قد يكون مشكلة.
 
-You can easily manage **Backorders** by going to the Admin Panel and clicking on **Configure >> Inventory**.
+يمكنك بسهولة إدارة **الطلبات المتأخرة** من خلال الذهاب إلى لوحة الإدارة والنقر على **تكوين >> المخزون**.
 
-There is an option present to **Enable or Disable** a Backorder and then click on **Save Configuration** as shown below.
+يوجد خيار **لتمكين أو تعطيل** الطلب المتأخر ثم انقر على **حفظ التكوين** كما هو موضح أدناه.
 
  ![Back Orders](../../assets/2.2.0/images/configure/backorder.png)
 
-**Note:- If the product is Out of Stock then also customer is able to Place an Order after Enabling the Backorder Option**
+**ملاحظة:** إذا كان المنتج غير متوفر، يمكن للعميل أيضًا تقديم طلب بعد تمكين خيار الطلب المتأخر.
 
  ![Out Of Stock](../../assets/2.2.0/images/configure/outofstock.png)
 
-In the above image these products are **Out of Stock** but you can still able to Add the product to the Cart and **Place an Order**.
+في الصورة أعلاه، هذه المنتجات **غير متوفرة** ولكن يمكنك لا تزال إضافة المنتج إلى السلة و**تقديم الطلب**.
 
  ![Out Of Stock](../../assets/2.2.0/images/configure/backorderOutput.png)
 
  ![Order ID](../../assets/2.2.0/images/configure/orderID.png)
+## الدفع كضيف
 
-## Guest Checkout
+يسمح الدفع كضيف للعملاء بشراء المنتجات دون إنشاء حساب، مما يسهل عملية الشراء لراحة وسرعة أكبر في المعاملات.
 
-Guest checkout allows customers to buy products without creating an account, streamlining the purchase process for convenience and faster transactions.
-
-To manage Guest checkout go to Admin Panel and click on **Configure >> Products**.You can see an option of **Enable or Disable** of Guest Checkout and then click the **Save Configuration** button.
+لإدارة الدفع كضيف، اذهب إلى لوحة الإدارة وانقر على **تكوين >> المنتجات**. يمكنك رؤية خيار **تمكين أو تعطيل** الدفع كضيف ثم انقر على زر **حفظ التكوين**.
 
  ![Guest Checkout](../../assets/2.2.0/images/configure/guestCheckout.png)
 
-## Product View Page
+## صفحة عرض المنتج
 
-Product view page configuration entails adjusting the layout and elements on a product's display page, enhancing user experience and information presentation.
+تتضمن إعدادات صفحة عرض المنتج تعديل التخطيط والعناصر على صفحة عرض المنتج، مما يعزز تجربة المستخدم وعرض المعلومات.
 
-To add go to Admin Panel and click on **Configure >> Products**
+لإضافة ذلك، اذهب إلى لوحة الإدارة وانقر على **تكوين >> المنتجات**.
 
  ![Page Configuration](../../assets/2.2.0/images/configure/pageConfiguration.png)
 
-After clicking on the **Save Configuration** button.
+بعد النقر على زر **حفظ التكوين**.
 
-## Cart View Page
+## صفحة عرض السلة
 
-Cart view page configuration involves arranging items, details, and options on the shopping cart page, improving user interaction and purchase flow.
+تتضمن إعدادات صفحة عرض السلة ترتيب العناصر والتفاصيل والخيارات على صفحة السلة، مما يحسن تفاعل المستخدم وتدفق الشراء.
 
-To add go to Admin Panel and click on **Configure >> Products**
+لإضافة ذلك، اذهب إلى لوحة الإدارة وانقر على **تكوين >> المنتجات**.
 
  ![Cart Configuration](../../assets/2.2.0/images/configure/cartpageConfiguration.png)
 
-After clicking on the **Save Configuration** button. 
+بعد النقر على زر **حفظ التكوين**.
 
-## Storefront
+## واجهة المتجر
 
-Storefront is the customer-facing interface of an online shop, showcasing products, categories, and navigation for a seamless shopping experience.
+واجهة المتجر هي الواجهة الموجهة للعميل في متجر عبر الإنترنت، تعرض المنتجات والفئات والتنقل لتجربة تسوق سلسة.
 
-To add go to Admin Panel and click on **Configure >> Products >> Storefront**
+لإضافة ذلك، اذهب إلى لوحة الإدارة وانقر على **تكوين >> المنتجات >> واجهة المتجر**.
 
-**1.Search Mode:** Select the search mode by **Dropdown or Elasticsearch** as per your requirements.
+**1. وضع البحث:** اختر وضع البحث من **قائمة منسدلة أو Elasticsearch** حسب احتياجاتك.
 
-**2.Default List Mode:** You manage in which format your products will be visible on the storefront select from the dropdown **Grid or List**.
+**2. وضع القائمة الافتراضي:** يمكنك إدارة الشكل الذي ستظهر فيه منتجاتك على واجهة المتجر، اختر من القائمة المنسدلة **شبكة أو قائمة**.
 
-**3.Products Per Page:** You can enter the quantity that how many products that will be visible per page on the Storefront.
+**3. المنتجات في الصفحة:** يمكنك إدخال الكمية التي ستظهر من المنتجات في كل صفحة على واجهة المتجر.
 
-**4. Sort By** Select a sort-by option from the dropdown according to your requirements.
+**4. ترتيب حسب:** اختر خيار ترتيب من القائمة المنسدلة حسب احتياجاتك.
 
-**5.Buy Now Products** Select from the **Enable/Disable** option as per requirement. After enabling it will get visible on product detail page as shown in the below image.
+**5. منتجات الشراء الآن:** اختر من خيار **تمكين/تعطيل** حسب الحاجة. بعد تمكينه، ستظهر على صفحة تفاصيل المنتج كما هو موضح في الصورة أدناه.
 
  ![Storefront](../../assets/2.2.0/images/configure/storefront.png)
 
  ![Storefront Buynow](../../assets/2.2.0/images/configure/buyNow.png)
 
 
-After clicking on the **Save Configuration** button. 
+بعد النقر على زر **حفظ التكوين**.
 
-## Image Size
+## حجم الصورة
 
-Storefront is the customer-facing interface of an online shop, showcasing products, categories, and navigation for a seamless shopping experience.
+واجهة المتجر هي الواجهة الموجهة للعميل في متجر عبر الإنترنت، تعرض المنتجات والفئات والتنقل لتجربة تسوق سلسة.
 
-To add go to Admin Panel and click on **Configure >> Products**
+لإضافة ذلك، اذهب إلى لوحة الإدارة وانقر على **تكوين >> المنتجات**.
 
-### Small Image
+### الصورة الصغيرة
 
-Select **Height and Width** for the small images.
+اختر **الارتفاع والعرض** للصور الصغيرة.
 
-### Medium Image
+### الصورة المتوسطة
 
-Select **Height and Width** for the medium images.
+اختر **الارتفاع والعرض** للصور المتوسطة.
 
-### Large Image
+### الصورة الكبيرة
 
-Select **Height and Width** for the Large images.
+اختر **الارتفاع والعرض** للصور الكبيرة.
 
  ![Image Size](../../assets/2.2.0/images/configure/imageSize.png)
 
-After clicking on the **Save Configuration** button. 
+بعد النقر على زر **حفظ التكوين**.
 
-## Review
+## المراجعة
 
-Evaluation or assessment of something, often involving opinions and feedback.
+تقييم أو تقدير لشيء ما، غالبًا ما يتضمن آراء وتعليقات.
 
-To add go to Admin Panel and click on **Configure >> Products >> Review**
+لإضافة ذلك، اذهب إلى لوحة الإدارة وانقر على **تكوين >> المنتجات >> المراجعة**.
 
  ![Image](../../assets/2.2.0/images/configure/image.png)
 
-After clicking on the **Save Configuration** button. 
+بعد النقر على زر **حفظ التكوين**.
 
-## Attribute
+## السمة
 
-Characteristic or property that defines an object, influencing its behavior, appearance, or function.
+خاصية أو ميزة تحدد كائنًا ما، تؤثر على سلوكه أو مظهره أو وظيفته.
 
-You can easily allow **Image and File** upload size (in KB) from here.
+يمكنك بسهولة السماح بحجم تحميل **الصورة والملف** (بالكيلوبايت) من هنا.
 
-To add go to Admin Panel and click on **Configure >> Products >> Attribute**
+لإضافة ذلك، اذهب إلى لوحة الإدارة وانقر على **تكوين >> المنتجات >> السمة**.
 
  ![Attribute](../../assets/2.2.0/images/configure/attribute.png)
 
-After clicking on the **Save Configuration** button. 
+بعد النقر على زر **حفظ التكوين**.
 
-## Social Share
+## المشاركة الاجتماعية
 
-Sharing things from a website with friends on social media platforms like Facebook, Twitter, or Instagram.
+مشاركة الأشياء من موقع ويب مع الأصدقاء على منصات التواصل الاجتماعي مثل فيسبوك، تويتر، أو إنستغرام.
 
-To add go to Admin Panel and click on **Configure >> Products >> Social Share**
+لإضافة ذلك، اذهب إلى لوحة الإدارة وانقر على **تكوين >> المنتجات >> المشاركة الاجتماعية**.
 
  ![Social Share](../../assets/2.2.0/images/configure/socialShare.png)
 
-After clicking on the **Save Configuration** button. 
+بعد النقر على زر **حفظ التكوين**.
 
-### Frontend:-
+### الواجهة الأمامية:-
 
-All the icons that you just enabled from the Admin Panel are created as shown in the below image.
+جميع الرموز التي قمت بتمكينها من لوحة الإدارة تظهر كما هو موضح في الصورة أدناه.
 
 ![Social Share Output](../../assets/2.2.0/images/configure/socialOutput.png)
 
-## Rich Snippets
+## مقتطفات غنية
 
-Rich Snippets (also known as “Rich Results”) are normal Google search results with additional data displayed. This extra data is usually pulled from Structured Data found in a page's HTML.
+المقتطفات الغنية (المعروفة أيضًا باسم "نتائج غنية") هي نتائج البحث العادية من جوجل مع بيانات إضافية معروضة. تُستخرج هذه البيانات الإضافية عادةً من البيانات المنظمة الموجودة في كود HTML للصفحة.
 
-Set products and category configurations. To add to the Admin Panel click on **Configure >> Rich Snippets** 
+قم بتعيين إعدادات المنتجات والفئات. لإضافة ذلك، انقر على لوحة الإدارة على **تكوين >> مقتطفات غنية**.
 
-### Products
+### المنتجات
 
-Items available for purchase or use, offered by a business or seller. Select the option of **Enable/Disable** and click on **Save Configuration** Button.
+العناصر المتاحة للشراء أو الاستخدام، المعروضة من قبل عمل أو بائع. اختر خيار **تمكين/تعطيل** وانقر على زر **حفظ التكوين**.
 
  ![Products](../../assets/2.2.0/images/configure/products.png)
 
-### Categories
+### الفئات
 
-"Categories" refer to groups or classifications that help organize and group similar products or items for easier browsing and navigation.
+تشير "الفئات" إلى مجموعات أو تصنيفات تساعد في تنظيم وتجميع المنتجات أو العناصر المماثلة لتسهيل التصفح والتنقل.
 
-Select the option of **Enable/Disable** and click on **Save Configuration** Button.
+اختر خيار **تمكين/تعطيل** وانقر على زر **حفظ التكوين**.
 
  ![Categories](../../assets/2.2.0/images/configure/categories.png)
 
-## Address 
+## العنوان
 
-To add an address on the Admin Panel go to **Configure >> Address** and manage your **Requirements & Information** and then click on **Save Configuration** button.
+لإضافة عنوان في لوحة الإدارة، اذهب إلى **تكوين >> العنوان** وادارة **المتطلبات والمعلومات** ثم انقر على زر **حفظ التكوين**.
 
  ![Address](../../assets/2.2.0/images/configure/address.png)
 
-## Captcha
+## كابتشا
 
-"Sitemap: Website layout map for search engines. Secret key: Secure code for data encryption, authentication, or API access protection."
+"خريطة الموقع: خريطة تخطيط الموقع لمحركات البحث. المفتاح السري: رمز أمان لتشفير البيانات، المصادقة، أو حماية الوصول لواجهة برمجة التطبيقات."
 
-On the Admin Panel go to **Configure >> Captcha** add the **Site Key & Secret Key** and enable/disable the **Status** according to your requirement.
+في لوحة الإدارة، اذهب إلى **تكوين >> كابتشا** وأضف **مفتاح الموقع والمفتاح السري** وقم بتمكين/تعطيل **الحالة** حسب متطلباتك.
 
  ![Captcha](../../assets/2.2.0/images/configure/captcha.png)
 
-After clicking on the **Save Configuration** button. 
+بعد النقر على زر **حفظ التكوين**.
 
-## Settings
+## الإعدادات
 
-Set newsletter subscriptions, email verifications, and social login.
-To add go to the Admin Panel and click on **Configure >> Settings** 
+قم بتعيين اشتراكات النشرة الإخبارية، التحقق من البريد الإلكتروني، وتسجيل الدخول عبر وسائل التواصل الاجتماعي.
+لإضافة ذلك، اذهب إلى لوحة الإدارة وانقر على **تكوين >> الإعدادات**.
 
-### Newsletter Subscription
+### اشتراك النشرة الإخبارية
 
-"Newsletter information" contains updates, offers, or content shared regularly through emails to subscribers, keeping them informed and engaged.
+"معلومات النشرة الإخبارية" تحتوي على تحديثات، عروض، أو محتوى يتم مشاركته بانتظام عبر البريد الإلكتروني للمشتركين، مما يبقيهم على اطلاع ومشتركين.
 
-### Email Verification
+### التحقق من البريد الإلكتروني
 
-"Email verification" confirms the authenticity of an email address, often by sending a confirmation link, enhancing account security and communication reliability.
+"التحقق من البريد الإلكتروني" يؤكد صحة عنوان البريد الإلكتروني، غالبًا عن طريق إرسال رابط تأكيد، مما يعزز أمان الحساب وموثوقية التواصل.
 
-### Social Login
+### تسجيل الدخول عبر وسائل التواصل الاجتماعي
 
-"Social login" enables users to access websites using their social media accounts, streamlining registration and login processes for convenience.
+"تسجيل الدخول عبر وسائل التواصل الاجتماعي" يمكّن المستخدمين من الوصول إلى المواقع باستخدام حساباتهم على وسائل التواصل الاجتماعي، مما يسهل عمليات التسجيل وتسجيل الدخول للراحة.
 
-After clicking on the **Save Configuration** button.
+بعد النقر على زر **حفظ التكوين**.
 
  ![Settings](../../assets/2.2.0/images/configure/settings.png)
 
-## E-mail Settings
+## إعدادات البريد الإلكتروني
 
-Set email sender name, shop email address, admin name, and admin email address.
+قم بتعيين اسم مرسل البريد، عنوان بريد المتجر، اسم المدير، وعنوان بريد المدير.
 
-To add go to the Admin Panel and click on **Configure >> Email Settings** 
+لإضافة ذلك، اذهب إلى لوحة الإدارة وانقر على **تكوين >> إعدادات البريد الإلكتروني**.
 
  ![Email Settings](../../assets/2.2.0/images/configure/emailSetting.png)
 
-After clicking on the **Save Configuration** button.
+بعد النقر على زر **حفظ التكوين**.
 
-## Taxes 
+## الضرائب
 
-**A) Tax Categories -** Tax categories are classifications for different types of taxes, such as sales tax, value-added tax, or excise tax, used to categorize and apply tax rates to products or services.
+**أ) فئات الضرائب -** فئات الضرائب هي تصنيفات لأنواع مختلفة من الضرائب، مثل ضريبة المبيعات، ضريبة القيمة المضافة، أو ضريبة الاستهلاك، تُستخدم لتصنيف وتطبيق معدلات الضرائب على المنتجات أو الخدمات.
 
-**B) Calculation Settings -** Details about the cost of goods or services, including base price, discounts, taxes, and additional charges information.
+**ب) إعدادات الحساب -** تفاصيل حول تكلفة السلع أو الخدمات، بما في ذلك السعر الأساسي، الخصومات، الضرائب، ومعلومات الرسوم الإضافية.
 
-**C) Default Destination Calculation -** Automated determination of a standard or initial destination based on predefined factors or settings.
+**ج) حساب وجهة الافتراضية -** تحديد تلقائي لوجهة قياسية أو أولية بناءً على عوامل أو إعدادات محددة مسبقًا.
 
-**D) Shopping Cart Display Settings -** Set the display of taxes in the shopping cart by Display Prices, Display Subtotal, and Display Shipping Amount.
+**د) إعدادات عرض سلة التسوق -** تعيين عرض الضرائب في سلة التسوق من خلال عرض الأسعار، عرض المجموع الفرعي، وعرض مبلغ الشحن.
 
  ![Taxes](../../assets/2.2.0/images/configure/taxes.png)
 
-## Checkout
+## الدفع
 
-Checkout configuration are listed below.
+إعدادات الدفع المدرجة أدناه.
 
-### Shopping Cart
+### سلة التسوق
 
-Enable guest checkout, cart page, cross-sell products, and estimated shipping to enhance user convenience and streamline the shopping process for increased sales.
+قم بتمكين الدفع للزوار، صفحة السلة، المنتجات المتقاطعة، وتقدير الشحن لتعزيز راحة المستخدم وتسهيل عملية التسوق لزيادة المبيعات.
 
  ![Checkout](../../assets/2.2.0/images/configure/checkout.png)
 
-### My Cart
+### سلة التسوق الخاصة بي
 
-Enable settings for My Cart to show a summary of item quantities and display the total number of items in the cart for easy tracking. 
+قم بتمكين إعدادات "سلة التسوق الخاصة بي" لعرض ملخص كميات العناصر وإظهار العدد الإجمالي للعناصر في السلة لتسهيل التتبع.
 
   ![Checkout My Cart](../../assets/2.2.0/images/configure/checkoutMycart.png )
 
-### Mini Cart
+### سلة التسوق الصغيرة
 
-Enable Mini Cart settings to display the mini cart and show Mini Cart Offer Information for quick access to cart details and promotions.
+قم بتمكين إعدادات سلة التسوق الصغيرة لعرض السلة الصغيرة وإظهار معلومات عرض السلة الصغيرة للوصول السريع إلى تفاصيل السلة والعروض.
 
 ![miniCart](../../assets/2.2.0/images/configure/miniCart.png)
 
 
+## الإشعارات
 
+"الإشعار" هو رسالة أو تنبيه تُعلم المستخدمين بالأحداث، التحديثات، أو الإجراءات، مما يعزز تفاعل المستخدم ووعيه.
 
-## Notifications
-
-"Notification" is a message or alert that informs users about events, updates, or actions, enhancing user engagement and awareness.
-
-To add go to the Admin Panel and click on **Configure >> Notifications** 
+لإضافة ذلك، اذهب إلى لوحة الإدارة وانقر على **تكوين >> الإشعارات**.
 
  ![Notifications](../../assets/2.2.0/images/configure/notifications.png)
 
-After clicking on the **Save Configuration** button. 
+بعد النقر على زر **حفظ التكوين**.
 
-## Shipping
+## الشحن
 
-Shipping origin refers to the location where goods or products originate before being transported to their destination.
+يشير أصل الشحن إلى الموقع الذي تنشأ منه السلع أو المنتجات قبل نقلها إلى وجهتها.
 
-To add go to the Admin Panel and click on **Configure >> Shipping** 
+لإضافة ذلك، اذهب إلى لوحة الإدارة وانقر على **تكوين >> الشحن**.
 
  ![Shipping](../../assets/2.2.0/images/configure/shipping.png)
 
-## Shipping Methods
+## طرق الشحن
 
-To deliver the products there are two types of shipping methods.
+لتسليم المنتجات، هناك نوعان من طرق الشحن.
 
-To add go to the Admin Panel and click on **Configure >> Shipping Methods** 
+لإضافة ذلك، اذهب إلى لوحة الإدارة وانقر على **تكوين >> طرق الشحن**.
 
-**1) Free Shipping** "Free shipping" refers to a shipping method where the cost of shipping is waived, and the seller covers the shipping expenses for delivering goods to the buyer.
+**1) الشحن المجاني** "الشحن المجاني" هو طريقة شحن يتم فيها التنازل عن تكلفة الشحن، ويغطي البائع نفقات الشحن لتسليم السلع للمشتري.
 
-**2)Flat Rate Shipping** Flat rate shipping is a shipping method where a fixed fee is charged for shipping, regardless of the weight, size, or distance of the package. This simplifies shipping costs and can be advantageous for both buyers and sellers.
+**2) الشحن بسعر ثابت** الشحن بسعر ثابت هو طريقة شحن يتم فيها فرض رسوم ثابتة للشحن، بغض النظر عن الوزن أو الحجم أو المسافة الخاصة بالشحنة. هذا يُبسط تكاليف الشحن ويمكن أن يكون مفيدًا لكل من المشترين والبائعين.
 
  ![Shipping Methods](../../assets/2.2.0/images/configure/shippingMethods.png)
 
-After clicking on the **Save Configuration** button. 
+بعد النقر على زر **حفظ التكوين**.
 
-## Payment Methods
+## طرق الدفع
 
-A payment method refers to the various options available for customers to make payments when purchasing a product or service. Whether in a physical or online store, payment methods cover a range of choices. Commonly accepted payment methods include cash, credit cards, debit cards, gift cards, and mobile payments.
+تشير طريقة الدفع إلى الخيارات المختلفة المتاحة للعملاء لإجراء المدفوعات عند شراء منتج أو خدمة. سواء في متجر فعلي أو عبر الإنترنت، تغطي طرق الدفع مجموعة من الخيارات. تشمل طرق الدفع المقبولة عادةً النقد، بطاقات الائتمان، بطاقات الخصم، بطاقات الهدايا، والمدفوعات المحمولة.
 
-To add go to the Admin Panel and click on **Configure >> Payment Method** 
+لإضافة ذلك، اذهب إلى لوحة الإدارة وانقر على **تكوين >> طريقة الدفع**.
 
-### Paypal 
+### باي بال
 
-PayPal Smart Button: Simplifies online payments with customizable buttons for secure, multi-method transactions on websites and apps.
+زر باي بال الذكي: يبسط المدفوعات عبر الإنترنت مع أزرار قابلة للتخصيص لمعاملات آمنة ومتعددة الطرق على المواقع والتطبيقات.
 
  ![Paypal](../../assets/2.2.0/images/configure/paypal.png)
 
-### Cash On Delivery
+### الدفع عند الاستلام
 
-Payment method where customers pay in cash upon receiving goods or services at their doorstep.
+طريقة الدفع حيث يدفع العملاء نقدًا عند استلام السلع أو الخدمات عند باب منزلهم.
 
  ![COD](../../assets/2.2.0/images/configure/cod.png)
 
-### Money Transfer
+### تحويل الأموال
 
-Transfer of funds from one person or account to another, often electronically, for various purposes such as transactions or remittances.
+تحويل الأموال من شخص أو حساب إلى آخر، غالبًا إلكترونيًا، لأغراض متنوعة مثل المعاملات أو التحويلات.
 
  ![Money Transfer](../../assets/2.2.0/images/configure/moneyTransfer.png)
 
-### PayPal Standard 
+### باي بال ستاندرد
 
-PayPal Standard is a basic PayPal payment option for online businesses, enabling customers to pay using their PayPal accounts or credit/debit cards.
+باي بال ستاندرد هو خيار دفع أساسي من باي بال للأعمال التجارية عبر الإنترنت، يمكّن العملاء من الدفع باستخدام حسابات باي بال أو بطاقات الائتمان/الخصم الخاصة بهم.
 
  ![Paypal Standard](../../assets/2.2.0/images/configure/paypalStandard.png)
 
-After clicking on the **Save Configuration** button.  
+بعد النقر على زر **حفظ التكوين**.
 
-## Order Settings
+## إعدادات الطلب
 
-To add go to the Admin Panel and click on **Configure >> Order Settings** 
+لإضافة ذلك، اذهب إلى لوحة الإدارة وانقر على **تكوين >> إعدادات الطلب**.
 
-**Order Number Settings:-** Unique identifier assigned to a specific customer order, aiding tracking, communication, and reference throughout the purchasing process.
+**إعدادات رقم الطلب:-** معرف فريد مُعين لطلب عميل محدد، يساعد في التتبع، التواصل، والمرجعية طوال عملية الشراء.
 
-**Minimum Order Settings:-** Configured criteria specifying the lowest required quantity or value for an order to be processed or qualify for benefits.
+**إعدادات الحد الأدنى للطلب:-** معايير مُعدة تحدد أقل كمية أو قيمة مطلوبة لمعالجة الطلب أو التأهل للحصول على فوائد.
 
-In the Order section added new configuration setting to that the order has Include Discount Amount, Include Tax to Amount and the Description in cart page.
+في قسم الطلب، تمت إضافة إعداد تكوين جديد ليشمل الطلب مبلغ الخصم، يشمل الضريبة على المبلغ، والوصف في صفحة السلة.
 
  ![Order Settings](../../assets/2.2.0/images/configure/orderSettings.png)
 
-**Allow Reorder:-** Enable or disable the reordering feature for admin users.
+**السماح بإعادة الطلب:-** تمكين أو تعطيل ميزة إعادة الطلب لمستخدمي الإدارة.
 
 ![Allow Reorder](../../assets/2.2.0/images/configure/allowReorder.png)
  
-After clicking on the **Save Configuration** button. 
+بعد النقر على زر **حفظ التكوين**.
+## إعدادات الفاتورة
 
-## Invoice Settings
+لإضافة ذلك، اذهب إلى لوحة الإدارة وانقر على **تكوين >> إعدادات الفاتورة**.
 
-To add go to the Admin Panel and click on **Configure >> Invoice Settings** 
-
-**1.Invoice Number Settings** Configuration of rules or parameters for generating and assigning unique identification numbers to invoices for organizational and tracking purposes.
+**1. إعدادات رقم الفاتورة** تكوين القواعد أو المعايير لإنشاء وتعيين أرقام تعريف فريدة للفواتير لأغراض تنظيمية وتتبع.
 
  ![Invoice Number Settings](../../assets/2.2.0/images/configure/invoicenumberSettings.png)
 
-**2. Payment Terms** Agreed-upon conditions dictating when and how payment for goods or services should be made by the buyer to the seller.
+**2. شروط الدفع** الشروط المتفق عليها التي تحدد متى وكيف يجب على المشتري دفع ثمن السلع أو الخدمات للبائع.
 
  ![Payment Terms](../../assets/2.2.0/images/configure/paymentTerms.png)
 
-**3.Invoice Slip Design** Visual layout and formatting of an invoice slip, including company branding, itemization, pricing, and payment details for professional presentation.
+**3. تصميم فاتورة** التخطيط المرئي وتنسيق فاتورة، بما في ذلك علامة الشركة، تفصيل العناصر، الأسعار، وتفاصيل الدفع للعرض الاحترافي.
 
  ![Invoice Slip Design](../../assets/2.2.0/images/configure/invoiceSlip.png)
 
-**4.Invoice Reminders** Automated notifications or communications sent to customers to remind them of upcoming or overdue payments for invoices.
+**4. تذكيرات الفاتورة** إشعارات أو اتصالات تلقائية تُرسل للعملاء لتذكيرهم بالمدفوعات القادمة أو المتأخرة للفواتير.
 
  ![Invoice Reminder](../../assets/2.2.0/images/configure/invoiceReminder.png)
 
-After clicking on the **Save Configuration** button. 
+بعد النقر على زر **حفظ التكوين**.
 
-## Pricing
+## التسعير
 
-Details about the cost of goods or services, including base price, discounts, taxes, and additional charges information.
+تفاصيل حول تكلفة السلع أو الخدمات، بما في ذلك السعر الأساسي، الخصومات، الضرائب، ومعلومات الرسوم الإضافية.
 
-To add go to the Admin Panel and click on **Configure >> Pricing** 
+لإضافة ذلك، اذهب إلى لوحة الإدارة وانقر على **تكوين >> التسعير**.
 
  ![Pricing](../../assets/2.2.0/images/configure/pricing.png)
 
-After clicking on the **Save Configuration** button. 
+بعد النقر على زر **حفظ التكوين**.

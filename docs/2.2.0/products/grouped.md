@@ -1,90 +1,89 @@
-# Grouped Product
+# منتج مجمع
 
-This document guides you on creating a Grouped Product in Bagisto 2.2.0. A grouped product is a collection of simple products that can be combined in Bagisto. This versatile product type allows you to offer variations of a single product or a group of products as a coordinated set. Each product in a grouped product can be purchased separately or all together as part of the group.
+يوجه هذا المستند خطوات إنشاء منتج مجمع في Bagisto 2.2.0. المنتج المجمع هو مجموعة من المنتجات البسيطة التي يمكن الجمع بينها في Bagisto. يسمح هذا النوع المرن من المنتجات لك بعرض تباينات منتج واحد أو مجموعة من المنتجات كمجموعة منسقة. يمكن شراء كل منتج في المنتج المجمع بشكل منفصل أو معًا كجزء من المجموعة.
 
-### Steps to Create a Grouped Product in Bagisto 2.2.0
+### خطوات إنشاء منتج مجمع في Bagisto 2.2.0
 
-1. On the Bagisto admin dashboard, go to **Catalog Section >> Products >> select Grouped** under the Product Type.
-2. Select **Attribute Family >> enter SKU >>** Click to **Save Product**.
-3. Enter the **SKU** (Stock Keeping Unit) of the product, unique to every product.
+1. من لوحة تحكم مسؤول Bagisto ، انتقل إلى **قسم الفهرس >> المنتجات >> حدد المجمع** تحت نوع المنتج.
+2. حدد **عائلة السمات >> أدخل SKU >> ** انقر لحفظ المنتج.
+3. أدخل **SKU** (وحدة الاحتفاظ بالمخزون) للمنتج ، والتي تكون فريدة لكل منتج.
 
 ![grouped](../../assets/2.2.0/images/grouped-product/grouped.png)
 
-After clicking on the Save Product button, you will be redirected to the next page with several new settings as shown in the below image.
+بعد النقر على زر حفظ المنتج ، سيتم إعادة توجيهك إلى الصفحة التالية مع بعض الإعدادات الجديدة كما هو موضح في الصورة أدناه.
 
-### General Settings
+### الإعدادات العامة
 
-- **Name:** Enter the name of the product.
-- **URL Key:** This will be the end of the URL, e.g., http://bagisto.test.com/products/set-of-men-casual-wear (set-of-men-casual-wear is a URL key).
-- **Tax Category:** Select the Tax Category from the dropdown list.
+- **الاسم:** أدخل اسم المنتج.
+- **مفتاح URL:** هذا سيكون نهاية عنوان URL ، على سبيل المثال ، http://bagisto.test.com/products/set-of-men-casual-wear (set-of-men-casual-wear هو مفتاح URL).
+- **فئة الضرائب:** حدد فئة الضرائب من القائمة المنسدلة.
 
 ![editProduct](../../assets/2.2.0/images/grouped-product/editProduct.png)
 
-#### New
 
-- Enable the toggle button to feature the product as a new product, shown under the New Products section.
+#### جديد
 
-#### Featured
+- قم بتشغيل زر التبديل لتسليط الضوء على المنتج كمنتج جديد ، والذي سيظهر في قسم المنتجات الجديدة.
 
-- Enable the toggle button to show the product under the Featured Products section.
+#### متميز
 
-#### Visible Individually
+- قم بتشغيل زر التبديل لعرض المنتج في قسم المنتجات المتميزة.
 
-- Enable the toggle button to make the product visible on the frontend.
+#### مرئي بشكل فردي
 
-#### Status
+- قم بتشغيل زر التبديل لجعل المنتج مرئيًا على الواجهة الأمامية.
 
-- Enable the toggle button to enable the product on your eCommerce store.
+#### الحالة
 
-#### Guest Checkout
+- قم بتشغيل زر التبديل لتمكين المنتج في متجر التجارة الإلكترونية الخاص بك.
 
-- Enable the toggle button to allow the product to be ordered by guest customers.
+#### الدفع نيابة عن الضيف
+
+- قم بتشغيل زر التبديل للسماح للمنتج بالطلب من قبل عملاء الضيوف.
 
 ![toggleButtons](../../assets/2.2.0/images/grouped-product/toggleButtons.png)
 
-### Description
+### الوصف
 
-Fill in the following fields under the description:
+املأ الحقول التالية تحت الوصف:
 
-- **Short Description:** Enter a short description of the product feature.
-- **Description:** Mention your product in detail.
+- **الوصف القصير:** أدخل وصفًا مختصرًا لميزة المنتج.
+- **الوصف:** اذكر منتجك بالتفصيل.
 
 ![description](../../assets/2.2.0/images/grouped-product/description.png)
 
-### Meta Description
+### وصف ميتا
 
-Fill in the following fields under meta description for improved searchability on search engines:
+املأ الحقول التالية تحت وصف ميتا لتحسين إمكانية البحث على محركات البحث:
 
-- **Meta Title:** Provide the main title of the product.
-- **Meta Keyword:** Provide meta keywords for specific search engine optimization.
-- **Meta Description:** Enter a description for better search engine listings.
+- **عنوان ميتا:** قدم العنوان الرئيسي للمنتج.
+- **كلمات مفتاحية ميتا:** قدم كلمات مفتاحية ميتا للتحسين المحدد لمحرك البحث.
+- **وصف ميتا:** أدخل وصفًا لتحسين سجلات محرك البحث.
 
 ![metaDescription](../../assets/2.2.0/images/grouped-product/metaDescription.png)
 
-### Images
+### الصور
 
-To add product images, click on Add Images. You can add multiple images for your product.
+لإضافة صور المنتج ، انقر فوق إضافة الصور. يمكنك إضافة العديد من الصور لمنتجك.
 
 ![image](../../assets/2.2.0/images/grouped-product/image.png)
 
-### Channels
+### القنوات
 
-Select the channels in which you want to save this product.
+حدد القنوات التي تريد حفظ هذا المنتج فيها.
 
 ![Channels](../../assets/2.2.0/images/simple-product/channels.png)
 
+### المنتجات المجمعة
 
-### Grouped Products
+ابحث عن المنتجات في قسم **ابحث عن المنتج** ، يمكنك ببساطة البحث عن المنتج البسيط في المنتج المجمع. بمجرد إضافة جميع المنتجات المطلوبة إلى المنتج المجمع ، سيتم سردها.
 
-Search Products Under this **Search Product** section, you can simply search the Simple Product to in the Grouped Product. Once you added all the required products to the grouped product then all those simple products will be listed
-
-So Here you can enter the default quantity (which will automatically be added to the customer cart) of the product and sort orders accordingly product will be listed on the front end. As shown in the below image.
+لذلك هنا يمكنك إدخال الكمية الافتراضية (والتي سيتم إضافتها تلقائيًا إلى سلة عميل) للمنتج وترتيب الطلبات وفقًا لذلك سيتم سرد المنتج على الواجهة الأمامية. كما هو موضح في الصورة أدناه.
 
 ![groupProducts](../../assets/2.2.0/images/grouped-product/groupProducts.png)
 
-### Product at Front End
+### المنتج في الواجهة الأمامية
 
-The grouped product will be visible at the front end, as shown in the image below:
+سيكون المنتج المجمع مرئيًا في الواجهة الأمامية ، كما هو موضح في الصورة أدناه:
 
 ![output](../../assets/2.2.0/images/grouped-product/output.png)
-

@@ -1,5 +1,3 @@
-# CMS Page
+# صفحة CMS
 
-With the help of CMS(content management system), you can create a new page, and edit the page for your Bagisto store. CMS is also helpful for the customer while purchasing the product to check the refund and return policy and many more.
-
-
+بمساعدة نظام إدارة المحتوى (CMS)، يمكنك إنشاء صفحة جديدة وتحرير الصفحة لمتجر Bagisto الخاص بك. يعد نظام إدارة المحتوى مفيدًا أيضًا للعملاء أثناء شراء المنتج للتحقق من سياسة الاسترجاع والاسترداد والعديد من الأمور الأخرى.

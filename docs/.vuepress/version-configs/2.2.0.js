@@ -14,97 +14,97 @@ function setVersionPrefix(children) {
 
 /* module export */
 module.exports = [
-    [setVersionPrefix('introduction/introductions'), 'Introduction'],
+    [setVersionPrefix('introduction/introductions'), 'المقدمة'],
 
     {
-        title: 'Product Types',
+        title: 'انواع المنتجات',
         path: setVersionPrefix('products'),
         collapsable: true,
         children: setVersionPrefix([
-            ['products/simple', 'Simple Product'],
-            ['products/configurable', 'Configurable Product'],
-            ['products/virtual', 'Virtual Product'],
-            ['products/bundle', 'Bundle Product'],
-            ['products/grouped', 'Grouped Product'],
-            ['products/downloadable', 'Downloadable Product'],
+            ['products/simple', 'المنتج البسيط'],
+            ['products/configurable', 'المنتج القابل للتكوين'],
+            ['products/virtual', 'المنتج الالكتروني'],
+            ['products/bundle', 'المنتج الحزمة '],
+            ['products/grouped', 'المنتج المجمع'],
+            ['products/downloadable', 'المنتج القابل للتنزيل'],
         ])
     },
     {
-        title: 'Category',
+        title: 'الفئات',
         path: setVersionPrefix('category'),
         collapsable: true,
         children: setVersionPrefix([
-            ['category/create-category', 'Create Category'],
+            ['category/create-category', 'انشاء فئة'],
         ])
     },
     {
-        title: 'Attributes',
+        title: 'السمات او الخصائص',
         path: setVersionPrefix('attribute'),
         collapsable: true,
         children: setVersionPrefix([
-            ['attribute/product-attribute', 'Create Product Attribute'],
-            ['attribute/attribute-input', 'Attribute Input Type'],
+            ['attribute/product-attribute', 'انشاء سمة للمنتج'],
+            ['attribute/attribute-input', 'نوع حقول إدخال السمات'],
         ])
     },
     
     [setVersionPrefix('attribute-family/attribute-families'), 'Attribute Family'],
 
     {
-        title: 'Orders',
+        title: 'الطلبات',
         path: setVersionPrefix('orders'),
         collapsable: true,
         children: setVersionPrefix([
-            ['orders/create-order', 'Orders'],
-            ['orders/create-invoice', 'Invoice'],
-            ['orders/create-shipment', 'Shipment'],
-            ['orders/refunds', 'Refunds'],
-            ['orders/reorder', 'Reorder'],
-            ['orders/admin-order', 'Admin Order'],
+            ['orders/create-order', 'الطلبات'],
+            ['orders/create-invoice', 'الفواتير'],
+            ['orders/create-shipment', 'الشحنات'],
+            ['orders/refunds', 'المرتجعات'],
+            ['orders/reorder', 'إعادة طلب'],
+            ['orders/admin-order', 'طلبات المسؤل'],
         ])
     },
     {
-        title: 'Customers',
+        title: 'العملاء',
         path: setVersionPrefix('customer'),
         collapsable: true,
         children: setVersionPrefix([
-            ['customer/create-customer', 'Customers'],
-            ['customer/customer-groups', 'Groups'],
-            ['customer/customer-reviews', 'Reviews'],
+            ['customer/create-customer', 'العملاء'],
+            ['customer/customer-groups', 'المجموعات'],
+            ['customer/customer-reviews', 'التقيمات'],
         ])
     },
 
-    [setVersionPrefix('cms/cms-page'), 'CMS'],
+    [setVersionPrefix('cms/cms-page'), 'CMS - نظام إدارة المحتوى'],
 
     {
-        title: 'Marketing',
+        title: 'التسويق',
         path: setVersionPrefix('marketing'),
         collapsable: true,
         children: setVersionPrefix([
-            ['marketing/promotions', 'Promotions'],
-            ['marketing/communications', 'Communications'],
-            ['marketing/searchseo', 'Search & SEO'],
+            ['marketing/promotions', 'العروض الترويجيه'],
+            ['marketing/communications', 'التواصل'],
+            ['marketing/searchseo', 'البحث & SEO'],
         ])
     }, 
     {
-        title: 'Settings',
+        title: 'الإعدادات',
         path: setVersionPrefix('settings'),
         collapsable: true,
         children: setVersionPrefix([
-            ['settings/locale', 'Locales'],
-            ['settings/currencies', 'Currencies'],
-            ['settings/exchange-rates', 'Exchange Rates'],
-            ['settings/inventory-source', 'Inventory Source'],
-            ['settings/channels', 'Channels'],
-            ['settings/users', 'Users'],
-            ['settings/roles', 'Roles'],
-            ['settings/themes', 'Themes'],
-            ['settings/taxes', 'Taxes'],
-            ['settings/data-transfer', 'Data Transfer'],
+            ['settings/locale', 'اللغات'],
+            ['settings/currencies', 'العملات'],
+            ['settings/exchange-rates', 'مصارفة العملات'],
+            ['settings/inventory-source', 'مصدر المخزون'],
+            ['settings/channels', 'القنوات'],
+            ['settings/users', 'المستخدمون'],
+            ['settings/roles', 'الادوار'],
+            ['settings/themes', 'القوالب - Themes'],
+            ['settings/taxes', 'الضرائب'],
+            ['settings/data-transfer', 'نقل البيانات'],
         ])
     },
 
-    [setVersionPrefix('configure/configurations'), 'Configure'],  
+    [setVersionPrefix('configure/configurations'), 'التكوين'],  
 
-    [setVersionPrefix('magic/magic-ai'), 'Magic AI'],  
+    [setVersionPrefix('magic/magic-ai'), 'الذكاء الاصطناعي السحري'],  
     
 ]

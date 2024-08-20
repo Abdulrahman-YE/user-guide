@@ -1,43 +1,43 @@
-# Create Orders
+# إنشاء الطلبات
 
-The order is created when a customer goes to your website, selects some product, and then places a request for it. Here we are going to discuss how to manage orders in Bagisto.
+يتم إنشاء الطلب عندما يقوم عميل بزيارة موقعك، واختيار منتج ما، ثم تقديم طلب له. هنا سنناقش كيفية إدارة الطلبات في Bagisto.
 
-When a customer places an order from the front end, on the admin panel, the order status is generated from where the admin can further process the order.
+عندما يقوم العميل بتقديم طلب من الواجهة الأمامية، يتم إنشاء حالة الطلب في لوحة الإدارة حيث يمكن للإدارة معالجة الطلب لاحقًا.
 
-### How to Manage Orders in Bagisto2.2.0
+### كيفية إدارة الطلبات في Bagisto 2.2.0
 
-**Adding Products in Cart**
+**إضافة منتجات إلى السلة**
 
-**Step 1**: Open the Product Detail page and **Add the product** to the cart as shown below.
+**الخطوة 1**: افتح صفحة تفاصيل المنتج و**أضف المنتج** إلى السلة كما هو موضح أدناه.
 
- ![Cart](../../assets/2.2.0/images/orders/cart.png)
+![Cart](../../assets/2.2.0/images/orders/cart.png)
 
-**Step 2**: Now continue to checkout inside the **Shopping Cart** as shown below.
+**الخطوة 2**: الآن تابع إلى صفحة الدفع داخل **عربة التسوق** كما هو موضح أدناه.
 
- ![Shopping Cart](../../assets/2.2.0/images/orders/shoppingCart.png)
+![Shopping Cart](../../assets/2.2.0/images/orders/shoppingCart.png)
 
-**Step 3**: Next, you will get redirected to the checkout page and fill in the necessary information regarding the **Billing Address** as shown below.
+**الخطوة 3**: بعد ذلك، سيتم توجيهك إلى صفحة الدفع واملأ المعلومات الضرورية بخصوص **عنوان الفواتير** كما هو موضح أدناه.
 
- ![Billing Address](../../assets/2.2.0/images/orders/billingAddress.png)
+![Billing Address](../../assets/2.2.0/images/orders/billingAddress.png)
 
-**Step 4**: After confirming add the shipping method, and payment method and click on **Place Order** as shown in the below image.
+**الخطوة 4**: بعد التأكيد، أضف طريقة الشحن وطريقة الدفع ثم انقر على **تقديم الطلب** كما هو موضح في الصورة أدناه.
 
- ![Cart Summary](../../assets/2.2.0/images/orders/cartSummary.png)
+![Cart Summary](../../assets/2.2.0/images/orders/cartSummary.png)
 
-**Step 5**: After clicking on **Place Order**, the next page will open like below then you will get an Order ID.
+**الخطوة 5**: بعد النقر على **تقديم الطلب**، ستفتح الصفحة التالية كما هو موضح أدناه، وستحصل على رقم الطلب.
 
- ![Order ID](../../assets/2.2.0/images/orders/orderID.png)
+![Order ID](../../assets/2.2.0/images/orders/orderID.png)
 
-### Customer Panel
+### لوحة العملاء
 
-On the customer dashboard, customers can see all order history with order status. Customers can also cancel the order.
+على لوحة معلومات العملاء، يمكن للعملاء رؤية جميع تاريخ الطلبات مع حالة الطلب. يمكن للعملاء أيضًا إلغاء الطلب.
 
-### Information
+### المعلومات
 
-On the Information Page, the Admin can check customer details like name, address, quantity, etc. Admin can also cancel the order.
+في صفحة المعلومات، يمكن للإدارة التحقق من تفاصيل العميل مثل الاسم، والعنوان، والكمية، إلخ. يمكن للإدارة أيضًا إلغاء الطلب.
 
- ![Order Info](../../assets/2.2.0/images/orders/orderInfo.png)
+![Order Info](../../assets/2.2.0/images/orders/orderInfo.png)
 
-**Note:- The cancel button will be visible when the order status is pending.** 
+**ملاحظة: زر الإلغاء سيكون مرئيًا عندما تكون حالة الطلب قيد الانتظار.**
 
-So by this, you can easily create a **Orders** in Bagisto
+لذا، من خلال ذلك، يمكنك بسهولة إنشاء **الطلبات** في Bagisto.

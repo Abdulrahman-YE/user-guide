@@ -1,93 +1,88 @@
-# Simple Product
+# المنتج البسيط
 
-A **simple product** is a product type in e-commerce that does not require customers to choose additional attributes (such as size or color) to add to the cart. It should be a physical item and can be shipped to customers.
+المنتج **البسيط** هو نوع منتج في التجارة الإلكترونية لا يتطلب من العملاء اختيار سمات إضافية (مثل الحجم أو اللون) لإضافتها إلى السلة. يجب أن يكون عنصرًا مادياً ويمكن شحنه إلى العملاء.
 
-Therefore, any service, such as downloadable items, does not count as a simple product. This is the step-by-step tutorial on how to add a simple product in [Bagisto](https://bagisto.com/en/).
+وبالتالي، لا يُعتبر أي خدمة، مثل العناصر القابلة للتنزيل، منتجًا بسيطًا. فيما يلي الخطوات التفصيلية حول كيفية إضافة منتج بسيط في [Bagisto](https://bagisto.com/en/).
 
-### Create Simple Product in Bagisto 2.2.0
-1. Click on **Catalog >> Products >>** select **Simple** under Product Type.
+### إنشاء منتج بسيط في Bagisto 2.2.0
+1. انقر على **الفهرس >> المنتجات >>** وحدد **بسيط** تحت نوع المنتج.
 
     ![Simple](../../assets/2.2.0/images/simple-product/simple.png)
 
-Now **Save the Product**, and you will get redirected to the Edit product page as shown below.
+الآن **احفظ المنتج**، وسيتم إعادة توجيهك إلى صفحة تحرير المنتج كما هو موضح أدناه.
 
-### General Attributes
-Below is the list of fields you need to fill under General Attributes.
+### السمات العامة
+فيما يلي قائمة الحقول التي يجب عليك ملؤها تحت السمات العامة.
 
-   ![editProduct](../../assets/2.2.0/images/simple-product/editProduct.png)
+![editProduct](../../assets/2.2.0/images/simple-product/editProduct.png)
+### الوصف
+فيما يلي قائمة الحقول التي يجب عليك ملؤها فيما يتعلق بالمنتج تحت الوصف.
 
-### Description
-Below is the list of the fields you need to fill in regarding the product under description.
+#### الوصف القصير
+أدخل وصفًا موجزًا لميزات المنتج.
 
-#### Short Description
-Enter a short description of the feature of the product.
+#### الوصف
+اذكر منتجك بالتفصيل.
 
-#### Description
-Mention your product in detail.
+![description](../../assets/2.2.0/images/simple-product/description.png)
+### وصف ميتا
+فيما يلي قائمة الحقول التي يجب عليك توفيرها تحت وصف ميتا لجعل منتجك سهل البحث عنه على محركات البحث.
 
- ![description](../../assets/2.2.0/images/simple-product/description.png)
+#### عنوان ميتا
+قدّم العنوان الرئيسي للمنتج الذي سيكون معروفًا به منتجك.
 
-### Meta Description
-Below is the list of fields that you need to provide under the meta description to make your product easily searchable on search engines.
+#### كلمات مفتاحية ميتا
+يجب تقديم الكلمات المفتاحية ميتا للمنتج لتحسين إمكانية البحث عنه على محرك البحث لكلمات مفتاحية محددة.
 
-#### Meta Title
-Provide the main title of the product by which your product will be known.
-
-#### Meta Keyword
-The meta keyword for the product needs to be provided to improve its searchability on the search engine for specific keywords.
-
-#### Meta Description
-Enter the description so that products can easily appear in search engine listings.
+#### وصف ميتا
+أدخل الوصف حتى يمكن أن تظهر المنتجات بسهولة في قوائم محركات البحث.
 
 ![metaDescription](../../assets/2.2.0/images/simple-product/metaDescription.png)
 
-### Images
-To add the product images, click on **Add Images**. You can add multiple images for your product.
+### الصور
+لإضافة صور المنتج، انقر على **إضافة صور**. يمكنك إضافة العديد من الصور لمنتجك.
 
 ![image](../../assets/2.2.0/images/simple-product/image.png)
+### جديد
+قم بتمكين زر التبديل إذا كنت تريد عرض المنتج على أنه منتج جديد. سيتم عرض المنتج الناتج تحت قسم المنتجات الجديدة.
 
-### New
-Enable the toggle button if you want to feature the product as a new product. The resulting product will be shown under the New Products section.
+### مميز
+قم بتمكين زر التبديل إذا كنت تريد عرض المنتج تحت قسم المنتجات المميزة.
 
-### Featured
-Enable the toggle button if you want to show the product under the Featured Products section.
+### مرئي بشكل فردي
+قم بتمكين زر التبديل حتى يكون المنتج مرئيًا على الواجهة الأمامية.
 
-### Visible Individually
-Enable the toggle button so that the product will be visible on the front end.
+### الحالة
+قم بتمكين زر التبديل لتفعيل المنتج في متجرك الإلكتروني.
 
-### Status
-Enable the toggle button to enable the product on your eCommerce store.
-
-### Guest Checkout
-Enable the toggle button to allow the product to be ordered by guest customers.
+### الدفع بدون تسجيل
+قم بتمكين زر التبديل للسماح للضيوف بطلب المنتج.
 
 ![toggleButtons](../../assets/2.2.0/images/simple-product/toggleButtons.png)
 
-### Price
-Insert the price, cost, and special price, and set the special price date for which the special price will be shown on the website.
+### السعر
+أدخل السعر والتكلفة والسعر الخاص وحدد تاريخ السعر الخاص الذي سيتم عرضه على الموقع.
 
 ![price](../../assets/2.2.0/images/simple-product/price.png)
 
-### Shipping
-Set the Width, Height, Depth, and Weight of the product.
+### الشحن
+قم بتعيين العرض والارتفاع والعمق والوزن للمنتج.
 
 ![shipping](../../assets/2.2.0/images/simple-product/shipping.png)
 
-### Inventories
-Insert the quantity of the product that is there in your inventory. By default, it is set to 0 so it shows on the front end as out of stock.
+### المخزون
+أدخل كمية المنتج الموجودة في مخزونك. بشكل افتراضي، يتم ضبطها على 0 حتى تظهر على الواجهة الأمامية على أنها غير متوفرة.
 
 ![inventories](../../assets/2.2.0/images/simple-product/inventories.png)
+### القنوات
 
-### Channels
-
-Select the channels in which you want to save this product.
+حدد القنوات التي تريد حفظ هذا المنتج بها.
 
 ![Channels](../../assets/2.2.0/images/simple-product/channels.png)
 
-At last, **Save the Product**.
+في النهاية، **احفظ المنتج**.
 
-### Front End
-The product will be visible as given below on the front end.
+### الواجهة الأمامية
+سيكون المنتج مرئيًا على النحو الموضح أدناه على الواجهة الأمامية.
 
 ![product](../../assets/2.2.0/images/simple-product/product.png)
-

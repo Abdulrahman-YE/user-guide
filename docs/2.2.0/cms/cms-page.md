@@ -1,41 +1,41 @@
-# CMS Pages
+# صفحات CMS
 
-With the help of CMS(content management system), you can create a new page, and edit the page for your Bagisto store. CMS is also helpful for the customer while purchasing the product to check the refund and return policy and many more.
+بمساعدة نظام إدارة المحتوى (CMS)، يمكنك إنشاء صفحة جديدة وتحرير الصفحة لمتجر Bagisto الخاص بك. يعد نظام إدارة المحتوى مفيدًا أيضًا للعملاء أثناء شراء المنتج للتحقق من سياسة الاسترجاع والاسترداد والعديد من الأمور الأخرى.
 
-### To create a CMS page from the Admin Panel follow the below steps:
+### لإنشاء صفحة CMS من لوحة التحكم، اتبع الخطوات التالية:
 
-**Add a New Page**
+**إضافة صفحة جديدة**
 
-**Step 1:** On the Admin Sidebar, click on  **CMS >> Page** By default there are already CMS pages located here to create a new CMS page click on the **Create Page** button as shown below.
+**الخطوة 1:** في الشريط الجانبي للإدارة، انقر على **CMS >> صفحة**. بشكل افتراضي، توجد صفحات CMS هنا، لإنشاء صفحة CMS جديدة انقر على زر **إنشاء صفحة** كما هو موضح أدناه.
 
- ![CMS](../../assets/2.2.0/images/cms/createPage.png)
+![CMS](../../assets/2.2.0/images/cms/createPage.png)
+  
+**الخطوة 2:** أضف **عنوان** الصفحة واختر القنوات تحت القسم العام كما هو موضح في الصورة أدناه.
 
-**Step 2:** Add the page **Title** and add channels under general as shown in below image 
+![General](../../assets/2.2.0/images/cms/general.png)
+  
+**الخطوة 3:** أضف **المحتوى** لصفحة CMS تحت **الوصف**.
 
- ![General](../../assets/2.2.0/images/cms/general.png)
+![Description](../../assets/2.2.0/images/cms/description.png)
+  
+**الخطوة 4:** أضف الحقول التالية تحت **تحسين محركات البحث (SEO)**
 
-**Step 3:** Add the **Content** of the CMS page under **Description**.
+1. **وصف ميتا**  
+   أدخل الوصف حتى تظهر **صفحة CMS** بسهولة في قوائم محركات البحث.
 
- ![Description](../../assets/2.2.0/images/cms/description.png)
+2. **عنوان ميتا**  
+   قدم العنوان الرئيسي لصفحة **CMS** الذي ستعرف به صفحتك.
 
-**Step 4:** Add the below fields under **SEO**
+3. **كلمة مفتاحية ميتا**  
+   يجب تقديم الكلمة المفتاحية للصفحة لتحسين ظهورها في محركات البحث لكلمات معينة.
 
-1. **Meta Description**
-Enter the description so that **CMS Page** can easily appear in search engine listings.
+4. **مفتاح URL**  
+   مفتاح URL هو الجزء من عنوان URL الثابت الذي يصف الصفحة أو المنتج أو الفئة.
 
-2. **Meta Title**
-So Provide the main title of the **CMS Page** by which your page will be known.
+![SEO](../../assets/2.2.0/images/cms/seo.png)
+  
+بهذا، تم إنشاء صفحة CMS جديدة بنجاح باسم **صفحة جديدة** كما هو موضح في الصورة أدناه.
 
-3. **Meta Keyword**
-The meta keyword for the page needs to be provided to improve its searchability on the search engine for specific keywords.
-
-4. **URL Key** The URL key is the part of a static URL that describes the Page, product, or category. 
-
- ![SEO](../../assets/2.2.0/images/cms/seo.png)
-
-So a new CMS page is been created successfully by the name of **New Page** as shown below image.
-
- ![output](../../assets/2.2.0/images/cms/output.png)
-
-By this, you can easily create CMS pages in Bagisto.
-
+![output](../../assets/2.2.0/images/cms/output.png)
+  
+بهذا يمكنك بسهولة إنشاء صفحات CMS في Bagisto.

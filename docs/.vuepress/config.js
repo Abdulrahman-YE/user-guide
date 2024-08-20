@@ -2,37 +2,36 @@ module.exports = {
     base: '/',
     port: '8080',
     cache: false,
-    title: 'Bagisto User Guide',
-    description: 'Unlock the full potential of Bagisto with our detailed user guide. This step-by-step documentation is perfect for beginners, covering installation, configuration, and advanced features to help you master your eCommerce platform',
+    title: 'دليل مستخدم Bagisto',
+    description: 'استثمر الإمكانيات الكاملة لـ Bagisto مع دليل المستخدم المفصل لدينا. هذه الوثائق خطوة بخطوة مثالية للمبتدئين، تغطي التثبيت، التكوين، والميزات المتقدمة لمساعدتك في إتقان منصة التجارة الإلكترونية الخاصة بك.',
     head: [
         ['link', { rel: "icon", type: "image/png", href: "/favicon.ico" }],
         ['script', { src: 'https://vikastiwari-webkul.github.io/ai-chatbot/chatbot.js', async: true}]
     ],
     themeConfig: {
         smoothScroll: true,
-        lastUpdated: 'Last Updated',
+        lastUpdated: 'آخر تحديث',
         repo: 'bagisto/bagisto',
-        repoLabel: 'Contribute to Bagisto',
+        repoLabel: 'ساهم في Bagisto',
         docsRepo: 'bagisto/bagisto-docs',
         docsDir: 'docs',
         docsBranch: 'master',
         editLinks: true,
-        editLinkText: 'Help us improve this page on Github.',
+        editLinkText: 'ساعدنا في تحسين هذه الصفحة على Github.',
 
         logo: '/logo.png',
         nav: [
-            { text: 'Home', link: '/' },
-            { text: 'Extensions', link: 'https://bagisto.com/en/extensions/' },
-            { text: 'Community Forum', link: 'https://forums.bagisto.com/' }
+            { text: 'الرئيسية', link: '/' },
+            { text: 'الإضافات', link: 'https://bagisto.com/en/extensions/' },
+            { text: 'منتدى المجتمع', link: 'https://forums.bagisto.com/' }
         ],
 
-        contactUs: { text: 'Contact Us', link: 'https://bagisto.com/en/contacts/' },
+        contactUs: { text: 'اتصل بنا', link: 'https://bagisto.com/en/contacts/' },
 
         sidebar: {
             '/2.2.0/': require('./version-configs/2.2.0'),
             '/2.1.0/': require('./version-configs/2.1.0'),   
             '/2.0/': require('./version-configs/2.0')
-           
         }
     },
     markdown: {

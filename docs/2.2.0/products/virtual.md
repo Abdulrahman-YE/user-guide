@@ -1,95 +1,93 @@
-# Virtual Product
+# منتج افتراضي
 
-This document provides a guide on creating virtual products in Bagisto 2.2.0. In an eCommerce store, products can generally be categorized into two types: physical and intangible. Virtual products fall under the category of intangible products, including memberships, services, warranties, or subscriptions in [Bagisto](https://bagisto.com/en/).
+يوفر هذا المستند دليلاً لإنشاء منتجات افتراضية في Bagisto 2.2.0. في متجر التجارة الإلكترونية ، يمكن تصنيف المنتجات بشكل عام إلى نوعين: مادية وغير ملموسة. تندرج المنتجات الافتراضية تحت فئة المنتجات غير الملموسة ، بما في ذلك العضويات والخدمات والضمانات أو الاشتراكات في [Bagisto](https://bagisto.com/en/).
 
-A virtual product, unlike a downloadable product, is not something that can be downloaded but rather a service offered to customers.
+المنتج الافتراضي ، بخلاف المنتج القابل للتنزيل ، ليس شيئًا يمكن تنزيله ولكنه خدمة يتم تقديمها للعملاء.
 
-### Steps To Create Virtual Product In Bagisto 2.2.0
+### خطوات إنشاء منتج افتراضي في Bagisto 2.2.0
 
-1. Go to **Catalog >> Products >> Select Virtual** under Product Type select **Family**.
-2. Enter **SKU** and **Save the Product**, as shown in the image below.
+1. انتقل إلى **Catalog >> Products >> Select Virtual** تحت نوع المنتج حدد **Family**.
+2. أدخل **SKU** وقم **بحفظ المنتج** ، كما هو موضح في الصورة أدناه.
 
-    ![Virtual](../../assets/2.2.0/images/virtual-product/virtual.png)
+ ![Virtual](../../assets/2.2.0/images/virtual-product/virtual.png)
 
-After clicking on the Save Product button, you'll be redirected to the next page with various new settings.
+بعد النقر فوق زر حفظ المنتج ، سيتم إعادة توجيهك إلى الصفحة التالية مع إعدادات جديدة متنوعة.
 
-### General Settings
+### الإعدادات العامة
 
-- **Name:** Enter the name of the product.
-- **URL Key:** This will be the end of the URL, 
-    e.g., http://bagisto.test.com/products/fitness-membership (fitness-membership is a URL key).
-- **Tax Category:** Select the tax category from the dropdown list.
+- **الاسم:** أدخل اسم المنتج.
+- **مفتاح URL:** سيكون هذا نهاية عنوان URL ،
+    على سبيل المثال ، http://bagisto.test.com/products/fitness-membership (fitness-membership هو مفتاح URL).
+- **فئة الضريبة:** حدد فئة الضريبة من القائمة المنسدلة.
 
-    ![editProduct](../../assets/2.2.0/images/virtual-product/editProduct.png)
+ ![editProduct](../../assets/2.2.0/images/virtual-product/editProduct.png)
 
-#### New
+#### جديد
 
-- Enable the toggle button to feature the product as a new product, which will be shown under the New Products section.
+- قم بتمكين زر التبديل لتميز المنتج كمنتج جديد ، والذي سيظهر في قسم المنتجات الجديدة.
 
-#### Featured
+#### مميز
 
-- Enable the toggle button to show the product under the Featured Products section.
+- قم بتمكين زر التبديل لإظهار المنتج في قسم المنتجات المميزة.
 
-#### Visible Individually
+#### مرئي فرديًا
 
-- Enable the toggle button to make the product visible on the frontend.
+- قم بتمكين زر التبديل لجعل المنتج مرئيًا في الواجهة الأمامية.
 
-#### Status
+#### الحالة
 
-- Enable the toggle button to enable the product on your eCommerce store.
+- قم بتمكين زر التبديل لتمكين المنتج في متجر التجارة الإلكترونية الخاص بك.
 
-#### Guest Checkout
+#### تسجيل الخروج كضيف
 
-- Enable the toggle button to allow guest customers to order the product.
+- قم بتمكين زر التبديل للسماح للعملاء الضيوف بطلب المنتج.
 
-    ![toggleButtons](../../assets/2.2.0/images/virtual-product/toggleButtons.png)
+ ![toggleButtons](../../assets/2.2.0/images/virtual-product/toggleButtons.png)
 
-### Description
+### الوصف
 
-Fill in the following fields under the description:
+قم بتعبئة الحقول التالية تحت الوصف:
 
-- **Short Description:** Enter a brief description of the product feature.
-- **Description:** Provide a detailed description of the product.
+- **وصف موجز:** أدخل وصفًا موجزًا لميزات المنتج.
+- **الوصف:** قدم وصفًا تفصيليًا للمنتج.
 
-    ![description](../../assets/2.2.0/images/virtual-product/description.png)
+![description](../../assets/2.2.0/images/virtual-product/description.png)
+### الوصف التعريفي
 
-### Meta Description
+قم بتعبئة الحقول التالية تحت الوصف التعريفي لتحسين إمكانية الوصول في محركات البحث:
 
-Fill in the following fields under meta description for improved searchability on search engines:
-
-- **Meta Title:** Provide the main title of the product.
-- **Meta Keyword:** Provide meta keywords for specific search engine optimization.
-- **Meta Description:** Enter a description for better search engine listings.
+- **عنوان الميتا:** قدم العنوان الرئيسي للمنتج.
+- **كلمات مفتاحية للميتا:** قدم كلمات مفتاحية للميتا لتحسين محركات البحث.
+- **وصف الميتا:** أدخل وصفًا لإدراجات محركات البحث الأفضل.
 
     ![metaDescription](../../assets/2.2.0/images/virtual-product/metaDescription.png)
 
-### Images
+### الصور
 
-Add product images by clicking on **Add Images**. Multiple images can be added.
+أضف صور المنتج بالنقر فوق **إضافة صور**. يمكن إضافة صور متعددة.
 
  ![image](../../assets/2.2.0/images/virtual-product/image.png)
 
-### Channels
+### القنوات
 
-Select the channels in which you want to save this product.
+حدد القنوات التي تريد حفظ هذا المنتج بها.
 
 ![Channels](../../assets/2.2.0/images/simple-product/channels.png)
 
-### Inventory
+### المخزون
 
-Insert the quantity of the product available in your inventory. The default is set to 0, indicating out of stock on the frontend.
+أدخل كمية المنتج المتاحة في مخزونك. الافتراضي محدد على 0 ، مما يشير إلى نفاد المخزون في الواجهة الأمامية.
 
 ![inventories](../../assets/2.2.0/images/virtual-product/inventories.png)
 
-### Price
+### السعر
 
-Insert the price, cost, and special price. Set the special price date for displaying the special price on the website.
+أدخل السعر والتكلفة والسعر الخاص. حدد تاريخ السعر الخاص لعرض السعر الخاص على الموقع.
 
 ![price](../../assets/2.2.0/images/virtual-product/price.png)
 
-### Product At Front End
+### المنتج في الواجهة الأمامية
 
-The virtual product will be visible at the front end.
+سيكون المنتج الافتراضي مرئيًا في الواجهة الأمامية.
 
 ![output](../../assets/2.2.0/images/virtual-product/output.png)
-

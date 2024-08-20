@@ -1,26 +1,21 @@
-# Reorder
+# إعادة الطلب
 
-Reordering is the processing of placing an order for the same item that you have previously purchased. Some customers may not want to be locked into a long-term subscription commitment and may opt to reorder the same product from you since a reorder is more flexible than a standard subscription.
+إعادة الطلب هي عملية تقديم طلب لنفس العنصر الذي قمت بشرائه سابقًا. قد لا يرغب بعض العملاء في الالتزام طويل الأجل بالاشتراك، وقد يختارون إعادة طلب نفس المنتج منك لأن إعادة الطلب أكثر مرونة من الاشتراك العادي.
 
-### How to Manage Reorder in Bagisto2.2.0
+### كيفية إدارة إعادة الطلب في Bagisto 2.2.0
 
-**Step-1** In the admin panel click on **Sales >> Orders >> Edit Order** and after then click **Reorder** as shown in the below image.
+**الخطوة 1:** في لوحة الإدارة، انقر على **المبيعات >> الطلبات >> تعديل الطلب**، ثم انقر على **إعادة الطلب** كما هو موضح في الصورة أدناه.
 
-   ![Reorder](../../assets/2.2.0/images/orders/reorder.png)
+![Reorder](../../assets/2.2.0/images/orders/reorder.png)
+**الخطوة 2:** يمكنك أيضًا زيادة كمية المنتج. الآن انقر على إضافة عنوان كما هو موضح في الصورة أدناه.
 
-**Step-2** You can also increase the quantity of the product. Now click on add address as shown in below image.
+![Reorder Address](../../assets/2.2.0/images/orders/reorderAddress.png)
+**الخطوة 3:** الآن أضف جميع المعلومات في نموذج عنوان الفاتورة، ثم انقر على زر **حفظ** كما هو موضح في الصورة أدناه.
 
-  ![Reorder Address](../../assets/2.2.0/images/orders/reorderAddress.png )
+![Bill Address](../../assets/2.2.0/images/orders/billAddress.png)
+**الخطوة 4:** الآن أضف طرق الشحن والدفع، ثم انقر على **تقديم الطلب** كما هو موضح في الصورة أدناه.
 
-**Step-3** Now add all the informtions in billing address form and then click on **Save button** as shown in the below image.
+![Place Order](../../assets/2.2.0/images/orders/placeOrder.png)
+**الخطوة 5:** تم تحديث إعادة الطلب بنجاح في جدول بيانات الطلبات كما هو موضح في الصورة أدناه.
 
-  ![Bill Address](../../assets/2.2.0/images/orders/billAddress.png )
-
-**Step-4** Now add the shipping and payment methods and click on **Place Order** as shown in the below image.
-
-  ![Place Order](../../assets/2.2.0/images/orders/placeOrder.png )
-
-**Step-5** Reorder is successfully updated in the order datagrid as shown in the below image.
-
-  ![Reorder Output](../../assets/2.2.0/images/orders/reorderOutput.png )
-
+![Reorder Output](../../assets/2.2.0/images/orders/reorderOutput.png)

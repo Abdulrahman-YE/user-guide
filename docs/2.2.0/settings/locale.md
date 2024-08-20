@@ -1,35 +1,31 @@
-# Locales
+# اللغات
 
-To display your website in a different language you need to set the Locale in bagisto. Having more than one language for your website can improve the shopping experience for your customers.
+لعرض موقعك الإلكتروني بلغة مختلفة، تحتاج إلى ضبط اللغة في Bagisto. وجود أكثر من لغة لموقعك يمكن أن يحسن تجربة التسوق لعملائك.
 
-### Set Locales in Bagisto.
+### تعيين اللغات في Bagisto
 
-Here we have explained steps to set Locales in bagisto.
+هنا شرح للخطوات اللازمة لتعيين اللغات في Bagisto.
 
-**Step 1:** On the Admin panel of Bagisto go to **Settings >> Locales >> Create Locale** as shown below.
+**الخطوة 1:** في لوحة الإدارة الخاصة بـ Bagisto، انتقل إلى **الإعدادات >> اللغات >> إنشاء لغة** كما هو موضح أدناه.
 
-  ![Locales](../../assets/2.2.0/images/settings/locales.png)
+![Locales](../../assets/2.2.0/images/settings/locales.png)
+**الخطوة 2:** الآن أضف الحقول التالية
 
-**Step 2:** Now add the below fields 
+**1. الرمز** كل لغة لها رمز فريد.
 
-**1.Code** Every language has its unique code.
+**2. الاسم** اسم اللغة.
 
-**2.Name** Name of the language.
+**3. الاتجاهات** أضف الاتجاه الذي تعمل به لغتك **LTR (من اليسار إلى اليمين)، RTL (من اليمين إلى اليسار)**.
 
-**3.Directions** Add the direction in which your language work **LTR (Left To Right) , RTL (Right To Left)**. 
+**4. الشعار** أضف شعار لغتك.
 
-**4.Logo** Add the logo of your language 
-
-Now **Save Locale** as shown in below image.
+الآن **احفظ اللغة** كما هو موضح في الصورة أدناه.
 
 ![New Locale](../../assets/2.2.0/images/settings/newLocale.png)
-
-**Step 3:** Now you will able to see the new **Locale** as shown below.
+**الخطوة 3:** الآن ستتمكن من رؤية **اللغة** الجديدة كما هو موضح أدناه.
 
 ![Locale Grid](../../assets/2.2.0/images/settings/localeGrid.png)
-
-**Step 4:** On the admin panel open **Settings >> Channels** you will able to see your new language is situated in the currencies and Locales section to enable this click on to that and **Save Channel** as shown in below image.
+**الخطوة 4:** في لوحة الإدارة، افتح **الإعدادات >> القنوات**. ستتمكن من رؤية لغتك الجديدة في قسم العملات واللغات. لتمكينها، انقر على ذلك و**احفظ القناة** كما هو موضح في الصورة أدناه.
 
 ![Locale Channel](../../assets/2.2.0/images/settings/localeChannel.png)
-
-So by this you can easily create a **Locales** in Bagisto and make your website as per your language.
+بهذا يمكنك بسهولة إنشاء **اللغات** في Bagisto وجعل موقعك وفقًا للغتك.

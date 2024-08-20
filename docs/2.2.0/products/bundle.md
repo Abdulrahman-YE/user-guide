@@ -1,102 +1,102 @@
-# Bundle Product
+# المنتج الحزمة
 
-Today's document will guide you on how to create bundle products in Bagisto. Bundle products and Grouped products are similar, where a bundle product includes customizable items that the store owner can configure to create a unique product in [Bagisto](https://bagisto.com/en/)
+سيوجهك المستند اليوم حول كيفية إنشاء منتجات المجموعة في Bagisto. تعد منتجات الحزم والمنتجات المجمعة متشابهة، حيث تتضمن منتجات الحزم عناصر قابلة للتخصيص يمكن للمتجر صاحب المتجر تكوينها لإنشاء منتج فريد في [Bagisto](https://bagisto.com/en/)
 
-Each item in a bundle product can be based on one of the following product types:
+يمكن أن يكون كل عنصر في منتج الحزم مبنيًا على أحد أنواع المنتجات التالية:
 
-- [Simple Product](https://bagisto.com/en/how-to-create-simple-product-in-bagisto/)
-- [Configurable Products](https://bagisto.com/en/how-to-create-configurable-product-in-bagisto/)
+- [المنتج البسيط](https://bagisto.com/en/how-to-create-simple-product-in-bagisto/)
+- [المنتجات القابلة للتكوين](https://bagisto.com/en/how-to-create-configurable-product-in-bagisto/)
 
-### Steps To Create A Bundle Product In Bagisto 2.2.0
+### خطوات إنشاء منتج حزم في Bagisto 2.2.0
 
-1. On the Bagisto admin dashboard, go to **Catalog Section >> Products >> select Bundle** under the Product Type.
-2. Select **Attribute Family**.
-3. Enter the **SKU** (Stock Keeping Unit) for the product (unique to every product).
-4. Click the **Save Button**.
+1. في لوحة تحكم المسؤول Bagisto ، انتقل إلى **قسم الفئة >> المنتجات >> حدد Bundle** تحت نوع المنتج.
+2. حدد **عائلة السمة**.
+3. أدخل **SKU** (رمز التعريف الفردي للمنتج) للمنتج (فريد لكل منتج).
+4. انقر على **حفظ**.
 
     ![Bundle](../../assets/2.2.0/images/bundle-product/bundle.png)
 
-After clicking on the Save Product button, you will be redirected to the next page with several new settings.
+بعد النقر على زر حفظ المنتج، سيتم إعادة توجيهك إلى الصفحة التالية مع إعدادات جديدة.
 
-### General Settings
+### الإعدادات العامة
 
-- **Name:** Enter the name of the product.
-- **URL Key:** This will be the end of the URL, e.g., http://bagisto.test.com/products/assembled-core-i3-4-gb-ddr3500-gbwindows-10-pro151-inch-screen-black.
-- **Tax Category:** Select the Tax Category from the dropdown list.
+- **الاسم:** أدخل اسم المنتج.
+- **مفتاح URL:** سيكون هذا نهاية عنوان URL، على سبيل المثال، http://bagisto.test.com/products/assembled-core-i3-4-gb-ddr3500-gbwindows-10-pro151-inch-screen-black.
+- **فئة الضريبة:** حدد فئة الضريبة من القائمة المنسدلة.
 
     ![editProduct](../../assets/2.2.0/images/bundle-product/editProduct.png)
 
-#### New
+#### جديد
 
-- Enable the toggle button to feature the product as a new product, shown under the New Products section.
+- قم بتشغيل زر التبديل لعرض المنتج كمنتج جديد، ويظهر في قسم المنتجات الجديدة.
 
-#### Featured
+#### متميز
 
-- Enable the toggle button to show the product under the Featured Products section.
+- قم بتشغيل زر التبديل لعرض المنتج في قسم المنتجات المميزة.
 
-#### Visible Individually
+#### مرئي بشكل فردي
 
-- Enable the toggle button to make the product visible on the frontend.
+- قم بتشغيل زر التبديل لجعل المنتج مرئيًا على الواجهة الأمامية.
 
-#### Status
+#### الحالة
 
-- Enable the toggle button to enable the product on your eCommerce store.
+- قم بتشغيل زر التبديل لتمكين المنتج في متجرك الإلكتروني.
 
-#### Guest Checkout
+#### شراء كضيف
 
-- Enable the toggle button to allow guest customers to order the product.
+- قم بتشغيل زر التبديل للسماح للعملاء الضيوف بطلب المنتج.
 
     ![toggleButtons](../../assets/2.2.0/images/bundle-product/toggleButtons.png)
 
-### Description
+### الوصف
 
-Fill in the following fields under description:
+املأ الحقول التالية تحت الوصف:
 
-- **Short Description:** Enter a short description of the product feature.
-- **Description:** Mention your product in detail.
+- **وصف موجز:** أدخل وصفًا موجزًا لميزة المنتج.
+- **الوصف:** اذكر منتجك بالتفصيل.
 
     ![description](../../assets/2.2.0/images/bundle-product/description.png)
 
-### Meta Description
+### الميتا وصف
 
-Fill in the following fields under meta description for improved searchability on search engines:
+املأ الحقول التالية تحت الميتا وصف لتحسين قابلية البحث على محركات البحث:
 
-- **Meta Title:** Provide the main title of the product.
-- **Meta Keyword:** Provide meta keywords for specific search engine optimization.
-- **Meta Description:** Enter a description for better search engine listings.
+- **عنوان الميتا:** قدم العنوان الرئيسي للمنتج.
+- **كلمات مفتاحية للميتا:** قدم كلمات مفتاحية للميتا للتحسين المحدد لمحرك البحث.
+- **وصف الميتا:** أدخل وصفًا لقوائم محركات البحث.
 
     ![metaDescription](../../assets/2.2.0/images/bundle-product/metaDescription.png)
 
-### Images
+### الصور
 
-To add product images, click on **Add Images**. You can add multiple images for your product.
+لإضافة صور المنتج ، انقر فوق **إضافة صور**. يمكنك إضافة العديد من الصور لمنتجك.
 
 ![image](../../assets/2.2.0/images/bundle-product/image.png)
 
-### Channels
+### القنوات
 
-Select the channels in which you want to save this product.
+حدد القنوات التي تريد حفظ هذا المنتج فيها.
 
 ![Channels](../../assets/2.2.0/images/simple-product/channels.png)
 
-### Bundle Item
+### عنصر المجموعة
 
-Click on Add Option and:
+انقر فوق إضافة خيار و:
 
-- Enter the **Option Title**.
-- Set the **Input Type** (Select, Radio buttons, Checkbox, Multi-Select).
-- Mark the **Required** checkbox if the field is mandatory.
+- أدخل **عنوان الخيار**.
+- اضبط **نوع الإدخال** (اختيار ، أزرار الراديو ، فحص ، اختيار متعدد).
+- ضع علامة على خانة **مطلوب** إذا كان الحقل إلزاميًا.
 
 ![options](../../assets/2.2.0/images/bundle-product/options.png)
 
-In the Search Product section, search for the product to add to the bundle. Once found, add the product to the bundle, specifying the quantity for each item.
+في قسم البحث عن المنتج ، ابحث عن المنتج الذي تريد إضافته إلى الحزمة. بمجرد العثور عليه ، أضف المنتج إلى الحزمة ، مع تحديد الكمية لكل عنصر.
 
-At the front end, customers can increase the quantity of the product to add to the cart, but the default quantity included in a bundle item cannot be changed.
+في الواجهة الأمامية ، يمكن للعملاء زيادة كمية المنتج لإضافته إلى السلة ، ولكن لا يمكن تغيير الكمية الافتراضية المضمنة في عنصر الحزم.
 
 ![bundleOptions](../../assets/2.2.0/images/bundle-product/bundleOptions.png)
 
-### Product At Front End
+### المنتج في الواجهة الأمامية
 
-The bundle product will be visible at the front end.
+سيكون منتج المجموعة مرئيًا في الواجهة الأمامية.
 
 ![output](../../assets/2.2.0/images/bundle-product/output.png)

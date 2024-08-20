@@ -1,121 +1,119 @@
-# Communications
+# الاتصالات
 
-Constant communication with the customer, especially after they have made a purchase, about their order status, delivery status, product warranty, how to use explainer videos, ongoing or upcoming offers, and discounts, and sharing personalized cross-sell product offers consequently has proven to be a good strategy.
+الاتصال المستمر مع العميل، خاصة بعد أن قام بعملية شراء، حول حالة طلبه، وحالة التوصيل، وضمان المنتج، وكيفية استخدام مقاطع الفيديو التوضيحية، والعروض والخصومات الجارية أو القادمة، ومشاركة عروض المنتجات المتقاطعة المخصصة، أثبتت أنها استراتيجية جيدة.
 
-## Email Templates
-As we all know, everyone wants some customization according to their own taste that's why knowing about changing the email template is also quite helpful for some users.
+## قوالب البريد الإلكتروني
+كما نعلم جميعًا، يرغب الجميع في بعض التخصيص وفقًا لذوقهم الخاص، لذا فإن معرفة كيفية تغيير قالب البريد الإلكتروني مفيد أيضًا لبعض المستخدمين.
 
+### الخطوة 1:
 
-### Step 1: 
+**إضافة قالب بريد إلكتروني جديد**
 
-**Add New Email Template**
+في لوحة الإدارة، انتقل إلى **التسويق >> الاتصالات >> قوالب البريد الإلكتروني** وانقر على **إنشاء قالب** كما هو موضح في الصورة أدناه.
 
-On the Admin panel, go to **Marketing >> Communications >> Email Templates** and click on **Create Template** as shown in the below image.
- 
 ![Template](../../assets/2.2.0/images/marketing/template.png)
 
-### Step 2: 
+### الخطوة 2:
 
-Add **Name** and **Status** as Active, Inactive, or Draft of the Email Template as shown in the below image.
+أضف **الاسم** و**الحالة** كفعلية، غير فعالة، أو مسودة لقالب البريد الإلكتروني كما هو موضح في الصورة أدناه.
 
 ![Template Name](../../assets/2.2.0/images/marketing/templateName.png)
 
-### Step 3: 
+### الخطوة 3:
 
-Add the content by simply copying and pasting you can also apply a link after right-clicking on the content and add the **URL, Text to display, Title, Open Link in** as shown in the below image.
+أضف المحتوى ببساطة عن طريق النسخ واللصق، يمكنك أيضًا تطبيق رابط بعد النقر بزر الفأرة الأيمن على المحتوى وإضافة **رابط URL، النص للعرض، العنوان، فتح الرابط في** كما هو موضح في الصورة أدناه.
 
 ![Link](../../assets/2.2.0/images/marketing/link.png)
 
-Now you will able to see the new **Email Template** as shown below
+الآن ستتمكن من رؤية **قالب البريد الإلكتروني** الجديد كما هو موضح أدناه.
 
 ![Output](../../assets/2.2.0/images/marketing/output.png)
 
-So by this, you can easily create an **Email Template** and use it in emails in Bagisto.
+بهذا، يمكنك بسهولة إنشاء **قالب بريد إلكتروني** واستخدامه في الرسائل في Bagisto.
 
-## Events
+## الأحداث
 
-An event parameter is an additional piece of data about a user interaction on a website and/or app, offering valuable context and details about the interaction For Example Birthdays, Anniversaries, Baby Shower, etc. 
+معامل الحدث هو قطعة إضافية من البيانات حول تفاعل المستخدم على موقع الويب و/أو التطبيق، مما يوفر سياقًا وتفاصيل قيمة حول التفاعل. على سبيل المثال: أعياد الميلاد، الذكريات، حفلات استقبال المواليد، إلخ.
 
+### الخطوة 1:
+**إضافة حدث**
 
-### Step 1: 
-**Add Event**
-
-On the Admin panel, go to **Marketing >> Communications >> Events** and click on **Create Event** as shown in the below image.
+في لوحة الإدارة، انتقل إلى **التسويق >> الاتصالات >> الأحداث** وانقر على **إنشاء حدث** كما هو موضح في الصورة أدناه.
 
 ![Event](../../assets/2.2.0/images/marketing/event.png)
 
-### Step 2: 
+### الخطوة 2:
 
-Now add the **Event Name, Description, Date** as shown in the below image.
+الآن أضف **اسم الحدث، الوصف، التاريخ** كما هو موضح في الصورة أدناه.
 
 ![Event Name](../../assets/2.2.0/images/marketing/eventName.png)
 
-### Step 3: 
+### الخطوة 3:
 
-Now you will able to see the new **Event** as shown below.
+الآن ستتمكن من رؤية **الحدث** الجديد كما هو موضح أدناه.
 
 ![Event Output](../../assets/2.2.0/images/marketing/eventOutput.png)
 
-By this, you can easily create a **Events** in Bagisto.
+بهذا، يمكنك بسهولة إنشاء **أحداث** في Bagisto.
 
-## Campaigns
+## الحملات
 
-E-commerce marketing campaigns are designed to drive traffic and increase sales. They can help you reach many potential customers, keep existing customers engaged, and build brand loyalty.
+تهدف حملات تسويق التجارة الإلكترونية إلى جذب الزوار وزيادة المبيعات. يمكن أن تساعدك على الوصول إلى العديد من العملاء المحتملين، والحفاظ على تفاعل العملاء الحاليين، وبناء ولاء العلامة التجارية.
 
-**Add Campaigns**
+**إضافة الحملات**
 
-On the Admin panel, go to **Marketing >> Communications >> Campaigns** and click on **Create Campaign** as shown in the below image.
+في لوحة الإدارة، انتقل إلى **التسويق >> الاتصالات >> الحملات** وانقر على **إنشاء حملة** كما هو موضح في الصورة أدناه.
 
 ![Campaign](../../assets/2.2.0/images/marketing/campaign.png)
 
-### Fill in the necessary fields.
+### املأ الحقول اللازمة.
 
-**1.Name** Add the name of the campaign.
+**1. الاسم** أضف اسم الحملة.
 
-**2.Subject** Add the subject according to your requirements.
+**2. الموضوع** أضف الموضوع وفقًا لمتطلباتك.
 
-**3.Events** Select the event for which you want to apply the campaign you can also add your events to this also.
+**3. الأحداث** اختر الحدث الذي تريد تطبيق الحملة عليه، يمكنك أيضًا إضافة أحداثك إلى هذا.
 
-**4.Email Template** Select the Email template to which you want to apply to send the emails for the campaign.
+**4. قالب البريد الإلكتروني** اختر قالب البريد الإلكتروني الذي تريد تطبيقه لإرسال الرسائل للحملة.
 
-**5.Channel** Select the channel.
+**5. القناة** اختر القناة.
 
-**6.Customer Group** Select the customer group which you want to apply the campaign for.
+**6. مجموعة العملاء** اختر مجموعة العملاء التي تريد تطبيق الحملة عليها.
 
-**7.Status** Select the Status to yes/no.
+**7. الحالة** اختر الحالة نعم/لا.
 
 ![Campaign Configuration](../../assets/2.2.0/images/marketing/campaignConfigration.png)
 
- ### Step 4: 
+### الخطوة 4:
 
-Now you will able to see the new **Campaign** as shown below.
+الآن ستتمكن من رؤية **الحملة** الجديدة كما هو موضح أدناه.
 
 ![Campaign Output](../../assets/2.2.0/images/marketing/campaignOutput.png)
 
-By this, you can easily create a **Campaigns** in Bagisto.
+بهذا، يمكنك بسهولة إنشاء **حملات** في Bagisto.
 
-## Newsletter Subscriptions
+## اشتراكات النشرة الإخبارية
 
-Bagisto newsletter subscription is an opportunity for the store owners to let their customers receive an interesting newsletter from your Bagisto website.
+تعد اشتراكات النشرة الإخبارية في Bagisto فرصة لمالكي المتاجر للسماح لعملائهم باستقبال نشرة إخبارية مثيرة من موقع Bagisto الخاص بك.
 
-Email marketing is one of the most powerful tools for your website.
+يعد التسويق عبر البريد الإلكتروني أحد أقوى الأدوات لموقعك.
 
-This feature allows you to communicate with your customers in bulk about upcoming offers of your stores such as Black Friday sales, Christmas sales, and New Year offers.
+تتيح لك هذه الميزة التواصل مع عملائك بشكل جماعي حول العروض القادمة لمتاجرك مثل مبيعات الجمعة السوداء، ومبيعات عيد الميلاد، وعروض رأس السنة الجديدة.
 
-### Admin Configuration
+### إعدادات الإدارة
 
-**Step 1)** Firstly the admin can navigate to **Configue >> Customer >> Settings**
+**الخطوة 1)** أولاً، يمكن للمسؤول الانتقال إلى **الإعدادات >> العملاء >> الإعدادات**
 
 ![Newsletter Settings](../../assets/2.2.0/images/marketing/newsletterSettings.png)
 
-**Step 2)** Now Enable the **Newsletter Subscription** and click on **Save Configuration** button as shown in below image.
+**الخطوة 2)** الآن قم بتمكين **اشتراك النشرة الإخبارية** وانقر على زر **حفظ الإعدادات** كما هو موضح في الصورة أدناه.
 
 ![Newsletter Settings](../../assets/2.2.0/images/marketing/enableNewsletter.png)
 
-### Newsletter subscriptions
+### اشتراكات النشرة الإخبارية
 
-Here the admin can see all their customers who subscribed to the newsletter subscription.
+هنا يمكن للمسؤول رؤية جميع عملائهم الذين اشتركوا في النشرة الإخبارية.
 
-Also, the admin will navigate to **Marketing >> Communications >> Newsletter Subscriptions** as shown in the below image.
+أيضًا، يمكن للمسؤول الانتقال إلى **التسويق >> الاتصالات >> اشتراكات النشرة الإخبارية** كما هو موضح في الصورة أدناه.
 
 ![Newsletter Settings](../../assets/2.2.0/images/marketing/newsletterGrid.png)

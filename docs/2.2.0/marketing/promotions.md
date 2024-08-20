@@ -1,176 +1,182 @@
-# Promotions
+# الترويجات
 
-Promotion is when you offer sales and discounts to online shoppers to get new customers and increase revenue. And more importantly, these promotions can turn new visitors into loyal customers and repeat buyers.
+الترويج هو عندما تقدم خصومات وعروض للمشترين عبر الإنترنت لجذب عملاء جدد وزيادة الإيرادات. والأهم من ذلك، أن هذه الترويجات يمكن أن تحول الزوار الجدد إلى عملاء مخلصين وشراء متكرر.
 
-## Cart Rules
+## قواعد السلة
 
-It is human nature that everyone is attracted to offers, sales, and discounts while doing Shopping. Cart rule applied to the product in the shopping cart. Here will discuss how to set cart rules in Bagisto.
+إنها طبيعة الإنسان أن يجذب الجميع العروض والخصومات أثناء التسوق. يتم تطبيق قاعدة السلة على المنتجات في عربة التسوق. هنا سنتحدث عن كيفية إعداد قواعد السلة في Bagisto.
 
-By using it, you can set one or multiple discounts on the same product. Follow the below step “How to set cart rules in Bagisto”.
+باستخدامها، يمكنك تحديد خصم واحد أو أكثر على نفس المنتج. اتبع الخطوات أدناه "كيفية إعداد قواعد السلة في Bagisto".
 
-### Step 1: Add New Cart Rule
+### الخطوة 1: إضافة قاعدة سلة جديدة
 
-1. On Admin panel, go to **Marketing >> Promotions >> Cart Rules** click on create **Cart Rule** as shown in below image
+1. في لوحة الإدارة، انتقل إلى **التسويق >> الترويجات >> قواعد السلة** وانقر على إنشاء **قاعدة سلة** كما هو موضح في الصورة أدناه.
 
- ![Cart Rule](../../assets/2.2.0/images/marketing/createCartrule.png)
+![Cart Rule](../../assets/2.2.0/images/marketing/createCartrule.png)
 
-### Do the following entry in the Rule Information Section
 
-**1.Name:-** Enter the name of the new cart rule. (only for internal reference)
+### قم بإدخال ما يلي في قسم معلومات القاعدة
 
-**2.Description:-** Enter a description of the rule. (only for internal reference)
+**1. الاسم:** أدخل اسم قاعدة السلة الجديدة. (فقط للرجوع الداخلي)
 
-**3.Status:-** Set status of cart rule is active.
+**2. الوصف:** أدخل وصف القاعدة. (فقط للرجوع الداخلي)
 
-**4.Channels:-** Select the channel on which this cart rule will be applied.
+**3. الحالة:** حدد حالة قاعدة السلة لتكون نشطة.
 
-**5.Customer Group:-** Select the customer group on which this cart rule will be applied.
+**4. القنوات:** اختر القناة التي سيتم تطبيق قاعدة السلة عليها.
 
-**6.Coupon Type:-** Select coupon type with or without the coupon. If you want to cart rule applied on all the carts Set “No Coupon“.
+**5. مجموعة العملاء:** اختر مجموعة العملاء التي سيتم تطبيق قاعدة السلة عليها.
 
-### If you want to use coupon then select “Specific coupon” and do the entry in the following field.
+**6. نوع القسيمة:** اختر نوع القسيمة مع أو بدون القسيمة. إذا كنت تريد تطبيق قاعدة السلة على جميع العربات، حدد "لا قسيمة".
 
-**1. Auto Generate Coupon:-** Set  Yes/No, If you select No then do the following step. if you  Set “Yes” then generate the automatic coupon.
+### إذا كنت ترغب في استخدام قسيمة، اختر "قسيمة محددة" وأدخل المعلومات في الحقول التالية.
 
-**2.Coupon Code:-** Enter the coupon code, that is entered while doing the checkout process to get a discount.
+**1. توليد القسيمة تلقائيًا:** حدد نعم/لا. إذا اخترت لا، فقم بالخطوة التالية. إذا حددت "نعم"، سيتم إنشاء قسيمة تلقائيًا.
 
-**3.Uses Per Coupon:-** To determine the number of times the coupon can be used. Leave it blank if there is no limitation.
+**2. رمز القسيمة:** أدخل رمز القسيمة، الذي يتم إدخاله أثناء عملية الدفع للحصول على خصم.
 
-**4.Uses per Customer:-** To determine the number of times the cart rule can be used for the same customer. Leave it blank if there is no limitation.
+**3. الاستخدامات لكل قسيمة:** لتحديد عدد المرات التي يمكن استخدام القسيمة فيها. اتركه فارغًا إذا لم يكن هناك حد.
 
-**5.From and To dates:-** Set the range of dates, when the cart rule will be affected. If you do not set the dates, the rule applies as soon as the rule is saved.
+**4. الاستخدامات لكل عميل:** لتحديد عدد المرات التي يمكن استخدام قاعدة السلة لنفس العميل. اتركه فارغًا إذا لم يكن هناك حد.
 
-**6.Priority:-** Enter the priority of this rule.
+**5. من وإلى التواريخ:** حدد نطاق التواريخ، عندما ستؤثر قاعدة السلة. إذا لم تحدد التواريخ، ستطبق القاعدة بمجرد حفظها.
 
-**Note:-  Priority is important when products meet the condition set for more than one cart rule. The highest priority is 0. So when more than one condition, the highest priority will be applied first.**
+**6. الأولوية:** أدخل أولوية هذه القاعدة.
 
- ![Configurations](../../assets/2.2.0/images/marketing/configurations.png)
+**ملاحظة:** الأولوية مهمة عندما تلتقي المنتجات بالشروط المحددة لأكثر من قاعدة سلة واحدة. الأولوية الأعلى هي 0. لذلك عندما توجد أكثر من شرط، سيتم تطبيق الأولوية الأعلى أولاً.
 
-### Step 2: Set Conditions
+![Configurations](../../assets/2.2.0/images/marketing/configurations.png)
 
-The condition in the cart rule is based on the cart attribute, cart item attribute, and product attribute. If you want to apply the rule on all products don’t set any condition. Set the condition type to all conditions that are true or any condition that is true.
 
- ![Condition](../../assets/2.2.0/images/marketing/condition.png)
+### الخطوة 2: تحديد الشروط
 
-Then click on the Add condition to set the conditions. Under the list of a product attribute, select the attribute that you want to set for the condition.
-
-![Attribute Condition](../../assets/2.2.0/images/marketing/attributeCondition.png)
-
-For example, if you have selected Categories then you have to choose contains/does not contain and select the category as in the below image.
-
-If you want to delete any condition, then click on the delete icon.
-
-### Step 3: Set the Actions
-
-In the Action section, we have to set actions like how we want to apply the rule to the product.
-
-**1.Actions Type:-**  You can apply a discount on a percentage basis or a fixed amount basis.
-
-**2.Discount Amount:-** Enter discount amount.
-
-**3. End Other Rules:-** To stop applying other rules after this rule applies set “Yes”. This will work for applying multiple discounts on the same product.
-
-**4. Apply to Shipping:-** Add Yes/No according to your requirement if you want to apply shipping or not 
-
-**5. Buy X Quantity:-** The number of quantities you want to add.
-
-**6.Free Shipping:-** Add Yes/No according to your requirement if you want to apply Free shipping or not. 
-
-**7.Maximum Quantity allowed to be discounted:-** Add the number of the quantity you wanted to apply the discount for
-
-So after clicking the **Save Cart Rule** button 
-
-Now copy the **Coupon Code** as shown in the below image
-
-![Coupon Code](../../assets/2.2.0/images/marketing/couponCode.png)
-
-### Front End:-
-
-On the **Checkout Page** while placing an order click on **Apply Coupon** as shown in the below image 
-
-![Checkout Page](../../assets/2.2.0/images/marketing/checkoutPage.png)
-
-After adding the coupon code click on the **Apply** button as shown below 
-
-![Apply Coupon](../../assets/2.2.0/images/marketing/applyCoupon.png)
-
-Now **Coupon** is applied successfully 
-
-![Coupon](../../assets/2.2.0/images/marketing/couponApplied.png)
-
-By following the above Steps you can easily create a **Cart Rules** in Bagisto.
-
-
-## Catalog Rules
-
-The catalog rule is a special rule that allows the customer to purchase the product at discounted prices that are set by the admin from the backend. Here will discuss how to set catalog rules in Bagisto.
-
-The catalog rule is applied to the product before placed into the shopping cart. Follow the below step “How to set catalog rules in Bagisto”.
-
-### Step 1: Add New Catalog Rule
-
-a)On Admin panel, go to **Marketing >> Promotions >> Catalog Rules**
-
-b)On the upper right side, click on **Create Catalog Rule** button as shown below
-
-![Catalog](../../assets/2.2.0/images/marketing/catalogRule.png)
-
-### Do the following entry in the Rule Information Section
-
-**1.Name:-** Enter the name of the new catalog rule. (only for internal reference)
-
-**2.Description:-** Enter a description of the rule. (only for internal reference)
-
-**3.Status:-** Set status of catalog rule is active.
-
-**4.Channels:-** Select the channel on which this catalog rule will be applied.
-
-**5.Customer Group:-** Select the customer group on which this catalog rule will be applied.
-
-**6.From and To dates:-** Set the range of dates, when the catalog rule will be affected. If you do not set the dates, the rule applies as soon as the rule is saved.
-
-**7.Priority:-** Enter the priority of this rule.
-
-![Catalog Configurations](../../assets/2.2.0/images/marketing/catalogConfigurations.png)
-
-### Step 2: Set Conditions
-
-All condition in the catalog rule is based on the product attribute. If you want to apply the rule on all products don’t set any condition. Set the condition type to all conditions that are true or any condition that is true.
+تستند الشروط في قاعدة السلة إلى سمات السلة، وسمة عنصر السلة، وسمة المنتج. إذا كنت تريد تطبيق القاعدة على جميع المنتجات، فلا تحدد أي شرط. حدد نوع الشرط ليكون جميع الشروط صحيحة أو أي شرط صحيح.
 
 ![Condition](../../assets/2.2.0/images/marketing/condition.png)
 
-Then click on the Add condition to set the conditions. Under the list of a product attribute, select the attribute that you want to set for the condition.
+
+ثم انقر على إضافة شرط لتحديد الشروط. تحت قائمة سمات المنتج، اختر السمة التي تريد تحديدها للشرط.
+
+![Attribute Condition](../../assets/2.2.0/images/marketing/attributeCondition.png)
+
+
+على سبيل المثال، إذا اخترت الفئات، فيجب عليك اختيار "يحتوي على/لا يحتوي على" واختيار الفئة كما هو موضح في الصورة أدناه.
+
+إذا كنت ترغب في حذف أي شرط، فانقر على رمز الحذف.
+
+### الخطوة 3: تحديد الإجراءات
+
+في قسم الإجراءات، يجب علينا تحديد الإجراءات مثل كيفية تطبيق القاعدة على المنتج.
+
+**1. نوع الإجراءات:** يمكنك تطبيق خصم على أساس النسبة المئوية أو على أساس مبلغ ثابت.
+
+**2. مبلغ الخصم:** أدخل مبلغ الخصم.
+
+**3. إنهاء القواعد الأخرى:** لإيقاف تطبيق القواعد الأخرى بعد تطبيق هذه القاعدة، حدد "نعم". سيعمل هذا لتطبيق خصومات متعددة على نفس المنتج.
+
+**4. تطبيق على الشحن:** أضف نعم/لا وفقًا لمتطلباتك إذا كنت تريد تطبيق الشحن أم لا.
+
+**5. شراء X كمية:** عدد الكميات التي تريد إضافتها.
+
+**6. الشحن المجاني:** أضف نعم/لا وفقًا لمتطلباتك إذا كنت تريد تطبيق الشحن المجاني أم لا.
+
+**7. الحد الأقصى للكمية المسموح بها للخصم:** أضف عدد الكمية التي تريد تطبيق الخصم عليها.
+
+بعد النقر على زر **حفظ قاعدة السلة** 
+
+الآن انسخ **رمز القسيمة** كما هو موضح في الصورة أدناه.
+
+![Coupon Code](../../assets/2.2.0/images/marketing/couponCode.png)
+
+
+### الواجهة الأمامية:-
+
+على **صفحة الدفع** أثناء تقديم الطلب انقر على **تطبيق القسيمة** كما هو موضح في الصورة أدناه.
+
+![Checkout Page](../../assets/2.2.0/images/marketing/checkoutPage.png)
+
+
+بعد إضافة رمز القسيمة، انقر على زر **تطبيق** كما هو موضح أدناه.
+
+![Apply Coupon](../../assets/2.2.0/images/marketing/applyCoupon.png)
+
+
+الآن تم تطبيق **القسيمة** بنجاح.
+
+![Coupon](../../assets/2.2.0/images/marketing/couponApplied.png)
+
+
+باتباع الخطوات أعلاه، يمكنك بسهولة إنشاء **قواعد سلة** في Bagisto.
+## قواعد الكتالوج
+
+قاعدة الكتالوج هي قاعدة خاصة تسمح للعميل بشراء المنتج بأسعار مخفضة تحددها الإدارة من الخلفية. هنا سنتحدث عن كيفية إعداد قواعد الكتالوج في Bagisto.
+
+تُطبق قاعدة الكتالوج على المنتج قبل إضافته إلى عربة التسوق. اتبع الخطوات أدناه "كيفية إعداد قواعد الكتالوج في Bagisto".
+
+### الخطوة 1: إضافة قاعدة كتالوج جديدة
+
+a) في لوحة الإدارة، انتقل إلى **التسويق >> الترويجات >> قواعد الكتالوج**
+
+b) في الزاوية العلوية اليمنى، انقر على زر **إنشاء قاعدة كتالوج** كما هو موضح أدناه.
+
+![Catalog](../../assets/2.2.0/images/marketing/catalogRule.png)
+
+### قم بإدخال ما يلي في قسم معلومات القاعدة
+
+**1. الاسم:** أدخل اسم قاعدة الكتالوج الجديدة. (فقط للرجوع الداخلي)
+
+**2. الوصف:** أدخل وصف القاعدة. (فقط للرجوع الداخلي)
+
+**3. الحالة:** حدد حالة قاعدة الكتالوج لتكون نشطة.
+
+**4. القنوات:** اختر القناة التي سيتم تطبيق قاعدة الكتالوج عليها.
+
+**5. مجموعة العملاء:** اختر مجموعة العملاء التي سيتم تطبيق قاعدة الكتالوج عليها.
+
+**6. من وإلى التواريخ:** حدد نطاق التواريخ، عندما ستؤثر قاعدة الكتالوج. إذا لم تحدد التواريخ، ستطبق القاعدة بمجرد حفظها.
+
+**7. الأولوية:** أدخل أولوية هذه القاعدة.
+
+![Catalog Configurations](../../assets/2.2.0/images/marketing/catalogConfigurations.png)
+
+### الخطوة 2: تحديد الشروط
+
+تستند جميع الشروط في قاعدة الكتالوج إلى سمة المنتج. إذا كنت تريد تطبيق القاعدة على جميع المنتجات، فلا تحدد أي شرط. حدد نوع الشرط ليكون جميع الشروط صحيحة أو أي شرط صحيح.
+
+![Condition](../../assets/2.2.0/images/marketing/condition.png)
+
+ثم انقر على إضافة شرط لتحديد الشروط. تحت قائمة سمات المنتج، اختر السمة التي تريد تحديدها للشرط.
 
 ![Conditions](../../assets/2.2.0/images/marketing/catalogConditions.png)
 
-For example, if you have selected Categories then you have to choose contains/does not contain and select the category as in the below image.
+على سبيل المثال، إذا اخترت الفئات، فيجب عليك اختيار "يحتوي على/لا يحتوي على" واختيار الفئة كما هو موضح في الصورة أدناه.
 
-If you want to delete any condition, then click on the delete icon.
+إذا كنت ترغب في حذف أي شرط، فانقر على رمز الحذف.
 
 ![Contains](../../assets/2.2.0/images/marketing/contains.png)
 
-### Step 3: Set the Actions
+### الخطوة 3: تحديد الإجراءات
 
-In the Action section, we have to set actions like how we want to apply the rule to the product.
+في قسم الإجراءات، يجب علينا تحديد الإجراءات مثل كيفية تطبيق القاعدة على المنتج.
 
 ![Catalog Action](../../assets/2.2.0/images/marketing/catalogAction.png)
 
-**1.Actions Type:-**  You can apply a discount on a percentage basis or a fixed amount basis.
+**1. نوع الإجراءات:** يمكنك تطبيق خصم على أساس النسبة المئوية أو على أساس مبلغ ثابت.
 
-**2.Discount Amount:-** Enter discount amount.
+**2. مبلغ الخصم:** أدخل مبلغ الخصم.
 
-**3. End Other Rules:-** To stop applying other rules after this rule applies set “Yes”. This will work for applying multiple discounts on the same product.
+**3. إنهاء القواعد الأخرى:** لإيقاف تطبيق القواعد الأخرى بعد تطبيق هذه القاعدة، حدد "نعم". سيعمل هذا لتطبيق خصومات متعددة على نفس المنتج.
 
-**Note:- If you want multiple rules to apply to the product then set “NO”. So in that case the rule which has the highest priority will apply first.**
+**ملاحظة:** إذا كنت تريد تطبيق قواعد متعددة على المنتج، فحدد "لا". في هذه الحالة، ستطبق القاعدة التي لها أعلى أولوية أولاً.
 
-Now **Save the Catalog Rule** and you will able to see a new **Catalog Rule** is been created successfully.
+الآن **احفظ قاعدة الكتالوج** وستتمكن من رؤية **قاعدة كتالوج** جديدة قد تم إنشاؤها بنجاح.
 
 ![Catalog Output](../../assets/2.2.0/images/marketing/catalogOutput.png)
 
-### Front End:-
+### الواجهة الأمامية:-
 
-You will get a flat 50 % OFF on the product after applying a catalog rule  as shown below 
+ستحصل على خصم 50% على المنتج بعد تطبيق قاعدة الكتالوج كما هو موضح أدناه.
 
 ![Catalog Front](../../assets/2.2.0/images/marketing/catalogFront.png)
 
-By this, you can easily create a **Catalog Rule** in Bagisto.
+بهذا، يمكنك بسهولة إنشاء **قاعدة كتالوج** في Bagisto.

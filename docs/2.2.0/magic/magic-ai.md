@@ -1,50 +1,47 @@
-# Magic AI
+# الذكاء الاصطناعي السحري
 
+الذكاء الاصطناعي السحري هو الأداة المثالية للمحترفين في مجالات متنوعة الذين يتطلعون إلى تعزيز كفاءتهم. بعض حالات الاستخدام تشمل: تسريع مهام إدخال البيانات لفرق المبيعات ودعم العملاء.
 
-Magical AI is the ultimate tool for professionals in diverse fields looking to enhance their efficiency. Some of its use cases are: Speeding up data entry tasks for sales and customer support teams.
+يمتلك Bagisto 2.2.0 تكاملًا مع الذكاء الاصطناعي السحري، مستخدمًا الذكاء الاصطناعي لتبسيط إدارة التجارة الإلكترونية.
 
-Bagisto 2.2.0 integrates Magic AI, using artificial intelligence to simplify e-commerce management.
+يمكنك إدارة إعدادات الذكاء الاصطناعي السحري من [هنا](../configure/configurations.html#magic-ai)
 
-You can manage Magic AI configurations from [here](http://192.168.25.130:8080/2.2.0/configure/configurations.html#magic-ai)
+## إنشاء المحتوى
 
-## Content Generation
+مع الذكاء الاصطناعي السحري، يمكن لمالكي المتاجر بسهولة إنشاء محتوى جذاب لـ **المنتجات، الفئات، ونظام إدارة المحتوى (CMS)**.
 
-With Magic AI, store owners can effortlessly generate engaging **Products, Categories, and CMS** content. 
+### في Bagisto 2.2.0، يوفر دعمًا أصليًا لمجموعة متنوعة من نماذج اللغة الكبيرة.
 
-### In Bagisto 2.2.0 it provides Native Support to various LLMs.
-
-**A) For Content** – OpenAI gpt-3.5-turbo, Llama 2, Mistral, Dolphin Phi, Phi-2, Starling, Llama 2 Uncensored, Llama 2 13B, Llama 2 70B, Orca Mini, Vicuna, LLaVA.
+**أ) للمحتوى** – OpenAI gpt-3.5-turbo، Llama 2، Mistral، Dolphin Phi، Phi-2، Starling، Llama 2 Uncensored، Llama 2 13B، Llama 2 70B، Orca Mini، Vicuna، LLaVA.
 
 ![Magic Content](../../assets/2.2.0/images/magic-ai/content.png)
 
-Say goodbye to time-consuming manual content creation as Magic AI crafts compelling and unique descriptions, saving you valuable time and effort.
+ودع وداعًا لإنشاء المحتوى اليدوي المرهق حيث يقوم الذكاء الاصطناعي السحري بإنشاء أوصاف مثيرة وفريدة، مما يوفر لك الوقت والجهد الثمينين.
 
-## Image Generation
+## إنشاء الصور
 
-Empower your store’s visual appeal with Magic AI’s image-generation capabilities. 
+عزز الجاذبية البصرية لمتجرك مع قدرات إنشاء الصور من الذكاء الاصطناعي السحري.
 
-**B) For Images** – Dall.E 2 , Dall.E 3
+**ب) للصور** – Dall.E 2، Dall.E 3
 
 ![Magic image](../../assets/2.2.0/images/magic-ai/image-ai.png)
 
-Admins can now generate stunning product images, ensuring a visually appealing and consistent presentation across the entire product catalogue.
+يمكن للمسؤولين الآن إنشاء صور رائعة للمنتجات، مما يضمن تقديمًا بصريًا جذابًا ومتسقًا عبر كامل كتالوج المنتجات.
 
 ![Magic Images](../../assets/2.2.0/images/magic-ai/images.png) 
 
-## Review Translation
+## ترجمة المراجعات
 
-In Bagisto 2.2.0, we recognise the importance of catering to a global audience. 
+في Bagisto 2.2.0، نحن ندرك أهمية تلبية احتياجات جمهور عالمي.
 
-The new release includes a Review Translation feature, allowing store owners and their customers to translate reviews into multiple languages automatically. 
+تتضمن النسخة الجديدة ميزة ترجمة المراجعات، مما يسمح لمالكي المتاجر وعملائهم بترجمة المراجعات إلى عدة لغات تلقائيًا.
 
 ![Magic Review](../../assets/2.2.0/images/magic-ai/review.png) 
 
-Bridge language barriers and connect with a diverse customer base seamlessly.
+اجسر الفجوات اللغوية وتواصل مع قاعدة عملاء متنوعة بسهولة.
 
-## Personalized Checkout Messages
+## رسائل الدفع الشخصية
 
-Create a more personalised and engaging shopping experience with Bagisto 2.2.0’s personalised checkout messages.
+أنشئ تجربة تسوق أكثر تخصيصًا وجاذبية مع رسائل الدفع الشخصية في Bagisto 2.2.0.
 
 ![Checkout Message](../../assets/2.2.0/images/magic-ai/checkoutMessage.png) 
-
-

@@ -1,96 +1,86 @@
-# Channels 
+# القنوات
 
-Bagisto allows you to set up and manage multiple instances of domains or stores in a single Bagisto backend. This guide will walk you through how to create multiple websites with different domains in Bagisto.
+يسمح لك Bagisto بإعداد وإدارة عدة نسخ من النطاقات أو المتاجر في واجهة واحدة. ستوجهك هذه الإرشادات حول كيفية إنشاء عدة مواقع ويب بدومينات مختلفة في Bagisto.
 
-### Creating Channels in Bagisto.
+### إنشاء القنوات في Bagisto.
 
-**Step 1:** The bagisto’s channel functionality allows creating multiple websites in bagisto. Here you need to proceed towards **Settings >> Channels >> Create Channel** as shown in below image.
+**الخطوة 1:** تتيح لك وظيفة القنوات في Bagisto إنشاء مواقع ويب متعددة. هنا تحتاج إلى الانتقال إلى **الإعدادات >> القنوات >> إنشاء قناة** كما هو موضح في الصورة أدناه.
 
-  ![Channels](../../assets/2.2.0/images/settings/channels.png)
+![Channels](../../assets/2.2.0/images/settings/channels.png)
+### عام
 
-### General
+فيما يلي الحقول التي تقع تحت قسم **عام**.
 
-Below are the fields that fall under the General section.
+**1. الرمز:** قدم رمزًا لقناتك.
 
-**1.Code:** Provide a code for your channel
+**2. الاسم:** قدم اسمًا مميزًا لقناتك.
 
-**2.Name:** Provide an identifying name for your Channel
+**3. الوصف:** قدم مزيدًا من الوصف حول قناتك بخصوص استخداماتها والمنتجات التي ستبيعها.
 
-**3.Description:** Provide more description about your channels regarding its uses, products that would be selling etc.
+**4. مصادر المخزون:** هنا يمكنك اختيار أو تحديد مصادر المخزون التي ستستخدمها لهذه القناة المحددة.
 
-**4.Inventory Sources:** Here you select or multi-select inventories that you would be using for this particular channel.
+**5. الفئة الرئيسية:** يمكنك اختيار فئة رئيسية واحدة من القائمة المنسدلة لقناتك.
 
-**5.Root Category:** One root category can be selected from the drop-down for your channel.
+**6. اسم المضيف:** هنا يمكنك تقديم عنوان URL لموقعك الذي تريد ربطه مع النسخة الرئيسية من Bagisto.
 
-**6.Hostname:** Here you can provide the URL of your website which you want to connect with your main bagisto’s instance.
+![General](../../assets/2.2.0/images/settings/general.png)
+### العملات واللغات
 
-  ![General](../../assets/2.2.0/images/settings/general.png)
+هنا يجب إعداد الإعدادات اللازمة للعملة واللغة.
 
-### Currencies and Locales
-Here the settings needed to be done for the currency and locale
+**1. اللغات:** هنا يمكنك اختيار أو تحديد اللغات التي ستستخدمها للقناة المحددة.
 
-**1.Locales:** Here you can select or multi-select locales that you would be using for the particular channel.
+**2. اللغة الافتراضية:** من بين اللغات التي أنشأتها، يمكنك اختيار اللغة التي يجب أن تكون افتراضية لقناتك.
 
-**2.Default Locale:** Here amongst the locales that you have created, you can select the locale which should be there as default for your channel.
+**3. العملات:** هنا يمكنك اختيار أو تحديد العملات التي ستستخدمها للقناة المحددة.
 
-**3.Currencies:** Here you select or multi-select currencies that you would be using for the particular channel.
+![Currency Local](../../assets/2.2.0/images/settings/currencyLocal.png)
+### التصميم
 
-  ![Currency Local](../../assets/2.2.0/images/settings/currencyLocal.png)
+داخل قسم التصميم، يمكنك اختيار ثيم من الخيار المنسدل إذا تم إنشاء ثيمات متعددة.
 
-### Design
+![Theme](../../assets/2.2.0/images/settings/theme.png)
+### الشعار
 
-Within the design section, you can choose a theme from the drop-down option if multiple themes have been created.
+لإنشاء **شعار** للواجهة الأمامية، يرجى النقر على خيار إضافة صورة الشعار واختيار الشعار من نظامك ثم النقر على زر **حفظ القناة**.
 
- ![Theme](../../assets/2.2.0/images/settings/theme.png)
+![Theme1](../../assets/2.2.0/images/settings/frontendLogos.png)
+### الشعار في الواجهة الأمامية
 
-### Logo 
+الآن تحقق من النتيجة، حيث تم تحديث الشعار بنجاح في الواجهة الأمامية.
 
-For creating a frontend **Logo** kindly click on this logo add image option and select the logo from your system and then click on **Save Channel** Button.
+![Theme1](../../assets/2.2.0/images/settings/logoOutputs.png)
+### أيقونة الموقع
 
- ![Theme1](../../assets/2.2.0/images/settings/frontendLogos.png)
+لإنشاء **أيقونة موقع** للواجهة الأمامية، يرجى النقر على خيار إضافة صورة الأيقونة واختيار الأيقونة من نظامك ثم النقر على زر **حفظ القناة**.
 
-### Logo on Frontend
+![Theme1](../../assets/2.2.0/images/settings/frontendFavicon.png)
+### أيقونة الموقع في الواجهة الأمامية
 
-Now check the output on your frontend logo is updated successfully.
+الآن تحقق من النتيجة، حيث تم تحديث الأيقونة بنجاح في الواجهة الأمامية.
 
- ![Theme1](../../assets/2.2.0/images/settings/logoOutputs.png)
+![Theme1](../../assets/2.2.0/images/settings/faviconOutput.png)
+### تحسين محركات البحث للصفحة الرئيسية
 
-### Favicon 
+**1. العنوان التعريفي:** قدم العنوان الرئيسي للمنتج الذي سيتم التعرف عليه من خلاله.
 
-For creating a frontend **Favicon** kindly click on this favicon add image option and select the logo from your system and then click on **Save Channel** Button.
+**2. الكلمات المفتاحية التعريفية:** يجب تقديم الكلمات المفتاحية لتحسين قابلية البحث عن المنتج على محركات البحث.
 
- ![Theme1](../../assets/2.2.0/images/settings/frontendFavicon.png)
- 
-### Favicon on Frontend 
+**3. الوصف التعريفي:** أدخل الوصف حتى تتمكن المنتجات من الظهور بسهولة في قوائم محركات البحث.
 
-Now check the output on your frontend logo is updated successfully.
+![SEO](../../assets/2.2.0/images/settings/seo.png)
+### وضع الصيانة
 
- ![Theme1](../../assets/2.2.0/images/settings/faviconOutput.png)
+في Bagisto، يشير **وضع الصيانة** إلى ميزة تتيح لك وضع متجرك الإلكتروني في حالة غير متصلة مؤقتًا. عادةً ما يستخدم هذا الوضع عندما تحتاج إلى إجراء تحديثات أو مهام صيانة أو إجراء تغييرات كبيرة على واجهة المتجر أو الخلفية دون تعطيل تجربة العملاء.
 
-### Home Page SEO
+**1) الرسالة:** أدخل الرسالة التي ستظهر للعملاء عندما يزورون متجرك في وضع الصيانة.
 
-**1.Meta Title** So Provide the main title of the product by which your product will be known.
+**2) عناوين IP المسموح بها:** أدخل عنوان IP الذي سيعمل في وضع الصيانة.
 
-**2.Meta Keyword** The meta keyword for the product needs to be provided to improve its searchability on the search engine for specific keywords.
+**3) الحالة:** قم بتمكين/تعطيل الحالة لوضع الصيانة.
 
-**3.Meta Description** Enter the description so that products can easily appear in search engine listings.
+![Maintenance Mode](../../assets/2.2.0/images/settings/maintenanceMode.png)
+الآن انقر على **حفظ القناة** وستتمكن من رؤية **القناة** الجديدة كما هو موضح أدناه.
 
- ![SEO](../../assets/2.2.0/images/settings/seo.png)
-
- ### Maintenance Mode
-
-In Bagisto, **maintenance mode** refers to a feature that allows you to put your online store into a temporary offline state. This mode is typically used when you need to perform updates, maintenance tasks, or make significant changes to your store's backend or frontend without disrupting the customer experience.
-
-**1) Message-** Enter the message that will visible to the customers when they visit your store under maintenance mode.
-
-**2) Allowed IPs-** Enter the IP address that will run under maintenance mode
-
-**3) Status-** Enable/Disable the status for the maintenance mode.
-
- ![Maintenance Mode](../../assets/2.2.0/images/settings/maintenanceMode.png) 
-
-Now click on **Save Channel** and you will able to see the new **Channel** as shown below.
-
- ![Channel Grid](../../assets/2.2.0/images/settings/channelGrid.png)
-
-So by this you can easily create a new **Channels** in Bagisto.
+![Channel Grid](../../assets/2.2.0/images/settings/channelGrid.png)
+لذا، يمكنك بسهولة إنشاء **قنوات** جديدة في Bagisto.

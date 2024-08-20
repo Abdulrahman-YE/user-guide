@@ -1,30 +1,29 @@
-# Customer Overview
+# نظرة عامة على العملاء
 
-Visitors to your website can open an account to manage their purchases and activities. Customers generally create their accounts in their shop. However, you can also create customer accounts directly from the administrator, which is useful for helping customers on the phone.
+يمكن للزوار في موقعك فتح حساب لإدارة مشترياتهم وأنشطتهم. عادةً ما يقوم العملاء بإنشاء حساباتهم في المتجر. ومع ذلك، يمكنك أيضًا إنشاء حسابات عملاء مباشرة من لوحة الإدارة، وهو ما يكون مفيدًا لمساعدة العملاء عبر الهاتف.
 
-### Customer Groups
+### مجموعات العملاء
 
-Customer groups allow you to organize your customers, give them discounts, and restrict access to specific products or categories. With Customer Groups, you can: set up a loyalty group — give access to specific products or categories at discounted rates to select customers.
+تسمح لك مجموعات العملاء بتنظيم عملائك، ومنحهم خصومات، وتقييد الوصول إلى منتجات أو فئات محددة. مع مجموعات العملاء، يمكنك: إعداد مجموعة ولاء — منح الوصول إلى منتجات أو فئات معينة بأسعار مخفضة لعملاء مختارين.
 
-Customer groups determine which discounts are available and the tax class that is associated with the group. The default customer groups are General, Guest, and Wholesale.
+تحدد مجموعات العملاء الخصومات المتاحة وفئة الضرائب المرتبطة بالمجموعة. المجموعات الافتراضية للعملاء هي عامة، ضيف، وجملة.
 
-#### Wholesale Group
+#### مجموعة الجملة
 
-Wholesale customers usually have access to products or bundles of products not available to retail customers, and they often have a discount on the products they buy. Both of these can be set up by using the Customer Groups feature.
+عادةً ما يكون لدى عملاء الجملة وصول إلى منتجات أو حزم من المنتجات غير المتاحة للعملاء التجزئة، وغالبًا ما يحصلون على خصم على المنتجات التي يشترونها. يمكن إعداد كلا الأمرين باستخدام ميزة مجموعات العملاء.
 
-To restrict wholesale products from retail customers, you will first need to create a category specifically for those products. Then, you will need to segment your customers, so that only wholesale customers can view those products.
+لتقييد منتجات الجملة عن عملاء التجزئة، ستحتاج أولاً إلى إنشاء فئة مخصصة لتلك المنتجات. ثم، ستحتاج إلى تقسيم عملائك، بحيث يتمكن عملاء الجملة فقط من مشاهدة تلك المنتجات.
 
-#### Guest Group 
+#### مجموعة الضيف
 
-The Guest group is the only one that can apply to guests and cannot be edited or deleted. A non-logged-in group also falls under this guest group
+مجموعة الضيف هي الوحيدة التي يمكن أن تنطبق على الضيوف ولا يمكن تعديلها أو حذفها. وتعتبر المجموعة غير المسجلة أيضًا جزءًا من مجموعة الضيف.
 
-#### General Group 
+#### المجموعة العامة
 
-The general customer group refers to customers who are not defined as Professional Customers and don't want the order products in bulk.
+تشير مجموعة العملاء العامة إلى العملاء الذين لا يُعرفون كعملاء محترفين ولا يرغبون في طلب المنتجات بكميات كبيرة.
 
-### Customer Reviews
+### تقييمات العملاء
 
-Customer reviews are an important aspect of an eCommerce business. And as an eCommerce business owner, it should be an integral part of your online marketing strategy. Reviews create credibility for your products, and increased credibility means increased sales.
+تعتبر تقييمات العملاء جانبًا مهمًا من الأعمال التجارية الإلكترونية. وكمالك عمل تجاري إلكتروني، يجب أن تكون جزءًا أساسيًا من استراتيجية التسويق عبر الإنترنت الخاصة بك. تخلق التقييمات مصداقية لمنتجاتك، وزيادة المصداقية تعني زيادة المبيعات.
 
-It helps other customers with the selection of the product. A customer review is an evaluation of a product or service made by someone who has purchased and used or had experience with, a product or service. Customer reviews are a form of customer feedback on electronic commerce and online shopping sites.
-
+تساعد تقييمات العملاء الآخرين في اختيار المنتج. تقييم العميل هو تقييم منتج أو خدمة قام بشرائها واستخدامها أو لديه تجربة معها. تعتبر تقييمات العملاء نوعًا من التغذية الراجعة من العملاء حول التجارة الإلكترونية ومواقع التسوق عبر الإنترنت.

@@ -1,19 +1,19 @@
-# Attribute Input Type
+# نوع إدخال السمة
 
-Attributes can have different input types that determine not only how you enter the values for the attribute, but also how shoppers can select attributes in the case of options, or enter values.
+يمكن أن تحتوي السمات على أنواع إدخال مختلفة تحدد ليس فقط كيفية إدخال القيم للسمة، ولكن أيضًا كيفية اختيار المتسوقين للسمات في حالة الخيارات، أو إدخال القيم.
 
-Product Attributes are a set of characteristics that define a particular product or a group of goods. This means size, color, flavor, package type, etc. constitute attributes. Product attributes are not just about the general description of a product, but they speak about the value of products that makes it unique.
+سمات المنتج هي مجموعة من الخصائص التي تحدد منتجًا معينًا أو مجموعة من السلع. وهذا يعني أن الحجم، اللون، النكهة، نوع العبوة، إلخ. تشكل السمات. سمات المنتج ليست فقط حول الوصف العام للمنتج، ولكنها تعكس قيمة المنتجات التي تجعلها فريدة.
 
-| Property  | Description                                                                                           |
+| الخاصية (Property) | الوصف (Description)                                                                                           |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------|
-| Text      | A single-line input field for text.                                                                            |
-| Text Area   | A multiple-line input field for entering paragraphs of text, such as a product description.                                                                    |
-| Price         | This input type is used to create price fields that are in addition to the predefined attributes: Price, Special Price, Tier Price, and Cost.                                                               |
-| Boolean    | Displays a drop-down list with pre-defined options of Yes and No.                                                                 |
-| Select        | Displays an option to select a value.                       |
-| Multi Select        | Displays a drop-down list of values that accepts multiple selections.                                                                            |
-| Date       | Displays a date value in the preferred format.
-| Date Time       | Displays a date and time value in the preferred format and time zone.
-| Image     | This is used to show the image.The image attribute can be excluded from the storefront media browser.
-| File       | File attributes are a type of meta-data that describe and may modify how files and/or directories in a filesystem behave.
-| Checkbox       | It represents a state or option that can be toggled.
+| نص (Text)      | حقل إدخال أحادي السطر للنص.                                                                            |
+| منطقة نص (Text Area)   | حقل إدخال متعدد الأسطر لإدخال فقرات من النص، مثل وصف المنتج.                                                                    |
+| سعر (Price)         | يتم استخدام هذا النوع من الإدخال لإنشاء حقول سعر إضافية على السمات المحددة مسبقًا: السعر، السعر الخاص، سعر المستوى، والتكلفة.                                                               |
+| بولياني (Boolean)    | يعرض قائمة منسدلة مع خيارات محددة مسبقًا من نعم ولا.                                                                 |
+| تحديد (Select)        | يعرض خيارًا لاختيار قيمة.                       |
+| تحديد متعدد (Multi Select)        | يعرض قائمة منسدلة من القيم التي تقبل اختيارات متعددة.                                                                            |
+| تاريخ (Date)       | يعرض قيمة تاريخ بالتنسيق المفضل. |
+| تاريخ ووقت (Date Time)       | يعرض قيمة تاريخ ووقت بالتنسيق المفضل والمنطقة الزمنية. |
+| صورة (Image)     | يُستخدم لعرض الصورة. يمكن استبعاد خاصية الصورة من متصفح الوسائط في واجهة المتجر. |
+| ملف (File)       | سمات الملف هي نوع من البيانات الوصفية التي تصف وقد تعدل كيفية تصرف الملفات و/أو المجلدات في نظام الملفات. |
+| مربع اختيار (Checkbox)       | يمثل حالة أو خيار يمكن تبديله. |

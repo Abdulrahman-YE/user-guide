@@ -1,29 +1,34 @@
-# Admin Order
+# طلب الإدارة
 
-Sometimes customers not able to place order in that case he/she calls the shop owner to place a order.So Admin can able to place orders on behalf of customers.
+في بعض الأحيان، لا يستطيع العملاء تقديم الطلب، وفي هذه الحالة يتصلون بمالك المتجر لتقديم الطلب. لذا يمكن للإدارة تقديم الطلبات نيابة عن العملاء.
 
-### How to Manage Admin Order in Bagisto2.2.0
+### كيفية إدارة طلبات الإدارة في Bagisto 2.2.0
 
-**Step-1** Go to admin panel of bagisto and click on **Sales >> Orders >> Create Order** now search and select the customer as shown in the below image.
+**الخطوة 1** اذهب إلى لوحة إدارة Bagisto وانقر على **المبيعات >> الطلبات >> إنشاء طلب**، ثم ابحث واختر العميل كما هو موضح في الصورة أدناه.
 
- ![Search Customer](../../assets/2.2.0/images/orders/searchCustomer.png)
+![Search Customer](../../assets/2.2.0/images/orders/searchCustomer.png)
 
-**Step-2** Now click on **Add Products** and search your desired product and enter the quantity and then click on **Add To Cart** as shown in the below image.
 
- ![Search Product](../../assets/2.2.0/images/orders/searchProduct.png)
+**الخطوة 2** الآن انقر على **إضافة منتجات** وابحث عن المنتج الذي تريده وأدخل الكمية، ثم انقر على **إضافة إلى السلة** كما هو موضح في الصورة أدناه.
 
-**Step-3** You can also increase the quantity of the product. Now click on add address as shon in below image.
+![Search Product](../../assets/2.2.0/images/orders/searchProduct.png)
 
- ![Address](../../assets/2.2.0/images/orders/address.png)
 
-**Step-4** Now add all the informtions in billing address form and then click on **Save button** as shown in the below image. 
+**الخطوة 3** يمكنك أيضًا زيادة كمية المنتج. الآن انقر على **إضافة عنوان** كما هو موضح في الصورة أدناه.
 
- ![Bill Address](../../assets/2.2.0/images/orders/bill.png)
+![Address](../../assets/2.2.0/images/orders/address.png)
 
-**Step-5** Now add the shipping and payment methods and click on **Place Order** as shown in the below image.
 
- ![Order Place](../../assets/2.2.0/images/orders/orderPlace.png)
+**الخطوة 4** الآن أضف جميع المعلومات في نموذج عنوان الفواتير، ثم انقر على **زر الحفظ** كما هو موضح في الصورة أدناه.
 
-**Step-6** Admin Order is successfully updated in the order datagrid as shown in the below image. 
+![Bill Address](../../assets/2.2.0/images/orders/bill.png)
 
- ![Admin Order](../../assets/2.2.0/images/orders/adminOrder.png)
+
+**الخطوة 5** الآن أضف طرق الشحن والدفع وانقر على **تقديم الطلب** كما هو موضح في الصورة أدناه.
+
+![Order Place](../../assets/2.2.0/images/orders/orderPlace.png)
+
+
+**الخطوة 6** تم تحديث طلب الإدارة بنجاح في جدول بيانات الطلبات كما هو موضح في الصورة أدناه.
+
+![Admin Order](../../assets/2.2.0/images/orders/adminOrder.png)

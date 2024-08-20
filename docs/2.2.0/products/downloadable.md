@@ -1,103 +1,99 @@
-# Downloadable Product 
+# منتج قابل للتنزيل
 
-Today, in this document, we will explore "How to Create Downloadable Product in Bagisto 2.2.0". Downloadable products refer to items that can be downloaded, such as eBooks, software applications, music, updates, games, etc. These products are digital and do not involve a shipping method at checkout.
+اليوم، في هذه الوثيقة، سنستكشف "كيفية إنشاء منتج قابل للتنزيل في Bagisto 2.2.0". تشير المنتجات القابلة للتنزيل إلى العناصر التي يمكن تنزيلها، مثل الكتب الإلكترونية وتطبيقات البرامج والموسيقى والتحديثات والألعاب وما إلى ذلك. هذه المنتجات رقمية ولا تتضمن طريقة شحن عند الخروج.
 
-### Steps to Create a Downloadable Product in Bagisto 2.2.0
+### خطوات إنشاء منتج قابل للتنزيل في Bagisto 2.2.0
 
-1. On the Bagisto admin dashboard, go to **Catalog Section >> Products >> select Downloadable** under the Product Type.
-2. Select **Attribute Family**.
-3. Enter **SKU** (Stock Keeping Unit) of the product, unique to every product.
-4. Now **Save the Product**, and you will be redirected to the next page with general settings.
+1. في لوحة تحكم المسؤول في Bagisto، انتقل إلى **قسم الكتالوج >> المنتجات >> حدد "قابل للتنزيل"** تحت نوع المنتج.
+2. اختر **عائلة السمات**.
+3. أدخل **الرمز التعريفي الفريد** (وحدة الحفظ المخزونة) للمنتج، والذي يكون فريدًا لكل منتج.
+4. الآن **احفظ المنتج**، وسيتم إعادة توجيهك إلى الصفحة التالية مع الإعدادات العامة.
 
 ![downloadable](../../assets/2.2.0/images/downloadable-product/downloadable.png)
 
-### General Settings
+### الإعدادات العامة
 
-- **Name:** Enter the name of the product.
-- **URL Key:** This will be the end of the URL, e.g., http://bagisto.test.com/products/bagisto-e-book (bagisto-e-book is the URL key).
-- **Tax Category:** Select the Tax Category from the drop-down list.
+- **الاسم:** أدخل اسم المنتج.
+- **مفتاح عنوان URL:** سيكون هذا نهاية عنوان URL، على سبيل المثال، http://bagisto.test.com/products/bagisto-e-book (bagisto-e-book هو مفتاح عنوان URL).
+- **فئة الضريبة:** حدد فئة الضريبة من القائمة المنسدلة.
 
 ![editProduct](../../assets/2.2.0/images/downloadable-product/editProduct.png)
 
-#### New
+#### جديد
 
-- Enable the toggle button to feature the product as a new product, shown under the New Products section.
+- قم بتمكين زر التبديل لعرض المنتج كمنتج جديد، والمعروض في قسم المنتجات الجديدة.
 
-#### Featured
+#### مميز
 
-- Enable the toggle button to show the product under the Featured Products section.
+- قم بتمكين زر التبديل لإظهار المنتج تحت قسم المنتجات المميزة.
 
-#### Visible Individually
+#### مرئي بشكل فردي
 
-- Enable the toggle button to make the product visible on the frontend.
+- قم بتمكين زر التبديل لجعل المنتج مرئيًا على الواجهة الأمامية.
 
-#### Status
+#### الحالة
 
-- Enable the toggle button to enable the product on your eCommerce store.
+- قم بتمكين زر التبديل لتمكين المنتج في متجرك الإلكتروني.
 
 ![toggleButtons](../../assets/2.2.0/images/downloadable-product/toggleButtons.png)
 
-### Description
+### الوصف
 
-Fill in the following fields under the description:
+أكمل الحقول التالية تحت الوصف:
 
-- **Short Description:** Enter a brief description of the product feature.
-- **Description:** Mention your product in detail.
+- **الوصف المختصر:** أدخل وصفًا موجزًا لميزات المنتج.
+- **الوصف:** اذكر منتجك بالتفصيل.
 
 ![description](../../assets/2.2.0/images/downloadable-product/description.png)
 
-### Meta Description
+### الوصف التعريفي
 
-Fill in the following fields under meta description for improved searchability on search engines:
+أكمل الحقول التالية تحت الوصف التعريفي لتحسين إمكانية البحث على محركات البحث:
 
-- **Meta Title:** Provide the main title of the product.
-- **Meta Keyword:** Provide meta keywords for specific search engine optimization.
-- **Meta Description:** Enter a description for better search engine listings.
+- **العنوان التعريفي:** قدم العنوان الرئيسي للمنتج.
+- **الكلمات الرئيسية التعريفية:** قدم الكلمات الرئيسية التعريفية لتحسين محركات البحث.
+- **الوصف التعريفي:** أدخل وصفًا لتحسين إدراجات محركات البحث.
 
 ![metaDescription](../../assets/2.2.0/images/downloadable-product/metaDescription.png)
 
-### Price
+### السعر
 
-Insert the price, cost, and special price. Set the special price date for which the special price will be shown on the website.
+أدخل السعر والتكلفة والسعر الخاص. قم بتعيين تاريخ السعر الخاص الذي سيتم عرضه على الموقع الإلكتروني.
 
 ![price](../../assets/2.2.0/images/downloadable-product/price.png)
 
-### Images
+### الصور
 
-To add product images, click on Add Images. You can add multiple images for your product.
+لإضافة صور المنتج، انقر فوق إضافة صور. يمكنك إضافة العديد من الصور لمنتجك.
 
 ![image](../../assets/2.2.0/images/downloadable-product/image.png)
 
-### Channels
+### القنوات
 
-Select the channels in which you want to save this product.
+حدد القنوات التي تريد حفظ هذا المنتج فيها.
 
 ![Channels](../../assets/2.2.0/images/simple-product/channels.png)
 
+### المعلومات القابلة للتنزيل
 
-### Downloadable Information
+هنا، أدخل المعلومات القابلة للتنزيل عن منتجك:
 
-Here, enter the downloadable information about your product:
-
-- **Name:** Enter the name of your downloadable product.
-- **Price:** Enter the price of the downloadable product.
-- **File:** Attach the file.
-  - **Upload File:** Upload the file.
-  - **Insert URL:** Insert the URL.
-- **Sample:** Insert URL/upload file to give a free sample.
-- **Download Allow:** Specify the maximum number of downloads. Enter "0" for unlimited downloads.
+- **الاسم:** أدخل اسم منتجك القابل للتنزيل.
+- **السعر:** أدخل سعر المنتج القابل للتنزيل.
+- **الملف:** إرفق الملف.  - **تحميل الملف:** قم بتحميل الملف.  - **إدراج عنوان URL:** أدرج عنوان URL.
+- **العينة:** أدرج عنوان URL/حمل الملف لتقديم عينة مجانية.
+- **السماح بالتنزيل:** حدد الحد الأقصى لعدد التنزيلات. أدخل "0" للتنزيلات غير محدودة.
 
 ![downlodableInfo](../../assets/2.2.0/images/downloadable-product/downlodableInfo.png)
 
-### Samples
+### العينات
 
-If you want to provide a free sample of your product, add a new link from the Samples section below the Links section. Enter the title and attach the sample file.
+إذا كنت ترغب في توفير عينة مجانية من منتجك، أضف رابطًا جديدًا من قسم العينات أسفل قسم الروابط. أدخل العنوان وارفق ملف العينة.
 
 ![link](../../assets/2.2.0/images/downloadable-product/link.png)
 
-### Product At Front End
+### المنتج على الواجهة الأمامية
 
-The downloadable product will be visible at the front end.
+سيكون المنتج القابل للتنزيل مرئيًا على الواجهة الأمامية.
 
 ![output](../../assets/2.2.0/images/downloadable-product/output.png)
-

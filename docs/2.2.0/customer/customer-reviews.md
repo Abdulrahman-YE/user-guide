@@ -1,29 +1,29 @@
-# Customer Reviews
+# تقييمات العملاء
 
-Customer reviews are an important aspect of an eCommerce business. And as an eCommerce business owner, it should be an integral part of your online marketing strategy. Reviews create credibility for your products, and increased credibility means increased sales.
+تعتبر تقييمات العملاء جانبًا مهمًا من الأعمال التجارية الإلكترونية. وكمالك عمل تجاري إلكتروني، يجب أن تكون جزءًا أساسيًا من استراتيجية التسويق عبر الإنترنت الخاصة بك. تخلق التقييمات مصداقية لمنتجاتك، وزيادة المصداقية تعني زيادة المبيعات.
 
-It helps other customers with the selection of the product. A customer review is an evaluation of a product or service made by someone who has purchased and used or had experience with, a product or service. Customer reviews are a form of customer feedback on electronic commerce and online shopping sites. 
+تساعد تقييمات العملاء الآخرين في اختيار المنتج. تقييم العميل هو تقييم منتج أو خدمة قام بشرائها واستخدامها أو لديه تجربة معها. تعتبر تقييمات العملاء نوعًا من التغذية الراجعة من العملاء حول التجارة الإلكترونية ومواقع التسوق عبر الإنترنت.
 
-### To add Reviews in Bagisto follow the below steps:
+### لإضافة تقييمات في Bagisto، اتبع الخطوات أدناه:
 
-**Step 1**: After get logged in as a customer go to the product detail page of the store front and you will able to see the **Review** section as shown in the below image
+**الخطوة 1**: بعد تسجيل الدخول كعميل، انتقل إلى صفحة تفاصيل المنتج في الواجهة الأمامية للموقع وستتمكن من رؤية قسم **التقييم** كما هو موضح في الصورة أدناه.
 
  ![Review](../../assets/2.2.0/images/customer/review.png)
 
-**Step 2**: Next click on the **Write Review** button and fill the **Star Rating** add the **Title** and leave the comment with a attachment and **Submit Review**as shown in below image.
+**الخطوة 2**: بعد ذلك، انقر على زر **كتابة تقييم** واملأ **تقييم النجوم**، أضف **العنوان** واترك التعليق مع مرفق، ثم انقر على **إرسال التقييم** كما هو موضح في الصورة أدناه.
 
  ![Rating](../../assets/2.2.0/images/customer/rating.png)
 
- **Step 3**: Now after adding the review open the **Admin Panel** of Bagisto and open the **Customers** >> **Reviews** and the review by the customer is shown in the below image.
+**الخطوة 3**: الآن بعد إضافة التقييم، افتح **لوحة الإدارة** في Bagisto وافتح **العملاء** >> **التقييمات** وستظهر التقييمات التي قدمها العملاء كما هو موضح في الصورة أدناه.
 
   ![Admin Review](../../assets/2.2.0/images/customer/adminReview.png)
 
-**Step 3**: Next you can also change the **Status** of the Review as **Pending** to **Approved** and **Disapproved** and click on **Save** button as shown below.
+**الخطوة 4**: بعد ذلك، يمكنك أيضًا تغيير **حالة** التقييم من **معلق** إلى **موافق** و**غير موافق**، ثم انقر على زر **حفظ** كما هو موضح أدناه.
 
 ![Review Status](../../assets/2.2.0/images/customer/reviewStatus.png)
 
-**Step 4**: It will get redirected to the Review Grid and you will able to see a new record is registered successfully.
+**الخطوة 5**: سيتم توجيهك إلى شبكة التقييمات وستتمكن من رؤية أن سجلًا جديدًا قد تم تسجيله بنجاح.
 
 ![output](../../assets/2.2.0/images/customer/output.png)
 
-So by this, you can easily add the **Reviews** in Bagisto.
+لذا من خلال هذا، يمكنك بسهولة إضافة **تقييمات** في Bagisto.

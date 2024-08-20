@@ -1,45 +1,45 @@
-# Bulk Import
+# الاستيراد بالجملة
 
-Bulk import is a feature that allows users to import large quantities of data into a system quickly and efficiently. It simplifies the process and saves time by not having to add each piece of information one by one. The feature works differently for each system and has a vast variety of use cases across many industries as well as Bagisto.
+الاستيراد بالجملة هي ميزة تتيح للمستخدمين استيراد كميات كبيرة من البيانات إلى نظام بسرعة وكفاءة. تُبسط هذه العملية وتوفر الوقت من خلال عدم الحاجة لإضافة كل قطعة من المعلومات واحدة تلو الأخرى. تعمل هذه الميزة بشكل مختلف لكل نظام ولها مجموعة واسعة من الاستخدامات عبر العديد من الصناعات، بما في ذلك Bagisto.
 
-### Steps to add Bulk Import in Bagisto2.2.0
+### خطوات إضافة الاستيراد بالجملة في Bagisto 2.2.0
 
-**Step 1:** Go to the Admin panel of Bagisto click on **Settings >> Data Transfer** and click on **Create Import** button.
+**الخطوة 1:** انتقل إلى لوحة الإدارة الخاصة بـ Bagisto، انقر على **الإعدادات >> نقل البيانات** ثم انقر على زر **إنشاء استيراد**.
 
 ![Import](../../assets/2.2.0/images/settings/import.png)
 
-**Step 2:** Under general configurations select the below fields:
+**الخطوة 2:** تحت الإعدادات العامة، اختر الحقول التالية:
 
-**1) Type** – Kindly select the type i.e. (Products, Customers, Tax rates) which you want to import.
+**1) النوع** – يرجى اختيار النوع (المنتجات، العملاء، معدلات الضرائب) الذي تريد استيراده.
 
-**2) File** – Choose the file in your desired format (CSV, XLS, XLSX), and kindly make sure you have all the required fields in the file.
+**2) الملف** – اختر الملف بالتنسيق المطلوب (CSV، XLS، XLSX)، وتأكد من أنك قد قمت بتضمين جميع الحقول المطلوبة في الملف.
 
-**Note** - While Import the product data **Simple, Configurable, Virtual, Bundled & Grouped product types** can be imported except **Downloadable products**.
+**ملاحظة** - عند استيراد بيانات المنتجات، يمكن استيراد **أنواع المنتجات البسيطة، القابلة للتكوين، الافتراضية، المجمعة والمجموعة** باستثناء **المنتجات القابلة للتنزيل**.
 
-**3) Download Sample** – You can also download the sample files of types (Products, Customers, Tax Rates). Kindly make sure the file you are uploading is similar to this sample file.
+**3) تنزيل نموذج** – يمكنك أيضًا تنزيل ملفات نماذج من الأنواع (المنتجات، العملاء، معدلات الضرائب). تأكد من أن الملف الذي تقوم بتحميله مشابه لهذا الملف النموذجي.
 
-**4) Image Directory Path** – Use relative path to /project-root/storage/import/app, e.g. product-images, import-images.
+**4) مسار دليل الصور** – استخدم مسارًا نسبيًا إلى /project-root/storage/import/app، مثل product-images، import-images.
 
-**5) Action** – Kindly select from the settings configuration that you want to Create/Update or Delete the records.
+**5) الإجراء** – يرجى اختيار من إعدادات التكوين ما إذا كنت تريد إنشاء/تحديث أو حذف السجلات.
 
-**6) Validation Strategy** – This unique feature allows you to **Skip the Errors** or to **Stop on Errors** while Importing the data.
+**6) إستراتيجية التحقق** – هذه الميزة الفريدة تتيح لك **تخطي الأخطاء** أو **التوقف عند الأخطاء** أثناء استيراد البيانات.
 
-**7) Allowed Errors** – This feature allows you how much quantity of errors will get neglected while importing the data.
+**7) الأخطاء المسموح بها** – هذه الميزة تحدد مقدار الأخطاء التي سيتم تجاهلها أثناء استيراد البيانات.
 
-**8) Field Separator** – This feature allows you to set the fields.
+**8) فاصل الحقول** – هذه الميزة تتيح لك تحديد الحقول.
 
-**9) Process in Queue** – This feature allows you to run your import process in a queue.
+**9) المعالجة في قائمة الانتظار** – هذه الميزة تتيح لك تشغيل عملية الاستيراد في قائمة انتظار.
 
-So now click on the **Save Import** Button.
+الآن انقر على زر **حفظ الاستيراد**.
 
 ![Create Import](../../assets/2.2.0/images/settings/createImport.png)
 
-**Step 3:** Now the import process will get started and after it is completed the product import process will be done.
+**الخطوة 3:** الآن ستبدأ عملية الاستيراد وبعد الانتهاء ستكتمل عملية استيراد المنتجات.
 
 ![Import Done](../../assets/2.2.0/images/settings/importDone.png)
 
-**Step 4:** Now you will able see to all the products under the **Catalog >> Products** section as shown in the given image.
+**الخطوة 4:** الآن ستتمكن من رؤية جميع المنتجات تحت قسم **الكتالوج >> المنتجات** كما هو موضح في الصورة المعطاة.
 
 ![Import Done](../../assets/2.2.0/images/settings/importOutput.png)
 
-By the above steps, you can easily create a **Bulk Import** in Bagisto 2.2.0
+من خلال الخطوات السابقة، يمكنك بسهولة إنشاء **استيراد بالجملة** في Bagisto 2.2.0.

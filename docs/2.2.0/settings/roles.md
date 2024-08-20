@@ -1,29 +1,29 @@
-# Roles
+# الأدوار
 
-Roles in bagisto allow the store owner to create the user and provide roles for every user. Here will discuss how to create admin ACL in bagisto.
+تسمح الأدوار في Bagisto لمالك المتجر بإنشاء المستخدمين وتوفير أدوار لكل مستخدم. هنا سنناقش كيفية إنشاء تحكم الوصول الإداري (ACL) في Bagisto.
 
-### Create Roles
+### إنشاء الأدوار
 
-**Step 1:** It can be set on the admin panel by going to **Setting >> Roles**. Here you can create new role by clicking on the button **Create Role** as shown in below image.
+**الخطوة 1:** يمكن ضبطها في لوحة الإدارة بالانتقال إلى **الإعدادات >> الأدوار**. هنا يمكنك إنشاء دور جديد من خلال النقر على زر **إنشاء دور** كما هو موضح في الصورة أدناه.
 
 ![role](../../assets/2.2.0/images/settings/role.png)
 
-**Step 2:** Add the below fields.
+**الخطوة 2:** أضف الحقول التالية.
 
-**1.Name:-** Enter the Role name
+**1. الاسم:** أدخل اسم الدور
 
-**2.Description:-** Enter the description of the role
+**2. الوصف:** أدخل وصف الدور
 
 ![new role](../../assets/2.2.0/images/settings/newRole.png)
 
-**Step 3:** Add the **Access Control** according to your requirement.
+**الخطوة 3:** أضف **تحكم الوصول** وفقًا لمتطلباتك.
 
 ![Access Control](../../assets/2.2.0/images/settings/accessControl.png)
 
-Now click on **Save Role** button.
+الآن انقر على زر **حفظ الدور**.
 
-**Step 4:** Now you will able to see the new **Role** by the name of **New Role** is created successfully as shown below.
+**الخطوة 4:** الآن ستتمكن من رؤية **الدور** الجديد باسم **الدور الجديد** الذي تم إنشاؤه بنجاح كما هو موضح أدناه.
 
 ![Role Grid](../../assets/2.2.0/images/settings/roleGrid.png)
 
-So by this you can create a **Roles** in Bagisto.
+بهذا يمكنك إنشاء **الأدوار** في Bagisto.

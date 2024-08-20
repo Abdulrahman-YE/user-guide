@@ -1,5 +1,5 @@
 # Introduction
 
-[Bagisto](https://bagisto.com/en/) is a fantastic open-source eCommerce platform that allows businesses to create modern online stores easily. Bagisto offers a wide range of customizable features to meet the specific needs of any online business.
+يعد باجيستو [Bagisto](https://bagisto.com/en/) منصة إلكترونية مفتوحة المصدر رائعة تُمكّن الأعمال من إنشاء متاجر إلكترونية حديثة بسهولة. يوفر باجيستو مجموعة واسعة من الميزات القابلة للتخصيص لتلبية الاحتياجات المحددة لأي مؤسسة تجارية إلكترونية.
 
-The platform is built on top of the reliable [Laravel](https://laravel.com/) framework , [Tailwind CSS](https://tailwindcss.com/) and [Vue.js](https://vuejs.org/), a user-friendly JavaScript framework. It provides businesses with a user-friendly interface and powerful tools to manage their online stores, handle inventory and orders, and create a smooth shopping experience for customers
+تم بناء المنصة على أساس إطار عمل لارافل [Laravel](https://laravel.com/) الموثوق، وتايلويند سي إس إس [Tailwind CSS](https://tailwindcss.com/)، وفيو جي إس  [Vue.js](https://vuejs.org/) وهو إطار عمل جافا سكريبت سهل الاستخدام. وهو يوفر للمؤسسات واجهة سهلة الاستخدام وأدوات قوية لإدارة متاجرهم الإلكترونية، والتعامل مع المخزون والطلبات، وإنشاء تجربة تسوق سلسة للعملاء.

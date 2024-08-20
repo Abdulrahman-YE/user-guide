@@ -1,25 +1,25 @@
-# Product types
+# أنواع المنتجات
 
-**TOPICS:** Inventory, Products
+**المواضيع:** إدارة المخزون، المنتجات
 
-**CREATED FOR:**
-- Beginner
-- Intermediate
-- Admin
-- Leader
-- User
+**مخصص لـ:**
+- المبتدئين
+- المتوسطين
+- المسؤولين
+- القادة
+- المستخدمين
 
-Inventory Management supports inventory and order management for all product types in [Bagisto](https://bagisto.com/en/): simple, configurable, virtual, downloadable, bundle, and grouped. Options and requirements may differ per product type for sources, stocks, and shipping.
+إدارة المخزون تدعم إدارة المخزون والطلبات لجميع أنواع المنتجات في [Bagisto](https://bagisto.com/en/): البسيطة والقابلة للتكوين والافتراضية والقابلة للتنزيل والمجموعة والمتجمعة. قد تختلف الخيارات والمتطلبات لكل نوع من المنتجات بالنسبة للمصادر والأرصدة والشحن.
 
-Single-source merchants create and update product settings and quantities without requiring additional updates. All created and newly imported products automatically assign to the Default Source and Default Stock, immediately available to customers if enabled and In-Stock.
+التجار ذوي المصدر الواحد يقومون بإنشاء وتحديث إعدادات المنتج والكميات دون الحاجة إلى تحديثات إضافية. يتم تعيين جميع المنتجات المنشأة والمستوردة الجديدة تلقائيًا إلى المصدر الافتراضي والمخزون الافتراضي، وتكون متاحة للعملاء مباشرةً إذا تم تمكينها والتأكد من وجودها في المخزون.
 
-Multi-source merchants assign sources, quantities per source, and settings during or after product creation. Commerce assigns all newly imported products to the Default Source, requiring additional edits to assign sources and quantities.
+تعين التجار متعددو المصادر المصادر والكميات لكل مصدر والإعدادات أثناء أو بعد إنشاء المنتج. يتم تعيين جميع المنتجات الجديدة المستوردة إلى المصدر الافتراضي، مما يتطلب إجراء تعديلات إضافية لتعيين المصادر والكميات.
 
-| Product Type   | Shipping and Source Selection Algorithm                                                                                          |
-|-----------------|------------------------------------------------------------------------------------------------------------------------------------|
-| Simple          | Supports SSA recommendations and overrides at shipping.                                                                            |
-| Configurable    | Supports SSA recommendations and overrides at shipping.                                                                            |
-| Virtual         | Always uses the SSA recommendation. The system runs the algorithm implicitly when it creates invoices, and always uses the suggested results. You cannot adjust these results.                                                                 |
-| Downloadable    | Always uses the SSA recommendation. The system runs the algorithm implicitly when it creates invoices, and always uses the suggested results. You cannot adjust these results.                                                                 |
-| Bundle          | Supports SSA recommendations and overrides at shipping.                                                                            |
-| Grouped         | Supports SSA recommendations and overrides at shipping.                                                                            |
+| نوع المنتج | خوارزمية تحديد المصدر والشحن                                                                                      |
+|------------|--------------------------------------------------------------------------------------------------------------------|
+|   بسيط - Simple        | تدعم توصيات SSA والتجاوزات عند الشحن.                                                                              |
+| قابل للتكوين - Configurable | تدعم توصيات SSA والتجاوزات عند الشحن.                                                                              |
+| افتراضي - Virtual     | يستخدم دائمًا توصية SSA. تقوم النظام بتشغيل الخوارزمية ضمنيًا عند إنشاء الفواتير، ويستخدم دائمًا النتائج المقترحة. لا يمكنك تعديل هذه النتائج.                                                       |
+| قابل للتنزيل - Downloadable| يستخدم دائمًا توصية SSA. تقوم النظام بتشغيل الخوارزمية ضمنيًا عند إنشاء الفواتير، ويستخدم دائمًا النتائج المقترحة. لا يمكنك تعديل هذه النتائج.                                                       |
+| مجموعة - Bundle      | تدعم توصيات SSA والتجاوزات عند الشحن.                                                                              |
+| مجمَّع - Grouped       | تدعم توصيات SSA والتجاوزات عند الشحن.                                                                              |

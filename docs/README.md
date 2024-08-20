@@ -1,15 +1,15 @@
 ---
 home: true
-heroText: Bagisto User Guide
-tagline: A Comprehensive User Guide to Seamlessly Navigate Bagisto.
-actionText: Get Started →
+heroText: دليل المستخدم Bagisto
+tagline: دليل شامل للتنقل بسلاسة في Bagisto.
+actionText: البدء →
 actionLink: /2.2.0/introduction/
 features:
-- title: Product Types
-  details: Learn how to create Products for Bagisto.
-- title: Category
-  details: Learn how to create Category for Bagisto.  
-- title: Attribute
-  details: Learn how to create Product Attribute and Attribute Families for Bagisto.  
-footer: Copyright © 2024 Bagisto
+- title: أنواع المنتجات
+  details: تعرف على كيفية إنشاء منتجات لـ Bagisto.
+- title: التصنيف
+  details: تعرف على كيفية إنشاء تصنيف لـ Bagisto.
+- title: السمة
+  details: تعرف على كيفية إنشاء سمة المنتج وعائلات السمات لـ Bagisto.
+footer: حقوق النشر © 2024 Bagisto
 ---

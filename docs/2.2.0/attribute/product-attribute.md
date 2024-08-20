@@ -1,37 +1,37 @@
-# Create Product Attribute
+# إنشاء سمة المنتج
 
-An Attribute is a specification or characteristic of a product for example Color, Size, and Pattern an attribute of a T-Shirt. You can as create many attributes for a single product. Product Attribute plays a major factor in the buying decision of the Customer.
+السمة هي مواصفة أو خاصية لمنتج، على سبيل المثال، اللون، الحجم، والنمط هي سمات للتي شيرت. يمكنك أيضًا إنشاء العديد من السمات لمنتج واحد. تلعب سمة المنتج دورًا رئيسيًا في قرار الشراء للعميل.
 
-### How to Create a Product Attribute in Bagisto2.2.0
+### كيفية إنشاء سمة منتج في Bagisto 2.2.0
 
-To Create Bagisto Attributes, open the Admin Panel and then follow the below step
+لإنشاء سمات Bagisto، افتح لوحة التحكم ثم اتبع الخطوات أدناه.
 
-### Add Attributes
+### إضافة سمات
 
-Click on **Catalog** >> **Attributes** >> **Create Attributes** as shown in the below image.
+انقر على **الكتالوج** >> **السمات** >> **إنشاء سمات** كما هو موضح في الصورة أدناه.
 
- ![Attribute](../../assets/2.2.0/images/attribute/createAttribute.png)
+![Attribute](../../assets/2.2.0/images/attribute/createAttribute.png)
 
-### Attribute Types
+### أنواع السمات
 
-Enter **Label**, **Attribute code**, and select **Attribute Type**.
+أدخل **التسمية**، **رمز السمة**، وحدد **نوع السمة**.
 
-**Attribute Code**:- Enter the Attribute Code to identify the Attribute
+**رمز السمة**: أدخل رمز السمة لتحديد السمة.
 
-**Attribute Type**:- There are various attribute types available in Bagisto such as Text, Textarea, Price, Boolean, Select, Multi-select, DateTime, and Date.
+**نوع السمة**: هناك أنواع مختلفة من السمات المتاحة في Bagisto مثل النص، منطقة النص، السعر، البولياني، التحديد، التحديد المتعدد، تاريخ ووقت، والتاريخ.
 
- ![Attribute Types](../../assets/2.2.0/images/attribute/attributeTypes.png)
+![Attribute Types](../../assets/2.2.0/images/attribute/attributeTypes.png)
 
- Now add validation & configuration as shown in the below image as per your requirement.
+الآن أضف التحقق والتكوين كما هو موضح في الصورة أدناه وفقًا لمتطلباتك.
 
- ![Validation](../../assets/2.2.0/images/attribute/validation.png)
+![Validation](../../assets/2.2.0/images/attribute/validation.png)
 
- So **Save the Attribute** and then go the the **Attribute Family** from **Catalog >> Attribute Families** and assign it from the unassigned attribute by drag and drop at your desired place as shown in the below image.
+لذا **احفظ السمة** ثم انتقل إلى **عائلة السمة** من **الكتالوج >> عائلات السمات** وقم بتعيينها من السمات غير المعينة عن طريق السحب والإفلات في المكان المطلوب كما هو موضح في الصورة أدناه.
 
- ![Attribute Family](../../assets/2.2.0/images/attribute/attributeFamily.png)
+![Attribute Family](../../assets/2.2.0/images/attribute/attributeFamily.png)
 
-Now, **Save the Attribute Family** and check the output while creating products on the product edit page as shown in the below image.
+الآن، **احفظ عائلة السمة** وتحقق من الإخراج أثناء إنشاء المنتجات في صفحة تحرير المنتج كما هو موضح في الصورة أدناه.
 
- ![Edit Page](../../assets/2.2.0/images/attribute/editPage.png)
+![Edit Page](../../assets/2.2.0/images/attribute/editPage.png)
 
- By following the above steps, you can easily create a Product Attribute in Bagisto 2.2.0.
+باتباع الخطوات أعلاه، يمكنك بسهولة إنشاء سمة منتج في Bagisto 2.2.0.

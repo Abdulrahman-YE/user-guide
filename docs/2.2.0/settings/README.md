@@ -1,47 +1,47 @@
-# Setting 
+# الإعدادات
 
-You can easily manage your almost Admin panel from the Setting menu.
+يمكنك إدارة لوحة التحكم الخاصة بك بسهولة من قائمة الإعدادات.
 
-### Locales
+### اللغات
 
-To display your website in a different language you need to set the Locale in bagisto. Having more than one language for your website can improve the shopping experience for your customers.
+لعرض موقعك الإلكتروني بلغة مختلفة، تحتاج إلى ضبط اللغة في Bagisto. وجود أكثر من لغة لموقعك يمكن أن يحسن تجربة التسوق لعملائك.
 
-### Currencies
+### العملات
 
-Before launching your eCommerce website you need to set up the currency in which you will doing your business. Currency symbol will be visible in product prices, order, invoices, transactions etc. Here we have mentioned steps on how to add currency in bagisto.
+قبل إطلاق موقع التجارة الإلكترونية الخاص بك، تحتاج إلى إعداد العملة التي ستقوم بالتعامل بها. رمز العملة سيكون مرئيًا في أسعار المنتجات، الطلبات، الفواتير، المعاملات، إلخ. هنا ذكرنا خطوات كيفية إضافة العملة في Bagisto.
 
-### Exchange Rates
-An Exchange Rate is the worth of one nation’s currency compares to other nations’ currency.
+### أسعار الصرف
 
-For example how many Euro is required to buy 1 Dollar? Then you require €0.88 to buy a $1. This means the exchange rate of the Euro is 0.88 against Dollar. Here we are going to discuss how to set the exchange rate in bagisto.
+سعر الصرف هو قيمة عملة دولة واحدة مقارنة بعملات الدول الأخرى.
 
-### Inventory Source
+على سبيل المثال، كم يورو تحتاج لشراء 1 دولار؟ تحتاج إلى €0.88 لشراء $1. هذا يعني أن سعر صرف اليورو هو 0.88 مقابل الدولار. هنا سنتحدث عن كيفية ضبط سعر الصرف في Bagisto.
 
-Multi-Warehouse Inventory is one of the unique features of Bagisto. Here we will explain how you can manage multi-warehouse inventory in Laravel eCommerce and provide reliable service to your customer. Having a single inventory source can pose some restrictions for your eCommerce store.
+### مصدر المخزون
 
-For instance, suppose you have only one inventory in Delhi. A Customer from Chennai has ordered some products. So delivering that product from the Delhi location can have some impacts like delay in delivery of the product, increased transportation cost, etc. However, if you have an inventory in Chennai, then the product will reach the customer very quickly which will further cut down the time and shipping cost.
+المخزون متعدد المستودعات هو واحدة من الميزات الفريدة في Bagisto. هنا سنشرح كيفية إدارة المخزون متعدد المستودعات في Laravel eCommerce وتقديم خدمة موثوقة لعملائك. وجود مصدر مخزون واحد يمكن أن يفرض بعض القيود على متجر التجارة الإلكترونية الخاص بك.
 
-By using Multi-Warehouse Inventory you can easily manage all inventory sources. In Bagisto, you can create as many inventory sources and easily manage them
+على سبيل المثال، افترض أن لديك مخزونًا واحدًا فقط في دلهي. عميل من تشيناي قام بطلب بعض المنتجات. لذا فإن توصيل هذا المنتج من موقع دلهي قد يؤدي إلى بعض التأثيرات مثل تأخير في تسليم المنتج، وزيادة تكلفة النقل، إلخ. ومع ذلك، إذا كان لديك مخزون في تشيناي، فسوف يصل المنتج إلى العميل بسرعة أكبر مما سيقلل من وقت الشحن وتكاليفه.
 
-### Channels
+باستخدام مخزون متعدد المستودعات، يمكنك إدارة جميع مصادر المخزون بسهولة. في Bagisto، يمكنك إنشاء العديد من مصادر المخزون وإدارتها بسهولة.
 
-Bagisto allows you to set up and manage multiple instances of domains or stores in a single Bagisto backend. This guide will walk you through how to create multiple websites with different domains in Bagisto.
+### القنوات
 
-### Users
+يسمح لك Bagisto بإعداد وإدارة عدة نسخ من النطاقات أو المتاجر في واجهة واحدة. ستوجهك هذه الإرشادات حول كيفية إنشاء عدة مواقع ويب بدومينات مختلفة في Bagisto.
 
-Access Control List Rules in bagisto allow the store owner to create the user and provide roles for every user. Here will discuss how to create admin ACL in bagisto.
+### المستخدمون
 
-### Roles
+تسمح قواعد التحكم في الوصول في Bagisto لمالك المتجر بإنشاء مستخدمين وتوفير أدوار لكل مستخدم. هنا سنتحدث عن كيفية إنشاء تحكم وصول إداري في Bagisto.
 
-Roles in bagisto allow the store owner to create the user and provide roles for every user. Here will discuss how to create admin ACL in bagisto.
+### الأدوار
 
+تسمح الأدوار في Bagisto لمالك المتجر بإنشاء مستخدمين وتوفير أدوار لكل مستخدم. هنا سنتحدث عن كيفية إنشاء تحكم وصول إداري في Bagisto.
 
-### Themes
+### الثيمات
 
-The theme of the website is the overall look of it and that is why it plays a major role in creating the first impression on the viewer's mind.
+ثيم الموقع هو المظهر العام له، ولهذا السبب يلعب دورًا رئيسيًا في ترك الانطباع الأول في ذهن الزائر.
 
-The theme contains different options like slider section with different slider options, Product section, Footer option, right-sidebar, Logo resizer option, Button settings, Blog Settings, Site preloader option, Related option, Icon changer option, full-width-template, color options, widgets, sidebar layouts, header.
+تحتوي الثيمات على خيارات مختلفة مثل قسم السلايدر مع خيارات سلايدر مختلفة، قسم المنتجات، خيار التذييل، الشريط الجانبي الأيمن، خيار تغيير حجم الشعار، إعدادات الأزرار، إعدادات المدونة، خيار تحميل الموقع، خيار مرتبط، خيار تغيير الأيقونات، قالب بعرض كامل، خيارات الألوان، الأدوات، تخطيطات الشريط الجانبي، الرأس.
 
-### Taxes
+### الضرائب
 
-In e-commerce, there are various taxes involved while purchasing the product. These taxes and rates of taxes differ from country to country. Here we have explained how you can create and manage taxes in Bagisto.
+في التجارة الإلكترونية، هناك أنواع مختلفة من الضرائب المتضمنة عند شراء المنتج. تختلف هذه الضرائب ومعدلاتها من دولة إلى أخرى. هنا شرحنا كيفية إنشاء وإدارة الضرائب في Bagisto.

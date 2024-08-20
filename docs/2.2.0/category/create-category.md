@@ -1,41 +1,40 @@
-# How to Create Categories in The Bagisto2.2.0
+# كيفية إنشاء فئات في Bagisto 2.2.0
 
-The category is a structure of your catalog. By creating a category, customers can easily find the specific product amongst the lot on your e-commerce website. It is used for making the hierarchical arrangement of your website. Here we have listed down steps to create a new category and root category in Bagisto.
+الفئة هي هيكل الكتالوج الخاص بك. من خلال إنشاء فئة، يمكن للعملاء العثور بسهولة على المنتج المحدد بين العديد من المنتجات في موقع التجارة الإلكترونية الخاص بك. تُستخدم الفئة لترتيب موقعك بشكل هرمي. هنا قمنا بإدراج خطوات إنشاء فئة جديدة وفئة رئيسية في Bagisto.
 
-Bagisto comes with a default root category, i.e., Root, but you can also create your root category. The Root Category is not visible on the front end because it acts as a container to contain the categories to be displayed on the website.
+يأتي Bagisto مع فئة رئيسية افتراضية، وهي "Root"، ولكن يمكنك أيضًا إنشاء فئة رئيسية خاصة بك. الفئة الرئيسية غير مرئية في الواجهة الأمامية لأنها تعمل كحاوية تحتوي على الفئات التي ستظهر على الموقع.
 
-### Steps to Create a New Category in Bagisto 2.2.0
+### خطوات إنشاء فئة جديدة في Bagisto 2.2.0
 
-1. Click on **Catalog >> Categories >> Create Category** as shown in the below image.
+1. انقر على **الكتالوج >> الفئات >> إنشاء فئة** كما هو موضح في الصورة أدناه.
 
    ![Create Category](../../assets/2.2.0/images/category/create.png)
 
-2. Enter the general values like name, position, and description, and add images.
+2. أدخل القيم العامة مثل الاسم، والموقع، والوصف، وأضف الصور.
 
-3. **Display Mode** - Display mode is about which content detail is visible on the category page. There are three options:
-   - Product and Description
-   - Product
-   - Description
+3. **وضع العرض** - وضع العرض يتعلق بالتفاصيل التي تظهر على صفحة الفئة. هناك ثلاثة خيارات:
+   - المنتج والوصف
+   - المنتج
+   - الوصف
 
-   - **Product and Description:** When you set the display mode to "Product and Description," then the product and description about the category both will be visible on the front end as shown below image.
+   - **المنتج والوصف:** عندما تضبط وضع العرض على "المنتج والوصف"، سيكون كل من المنتج والوصف عن الفئة مرئيين في الواجهة الأمامية كما هو موضح في الصورة أدناه.
 
-   - **Description:** When you set the display mode to "Description," then only the category description will be visible on the front end.
+   - **الوصف:** عندما تضبط وضع العرض على "الوصف"، سيكون الوصف فقط مرئيًا في الواجهة الأمامية.
 
-   - **Product:** When you set the display mode to "Product," the product will be visible on the front end.
+   - **المنتج:** عندما تضبط وضع العرض على "المنتج"، سيكون المنتج مرئيًا في الواجهة الأمامية.
 
       ![Edit Category](../../assets/2.2.0/images/category/editCategory.png)
 
-4. Save the category, and a new category is created by the name of Electronic Items as shown in the below image.
+4. احفظ الفئة، وسيتم إنشاء فئة جديدة باسم "الأجهزة الإلكترونية" كما هو موضح في الصورة أدناه.
 
       ![Category Grid](../../assets/2.2.0/images/category/categoryGrid.png)
 
-5. Now check the product edit page while creating a product, and you will be able to see our new category right there.
+5. الآن تحقق من صفحة تحرير المنتج أثناء إنشاء منتج، وستتمكن من رؤية فئتنا الجديدة هناك.
 
       ![Product Page](../../assets/2.2.0/images/category/productPage.png)
 
-### Category on Front-End
+### الفئة في الواجهة الأمامية
 
-By following the above steps, you can easily create a new category.
+باتباع الخطوات أعلاه، يمكنك بسهولة إنشاء فئة جديدة.
 
 ![Output](../../assets/2.2.0/images/category/output.png)
-

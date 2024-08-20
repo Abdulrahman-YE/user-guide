@@ -1,50 +1,47 @@
-# Refunds
+# المبالغ المستردة
 
-Typically, e-commerce stores offer 15- to 30 days in which customers can return a product and ask for a refund. Some businesses extend that period up to 90 days. Regardless of the time frame you choose, ensuring that you have a time frame is essential.
+عادةً، تقدم متاجر التجارة الإلكترونية فترة من 15 إلى 30 يومًا يمكن للعملاء خلالها إعادة منتج وطلب استرداد. بعض الشركات تمدد هذه الفترة حتى 90 يومًا. بغض النظر عن الإطار الزمني الذي تختاره، من الضروري أن تضمن وجود فترة زمنية.
 
-A customer who bought an item may ask the store for their money back if it didn't fit according to their choice. you may ask them to return your money.
+يمكن للعميل الذي اشترى عنصرًا أن يطلب من المتجر استرداد أمواله إذا لم يناسبه حسب اختياره. يمكنك أن تطلب منهم إرجاع أموالك.
 
-In Bagisto after your order is **Completed** after creating a shipment you go and edit that order and from there you can easily apply for a refund.
+في Bagisto، بعد أن يصبح طلبك **مكتملًا** بعد إنشاء شحنة، يمكنك تعديل ذلك الطلب ومن هناك يمكنك بسهولة التقدم بطلب لاسترداد الأموال.
 
-   ![Refund](../../assets/2.2.0/images/orders/refund.png)
+![Refund](../../assets/2.2.0/images/orders/refund.png)
 
-So now enter the **quantity** which you want to apply a refund for.
+الآن أدخل **الكمية** التي تريد تقديم طلب استرداد لها.
 
-**Refund Shipping:-**  In this field, you can enter the amount which you want to refund from the shipping fee. Initially, this field will show the total shipping amount that is available for refund.
-The refund shipping fee can be decreased but can’t be increased to the actual shipping(initial shipping amount) fee.
+**استرداد رسوم الشحن:** في هذا الحقل، يمكنك إدخال المبلغ الذي تريد استرداده من رسوم الشحن. في البداية، سيظهر هذا الحقل إجمالي مبلغ الشحن المتاح للاسترداد. يمكن تقليل رسوم الشحن المستردة ولكن لا يمكن زيادتها إلى المبلغ الأصلي (المبلغ الأولي للشحن).
 
-In the below image, we have applied the amount of $10 refund shipping which is the total amount that applies to shipment charge.
+في الصورة أدناه، قمنا بتقديم مبلغ استرداد قدره 10 دولارات كرسوم شحن، وهو المبلغ الإجمالي الذي ينطبق على رسوم الشحن.
 
- ![Refund](../../assets/2.2.0/images/orders/refundShipping.png)
+![Refund](../../assets/2.2.0/images/orders/refundShipping.png)
 
-All the amount i.e. $10 refunded as **Shipping & Handling** as shown in the below image.
+تم استرداد المبلغ بالكامل، أي 10 دولارات كـ **رسوم شحن وتعليمات** كما هو موضح في الصورة أدناه.
 
- ![Refund](../../assets/2.2.0/images/orders/refundShipped.png)
+![Refund](../../assets/2.2.0/images/orders/refundShipped.png)
 
+**استرداد التعديل:** يمكنك إدخال المبلغ الذي سيتم إضافته إلى المبلغ الإجمالي المسترد كمبلغ إضافي لا يتضمن أي شحن أو سعر منتج أو تكلفة ضريبة.
 
-**Adjustment Refund:-** You can enter the amount which will be added to the total refunded amount as an additional refund that does not include any shipping, product price, tax cost.
+في الصورة أدناه، استردينا **5 دولارات كرسوم شحن و2 دولار كاسترداد تعديل**.
 
-In the below image we have refunded **$5 of Refund Shipping and $2 of Adjustment Shipping**
+![Refund](../../assets/2.2.0/images/orders/adjust.png)
 
- ![Refund](../../assets/2.2.0/images/orders/adjust.png)
+تم استرداد المبلغ الإجمالي **7 دولارات كرسوم شحن وتعليمات واسترداد تعديل** كما هو موضح في الصورة أدناه.
 
-All the amount refunded **$7 as Shipping & Handling and Adjustment Refund** as shown in the below image. 
+![Refund](../../assets/2.2.0/images/orders/adjustRefund.png)
 
- ![Refund](../../assets/2.2.0/images/orders/adjustRefund.png)
+**رسوم التعديل:** أدخل المبلغ الذي سيتم طرحه من المبلغ الفرعي.
 
-**Adjustment Fee:-** Enter the amount that will be subtracted from the sub-total amount.
+في الصورة أدناه، **رسوم استرداد الشحن هي 3 دولارات ورسم التعديل هو 1 دولار**.
 
- In the below image **Refund Shipping is $3 and Adjustment Fee is $1**
+![Refund](../../assets/2.2.0/images/orders/adjustFee.png)
 
- ![Refund](../../assets/2.2.0/images/orders/adjustFee.png) 
+الآن تم **طرح 1 دولار كرسوم تعديل** من المبلغ الفرعي و**إضافة 3 دولارات كرسوم شحن وتعليمات** في **المبلغ الإجمالي الذي يحتاج إلى استرداد**.
 
-Now the **$1 subtracted as the Adjustment Fee** from the subtotal amount and **$3 Shipping and Handling added** in the **grand total amount** that needs to be refunded.
+![Refund](../../assets/2.2.0/images/orders/adjustfeeRefund.png)
 
- ![Refund](../../assets/2.2.0/images/orders/adjustfeeRefund.png) 
-
-After that it will get redirected to the **Refund Grid** and show the refunded amount in the grid as shown in the below image
+بعد ذلك، سيتم إعادة توجيهك إلى **شبكة الاسترداد** وستظهر المبلغ المسترد في الشبكة كما هو موضح في الصورة أدناه.
 
 ![Refund Grid](../../assets/2.2.0/images/orders/refundGrid.png)
 
-By the above steps, you can easily **Refund** in Bagisto.  
-
+باتباع الخطوات المذكورة أعلاه، يمكنك بسهولة **استرداد** في Bagisto.

@@ -1,17 +1,17 @@
-# Marketing 
+# التسويق
 
-Marketing is a method of promoting a business that sells its products or services through the Internet. The goals of eCommerce marketing are driving traffic to the online store, converting visitors to paying customers and retaining them after a purchase.
+التسويق هو وسيلة للترويج لعمل تجاري يبيع منتجاته أو خدماته عبر الإنترنت. أهداف التسويق في التجارة الإلكترونية هي جذب الزوار إلى المتجر الإلكتروني، وتحويل الزوار إلى عملاء يدفعون، والاحتفاظ بهم بعد الشراء.
 
-E-commerce marketing consists of activities that guide online shoppers through the conversion.
+يتكون تسويق التجارة الإلكترونية من أنشطة توجه المتسوقين عبر الإنترنت خلال عملية التحويل.
 
-### Promotion Rules
+### قواعد الترويج
 
-Promotion is when you offer sales and discounts to online shoppers to get new customers and increase revenue. And more importantly, these promotions can turn new visitors into loyal customers and repeat buyers.
+الترويج هو عندما تقدم مبيعات وخصومات للمتسوقين عبر الإنترنت لجذب عملاء جدد وزيادة الإيرادات. والأهم من ذلك، أن هذه الترويجات يمكن أن تحول الزوار الجدد إلى عملاء مخلصين ومشترين متكررين.
 
-### Communications
+### الاتصالات
 
-Constant communication with the customer, especially after they have made a purchase, about their order status, delivery status, product warranty, how to use explainer videos, ongoing or upcoming offers and discounts, and sharing personalized cross-sell product offers consequently has proven to be a good strategy.
+الاتصال المستمر مع العميل، خاصة بعد أن قام بعملية شراء، حول حالة طلبه، وحالة التوصيل، وضمان المنتج، وكيفية استخدام مقاطع الفيديو التوضيحية، والعروض والخصومات الجارية أو القادمة، ومشاركة عروض المنتجات المتقاطعة المخصصة، أثبتت أنها استراتيجية جيدة.
 
-### Sitemaps
+### خرائط الموقع
 
-Sitemaps inform search engines which pages on a website should be crawled, and may help search engines discover and index those pages. While sitemaps can be a simple text file listing the URLs of all of the pages you'd like to have indexed, they can also be an XML document carrying more information.
+تُعلم خرائط الموقع محركات البحث بالصفحات الموجودة على موقع الويب التي يجب فحصها، وقد تساعد محركات البحث في اكتشاف وتسجيل تلك الصفحات. بينما يمكن أن تكون خرائط الموقع ملف نصي بسيط يحتوي على قائمة بعناوين URL لجميع الصفحات التي ترغب في تسجيلها، يمكن أن تكون أيضًا مستند XML يحمل مزيدًا من المعلومات.

@@ -1,26 +1,26 @@
-# Category
+# الفئة
 
-Product categories in e-commerce are broad classifications used to organize and display products for online shoppers. They help customers navigate e-commerce websites more easily. Common product categories include:
+تُستخدم فئات المنتجات في التجارة الإلكترونية لتصنيف المنتجات وتنظيمها لعرضها على المتسوقين عبر الإنترنت. تساعد هذه الفئات العملاء في التنقل بسهولة في مواقع التجارة الإلكترونية. تشمل الفئات الشائعة:
 
-- **Electronics:** Includes gadgets, appliances, and accessories.
-- **Clothing and Fashion:** Covers apparel, footwear, and accessories.
-- **Home and Living:** Encompasses furniture, decor, and home essentials.C
-- **Beauty and Personal Care:** Features cosmetics, skincare, and grooming products.
-- **Books and Media:** Includes books, e-books, movies, and music.
-- **Sports and Outdoors:** Offers sports equipment, activewear, and outdoor gear.
-- **Health and Wellness:** Encompasses vitamins, supplements, and healthcare items.
-- **Automotive:** Covers car parts, accessories, and tools.
+- **الإلكترونيات:** تشمل الأجهزة، والأدوات، والإكسسوارات.
+- **الملابس والأزياء:** تشمل الملابس، والأحذية، والإكسسوارات.
+- **المنزل والمعيشة:** تشمل الأثاث، والديكور، والضروريات المنزلية.
+- **الجمال والعناية الشخصية:** تشمل مستحضرات التجميل، والعناية بالبشرة، ومنتجات العناية.
+- **الكتب والوسائط:** تشمل الكتب، والكتب الإلكترونية، والأفلام، والموسيقى.
+- **الرياضة والأنشطة الخارجية:** تشمل معدات الرياضة، والملابس الرياضية، ومعدات الأنشطة الخارجية.
+- **الصحة والعافية:** تشمل الفيتامينات، والمكملات، ومنتجات الرعاية الصحية.
+- **السيارات:** تشمل قطع غيار السيارات، والإكسسوارات، والأدوات.
 
-### Root Category
+### الفئة الرئيسية
 
-Bagisto comes with a default root category i.e. Root, but you can also create your root category. Root Category is not visible on the front end because it acts as a container to contain the categories to be displayed on the website.
+يأتي Bagisto مع فئة رئيسية افتراضية وهي "Root"، ولكن يمكنك أيضًا إنشاء فئة رئيسية خاصة بك. الفئة الرئيسية غير مرئية في الواجهة الأمامية لأنها تعمل كحاوية لتحتوي على الفئات التي ستظهر على الموقع.
 
-### Sub Category 
+### الفئة الفرعية
 
-In e-commerce, a subcategory is a more specific classification or subset within a broader category. It is a way of further organizing and structuring products on an online store to help users navigate and find what they are looking for more easily. Subcategories are nested within larger or parent categories, creating a hierarchical structure.
+في التجارة الإلكترونية، الفئة الفرعية هي تصنيف أكثر تحديدًا أو مجموعة ضمن فئة أوسع. إنها وسيلة لتنظيم المنتجات بشكل أفضل في المتجر عبر الإنترنت لمساعدة المستخدمين في التنقل والعثور على ما يبحثون عنه بسهولة أكبر. الفئات الفرعية تكون متداخلة ضمن الفئات الأكبر أو الفئات الرئيسية، مما ينشئ هيكلًا هرميًا.
 
-For example, if "Electronics" is a main category, you might have subcategories such as "Smartphones," "Laptops," and "Audio Devices" underneath it. Each of these subcategories may then have additional subcategories. This hierarchical organization helps shoppers drill down into specific product types and makes the browsing and shopping experience more intuitive.
+على سبيل المثال، إذا كانت "الإلكترونيات" فئة رئيسية، فقد يكون لديك فئات فرعية مثل "الهواتف الذكية"، "أجهزة الكمبيوتر المحمولة"، و"أجهزة الصوت" تحتها. قد تحتوي كل من هذه الفئات الفرعية على فئات فرعية إضافية. يساعد هذا التنظيم الهيكلي المتسوقين على التعمق في أنواع المنتجات المحددة، مما يجعل تجربة التصفح والتسوق أكثر سهولة.
 
-In summary, subcategories in e-commerce provide a way to organize and present products in a structured manner, facilitating smoother navigation for online shoppers.
+باختصار، توفر الفئات الفرعية في التجارة الإلكترونية وسيلة لتنظيم وعرض المنتجات بطريقة منظمة، مما يسهل التنقل للمتسوقين عبر الإنترنت.
 
-These categories make it easier for shoppers to find and explore products of interest efficiently on e-commerce platforms.
+تساعد هذه الفئات المتسوقين على العثور على المنتجات التي تهمهم واستكشافها بكفاءة على منصات التجارة الإلكترونية.

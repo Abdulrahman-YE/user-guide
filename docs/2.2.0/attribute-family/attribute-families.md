@@ -1,23 +1,23 @@
-# Create Attribute Family
+# إنشاء عائلة السمات
 
-By using Attribute Families, you can import all the required information about the product in a single step. It can be specified as a list of attributes that are related to a unique product. Here we have listed out the tutorial on product attribute families in Bagisto.
+باستخدام عائلات السمات، يمكنك استيراد جميع المعلومات المطلوبة عن المنتج في خطوة واحدة. يمكن تحديدها كقائمة من السمات المرتبطة بمنتج فريد. هنا قمنا بإدراج الدليل حول عائلات سمات المنتج في Bagisto.
 
-### Create Attribute Family in Bagisto 2.2.0
+### إنشاء عائلة سمات في Bagisto 2.2.0
 
-**Step 1**:- On the Admin Dashboard, click **Catalog** >> **Attribute Families** >> **Create Attribute Family**
+**الخطوة 1**: في لوحة تحكم المسؤول، انقر على **الكتالوج** >> **عائلات السمات** >> **إنشاء عائلة سمات**.
 
- ![Attribute Family](../../assets/2.2.0/images/attribute/createFamily.png)
+![Attribute Family](../../assets/2.2.0/images/attribute/createFamily.png)
 
-**Step 1**:-  Enter the **Attribute Family Code** and **Name** as shown in the below image.
+**الخطوة 2**: أدخل **رمز عائلة السمة** و**الاسم** كما هو موضح في الصورة أدناه.
 
- ![Save Family](../../assets/2.2.0/images/attribute/saveFamily.png)
+![Save Family](../../assets/2.2.0/images/attribute/saveFamily.png)
 
- So now after creating a family Save Attribute Family and a New Attribute Family have been created as shown in the below image.
+الآن بعد إنشاء العائلة، احفظ عائلة السمة الجديدة كما هو موضح في الصورة أدناه.
 
-  ![Family Grid](../../assets/2.2.0/images/attribute/familyGrid.png)
+![Family Grid](../../assets/2.2.0/images/attribute/familyGrid.png)
 
- Now that the new attribute family has been created, you can edit it through the **Action**. Add the desired **Attributes** to this family based on your specific requirements. Afterward, to verify the output during the product creation process, you will be able to see the new Attribute family. Now all Attribute will be visible on the product page that belongs to these Attribute Families.
+الآن بعد إنشاء عائلة السمات الجديدة، يمكنك تعديلها من خلال **الإجراء**. أضف **السمات** المطلوبة لهذه العائلة بناءً على متطلباتك الخاصة. بعد ذلك، للتحقق من الإخراج أثناء عملية إنشاء المنتج، ستتمكن من رؤية عائلة السمات الجديدة. الآن ستكون جميع السمات مرئية في صفحة المنتج التي تنتمي إلى هذه العائلات.
 
-   ![Output](../../assets/2.2.0/images/attribute/output.png)
+![Output](../../assets/2.2.0/images/attribute/output.png)
 
-By following the above steps, you can easily create an Attribute Families in Bagisto2.2.0.
+باتباع الخطوات أعلاه، يمكنك بسهولة إنشاء عائلات السمات في Bagisto 2.2.0.

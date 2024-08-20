@@ -1,73 +1,73 @@
-# Themes 
+# القوالب
 
-The theme of the website is the overall look of it and that is why it plays a major role in creating the first impression on the viewer's mind.
+قالب الموقع هو المظهر العام له، ولهذا يلعب دورًا كبيرًا في إنشاء الانطباع الأول في ذهن المشاهد.
 
-The theme contains different options like slider section with different slider options, Product section, Footer option, right-sidebar, Logo resizer option, Button settings, Blog Settings, Site preloader option, Related option, Icon changer option, full-width-template, color options, widgets, sidebar layouts, header.
+يتضمن القالب خيارات مختلفة مثل قسم السلايدر مع خيارات سلايدر متنوعة، قسم المنتجات، خيار التذييل، الشريط الجانبي الأيمن، خيار تغيير حجم الشعار، إعدادات الأزرار، إعدادات المدونة، خيار تحميل الموقع مسبقًا، خيارات ذات صلة، خيار تغيير الأيقونات، قالب بعرض كامل، خيارات الألوان، الأدوات، تخطيطات الشريط الجانبي، والرأس.
 
-The theme_customizations table now supports customizations for multiple themes and multiple channels. This enhancement allows you to define different customizations for each theme and channel combination, providing greater flexibility and control over your application's appearance.
+تدعم جدول تخصيص القوالب الآن التخصيصات لعدة قوالب وقنوات متعددة. تتيح هذه الميزة لك تعريف تخصيصات مختلفة لكل مجموعة من القوالب والقنوات، مما يوفر مرونة أكبر وتحكمًا أفضل في مظهر تطبيقك.
 
-Enhanced the theme customization section by adding a feature to filter attributes.
+تم تعزيز قسم تخصيص القوالب بإضافة ميزة لتصفية السمات.
 
-### Create Themes
+### إنشاء القوالب
 
-**Step 1:** It can be set on the admin panel by going to **Setting >> Themes**. Here you can create new role by clicking on the button **Create Theme** as shown in below image.
+**الخطوة 1:** يمكن ضبطه في لوحة الإدارة من خلال الانتقال إلى **الإعدادات >> القوالب**. هنا يمكنك إنشاء قالب جديد من خلال النقر على زر **إنشاء قالب** كما هو موضح في الصورة أدناه.
 
 ![Theme](../../assets/2.2.0/images/settings/createTheme.png)
 
-**Step 2:** Add the below fields.
+**الخطوة 2:** أضف الحقول التالية.
 
-**1.Name:-** Enter the Theme name
+**1. الاسم:** أدخل اسم القالب.
 
-**2.Sort Order:-** Enter the sort order.
+**2. ترتيب الفرز:** أدخل ترتيب الفرز.
 
-**3.Type:-** Select the Type from the dropdown according to your requirement.We have selected a product carousel in this
+**3. النوع:** اختر النوع من القائمة المنسدلة وفقًا لمتطلباتك. لقد اخترنا Carousel للمنتجات في هذا المثال.
 
-**4.Channels:-** Select the Channel.
+**4. القنوات:** اختر القناة.
 
-**5.Themes:-** Select the Theme.
+**5. القوالب:** اختر القالب.
 
-Now click on **Save Theme** button and you will get redirected to type which you just selected.
+الآن انقر على زر **حفظ القالب** وستتم إعادة توجيهك إلى النوع الذي اخترته للتو.
 
 ![Save Theme](../../assets/2.2.0/images/settings/saveTheme.png)
 
-### Product Carousel 
+### Carousel للمنتجات
 
-**Step 3:** Add the below fields.
+**الخطوة 3:** أضف الحقول التالية.
 
-**1.Title:-** Add the title of the product carousel.
+**1. العنوان:** أضف عنوان Carousel للمنتجات.
 
-**2.Sort Order:-** Add the sort order.
+**2. ترتيب الفرز:** أضف ترتيب الفرز.
 
-**3.Limit:-** Add the limit of the product carousel.
+**3. الحد:** أضف الحد لCarousel للمنتجات.
 
 ![Product Carousel](../../assets/2.2.0/images/settings/productCarousel.png)
 
-### General
+### عام
 
-**1.Name:-** Add the Name.
+**1. الاسم:** أضف الاسم.
 
-**2.Sort Order:-** Add the sort order.
+**2. ترتيب الفرز:** أضف ترتيب الفرز.
 
-**3.Channels:-** Select the Channel.
+**3. القنوات:** اختر القناة.
 
-**4.Themes** Select the themes.
+**4. القوالب:** اختر القوالب.
 
-**5.Status** Enable the Status.
+**5. الحالة:** قم بتمكين الحالة.
 
 ![General Theme](../../assets/2.2.0/images/settings/generalTheme.png)
 
-### Filters
+### المرشحات
 
-**1.Key:-** Add the Key.
+**1. المفتاح:** أضف المفتاح.
 
-**2.Value:-** Add the Value 
+**2. القيمة:** أضف القيمة.
 
 ![Filters](../../assets/2.2.0/images/settings/filters.png)
 
-Now click on **Save** button.
+الآن انقر على زر **حفظ**.
 
-**Step 4:** Now you will able to see the new **Field** added in product_carousel by the name of **New Theme** as shown below.
+**الخطوة 4:** الآن ستتمكن من رؤية **الحقل** الجديد المضاف في Carousel للمنتجات باسم **القالب الجديد** كما هو موضح أدناه.
 
 ![Theme Output](../../assets/2.2.0/images/settings/themeOutput.png)
 
-So by this you can add a Theme Content in  Bagisto.
+بهذا يمكنك إضافة محتوى قالب في Bagisto.

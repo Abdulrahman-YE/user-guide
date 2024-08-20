@@ -1,49 +1,44 @@
-# Taxes
+# الضرائب
 
-In e-commerce, there are various taxes involved while purchasing the product. These taxes and rates of taxes differ from country to country. Here we have explained how you can create and manage taxes in Bagisto.
+في التجارة الإلكترونية، توجد ضرائب مختلفة تتعلق بشراء المنتج. تختلف هذه الضرائب ومعدلاتها من بلد لآخر. هنا سنشرح كيف يمكنك إنشاء وإدارة الضرائب في Bagisto.
 
-## Tax Rate
+## معدل الضريبة
 
-**Step 1:-** It can be set on the admin panel click on **Setting >> Taxes >> Tax Rates >> Create Tax Rate** as shown in the below image.
+**الخطوة 1:** يمكن ضبطه في لوحة الإدارة من خلال النقر على **الإعدادات >> الضرائب >> معدلات الضريبة >> إنشاء معدل ضريبة** كما هو موضح في الصورة أدناه.
 
 ![Tax Rate](../../assets/2.2.0/images/settings/taxRate.png)
+**الخطوة 2:** أدخل **المعرف، الدولة، الولاية، الرمز البريدي، ومعدل الضريبة**.
 
-**Step 2:-** Enter the **Identifier, Country, State, Zip Code, and Tax Rate**
-
-**Note:-** You can also set the zip range area so that tax will be applied only within this zip range then click on **Save Tax Rate.**   
+**ملاحظة:** يمكنك أيضًا تعيين نطاق الرمز البريدي بحيث يتم تطبيق الضريبة فقط ضمن هذا النطاق، ثم انقر على **حفظ معدل الضريبة**.
 
 ![Save Tax Rate](../../assets/2.2.0/images/settings/savetaxRate.png)
+## فئات الضرائب
 
-## Tax Categories
+**الخطوة 1:** لإنشاء فئات الضرائب، انقر على **فئات الضرائب**.
 
-**Step 1:-** To Create Tax Categories click on **Tax Categories** 
+### أضف الحقول التالية
 
-### Add the Below Fields
+**1. الرمز:** أدخل رمزًا فريدًا لفئة الضريبة.
 
-**1.Code:-** Enter Unique code of the tax category.
+**2. الاسم:** أدخل اسم فئة الضريبة.
 
-**2.Name:-** Enter the name of the tax category.
+**3. الوصف:** أدخل وصف فئة الضريبة.
 
-**3.Description:-** Enter the description of the tax category.
+**4. معدل الضريبة:** أدخل معدل الضريبة.
 
-**3.Tax Rate:-** Enter the Tax Rate.
-
-Click on **Save Tax Category** button.
+انقر على زر **حفظ فئة الضريبة**.
 
 ![Save Category](../../assets/2.2.0/images/settings/saveCategory.png)
-
-**Step 3:-** Set the Tax Category while creating a product
+**الخطوة 3:** قم بتعيين فئة الضريبة عند إنشاء منتج.
 
 ![Product Category](../../assets/2.2.0/images/settings/productCategory.png)
+### الواجهة الأمامية:
 
-### Front End:-
+أدخل عنوان الفواتير أو إذا كان لديك حساب، انقر على تسجيل الدخول ثم **استمر**.
 
-Enter the Billing Address or if you have the account click on sign in and then **Continue**.
-
-Select the **Shipping** and **Payment** method and **Continue**.
+اختر طريقة **الشحن** و**الدفع** ثم **استمر**.
 
 ![Tax Front](../../assets/2.2.0/images/settings/taxFront.png)
+ستظهر الضريبة في الواجهة الأمامية، انقر على "تقديم الطلب". هنا قمنا بتعيين ضريبة بنسبة 20%، لذا ستطبق الضريبة على سعر المنتج.
 
-A tax will appear on the front end, click on Place Order, Here we set the 20% tax so the tax will be applied to the product price.
-
-So by this you can easily create **Taxes** in Bagisto.
+بهذا يمكنك بسهولة إنشاء **ضرائب** في Bagisto.

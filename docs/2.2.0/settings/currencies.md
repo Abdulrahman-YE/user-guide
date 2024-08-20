@@ -1,41 +1,41 @@
-# Currencies
+# العملات
 
-Before launching your eCommerce website you need to set up the currency in which you will doing your business. Currency symbol will be visible in product prices, order, invoices, transactions etc. Here we have mentioned steps on how to add currency in bagisto.
+قبل إطلاق موقع التجارة الإلكترونية الخاص بك، تحتاج إلى إعداد العملة التي ستقوم بالتعامل بها. سيكون رمز العملة مرئيًا في أسعار المنتجات، الطلبات، الفواتير، المعاملات، إلخ. هنا ذكرنا خطوات كيفية إضافة العملة في Bagisto.
 
-### Add Currency in Bagisto
+### إضافة عملة في Bagisto
 
-**Step 1:** On the Admin panel of Bagisto go to **Setting >> Currencies >> Create Currency** as shown in below image.
+**الخطوة 1:** في لوحة التحكم الخاصة بـ Bagisto، انتقل إلى **الإعدادات >> العملات >> إنشاء عملة** كما هو موضح في الصورة أدناه.
 
 ![Currency](../../assets/2.2.0/images/settings/createCurrency.png)
 
-**Step 2:** Now Enter the below details 
+**الخطوة 2:** الآن أدخل التفاصيل أدناه
 
-**1) Code-** Code of the currency.
+**1) الرمز -** رمز العملة.
 
-**2) Name-** Name of the currecy. 
+**2) الاسم -** اسم العملة.
 
-**3) Symbol-** Symbol of the currency.
+**3) الرمز -** رمز العملة.
 
-**4) Decimal-** Decimal of the currency
+**4) الفاصلة العشرية -** الفاصلة العشرية للعملة.
 
-**5) Group Seprator-** It helps to separate the currency by ",". For example - 2,50,000
+**5) فاصل المجموعة -** يساعد على فصل العملة بواسطة ",". على سبيل المثال - 2,50,000
 
-**6) Decimal Separator-** It helps to separate decimal values.  For example, if you enter 3 decimal values then the currency will be 200.000
+**6) فاصل الفاصلة العشرية -** يساعد على فصل القيم العشرية. على سبيل المثال، إذا أدخلت 3 قيم عشرية، ستكون العملة 200.000
 
-**7) Position-** It helps to position the currency left, right etc. 
+**7) الموضع -** يساعد على تحديد موضع العملة يسارًا أو يمينًا، إلخ.
 
 ![Save Currency](../../assets/2.2.0/images/settings/saveCurrency.png)
 
-**Step 3:** Now you will able to see the new **Currency** by the name of **Dirham** as shown below.
+**الخطوة 3:** الآن ستتمكن من رؤية **عملة** جديدة باسم **درهم** كما هو موضح أدناه.
 
 ![New Currency](../../assets/2.2.0/images/settings/newCurrency.png)
 
-### Channel Setting For Currency
+### إعداد القناة للعملة
 
-On the admin panel open **Settings >> Channels** you will able to see Currency section and you new currency right there.
+في لوحة الإدارة، افتح **الإعدادات >> القنوات**، وسترى قسم العملات والعملتك الجديدة هناك.
 
-Once the channel setting has been done click on **Save Channel** as shown in below image.
+بمجرد الانتهاء من إعداد القناة، انقر على **حفظ القناة** كما هو موضح في الصورة أدناه.
 
 ![Currency Channel](../../assets/2.2.0/images/settings/currencyChannel.png)
 
-So by this you can easily create a **Currency** in Bagisto. 
+لذا، يمكنك بسهولة إنشاء **عملة** في Bagisto.
