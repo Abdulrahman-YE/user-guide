@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/',
+    base: '/user-guide/',
     port: '8080',
     cache: false,
     title: 'دليل مستخدم Bagisto',
@@ -8,17 +8,17 @@ module.exports = {
         ['link', { rel: "icon", type: "image/png", href: "/favicon.ico" }],
         ['script', { src: 'https://vikastiwari-webkul.github.io/ai-chatbot/chatbot.js', async: true}]
     ],
+
     themeConfig: {
         smoothScroll: true,
         lastUpdated: 'آخر تحديث',
-        repo: 'bagisto/bagisto',
+        repo: 'Abdulrahman-YE/user-guide',
         repoLabel: 'ساهم في Bagisto',
         docsRepo: 'bagisto/bagisto-docs',
         docsDir: 'docs',
         docsBranch: 'master',
         editLinks: true,
         editLinkText: 'ساعدنا في تحسين هذه الصفحة على Github.',
-
         logo: '/logo.png',
         nav: [
             { text: 'الرئيسية', link: '/' },
